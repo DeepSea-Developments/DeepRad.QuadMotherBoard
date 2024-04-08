@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=A1_P Pin=U2D-40
+Removed Pin From Net: NetName=A1_N Pin=U2D-41
+Added Pin To Net: NetName=A1_N Pin=C2-2
+Added Pin To Net: NetName=A1_P Pin=C3-2
+Added Pin To Net: NetName=A1_N Pin=R1-1
+Added Pin To Net: NetName=A1_P Pin=R2-1
+Added Pin To Net: NetName=NetIC2_16 Pin=IC2-16
+Added Net: Name=NetIC2_16
+Added Pin To Net: NetName=NetIC2_17 Pin=IC2-17
+Added Net: Name=NetIC2_17
+Added Pin To Net: NetName=NetIC2_65 Pin=IC2-65
+Added Net: Name=NetIC2_65
+Added Pin To Net: NetName=NetIC2_66 Pin=IC2-66
+Added Net: Name=NetIC2_66
+Added Pin To Net: NetName=NetIC2_74 Pin=IC2-74
+Added Net: Name=NetIC2_74
+Added Pin To Net: NetName=NetIC2_75 Pin=IC2-75
+Added Net: Name=NetIC2_75
+Added Pin To Net: NetName=NetU2A_40 Pin=U2A-40
+Added Net: Name=NetU2A_40
+Added Pin To Net: NetName=NetU2A_41 Pin=U2A-41
+Added Net: Name=NetU2A_41
+Added Pin To Net: NetName=NetU2B_40 Pin=U2B-40
+Added Net: Name=NetU2B_40
+Added Pin To Net: NetName=NetU2B_41 Pin=U2B-41
+Added Net: Name=NetU2B_41
+Added Pin To Net: NetName=NetU2C_40 Pin=U2C-40
+Added Net: Name=NetU2C_40
+Added Pin To Net: NetName=NetU2C_41 Pin=U2C-41
+Added Net: Name=NetU2C_41
+Added Pin To Net: NetName=NetU2D_40 Pin=U2D-40
+Added Net: Name=NetU2D_40
+Added Pin To Net: NetName=NetU2D_41 Pin=U2D-41
+Added Net: Name=NetU2D_41
+Added Member To Class: ClassName=RF Member=Wire NetC1A_1
+Added Member To Class: ClassName=RF Member=Wire NetC1A_2
+Added Member To Class: ClassName=RF Member=Wire NetC1C_1
+Added Member To Class: ClassName=RF Member=Wire NetC1C_2

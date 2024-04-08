@@ -1,0 +1,50 @@
+Add Component: Footprint Not Found DIO_BAV99
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found INDC1006X60N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC2518X200N
+Add Component: Footprint Not Found 36903205S
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1A-3
+Add Pin To Net: Unknown Pin: Pin FB1A-1
+Add Pin To Net: Unknown Pin: Pin FB1A-2
+Add Pin To Net: Unknown Pin: Pin FB2A-1
+Add Pin To Net: Unknown Pin: Pin FB2A-2
+Add Pin To Net: Unknown Pin: Pin FB3A-1
+Add Pin To Net: Unknown Pin: Pin FB3A-2
+Add Pin To Net: Unknown Pin: Pin FB4A-1
+Add Pin To Net: Unknown Pin: Pin FB4A-2
+Add Pin To Net: Unknown Pin: Pin FB5A-1
+Add Pin To Net: Unknown Pin: Pin FB5A-2
+Add Pin To Net: Unknown Pin: Pin FB6A-1
+Add Pin To Net: Unknown Pin: Pin FB6A-2
+Add Pin To Net: Unknown Pin: Pin L1A-1
+Add Pin To Net: Unknown Pin: Pin L1A-2
+Add Pin To Net: Unknown Pin: Pin L2A-1
+Add Pin To Net: Unknown Pin: Pin L2A-2
+Add Pin To Net: Unknown Pin: Pin L3A-1
+Add Pin To Net: Unknown Pin: Pin L3A-2
+Add Pin To Net: Unknown Pin: Pin L4A-1
+Add Pin To Net: Unknown Pin: Pin L4A-2
+Add Pin To Net: Unknown Pin: Pin MP1A-1
+Add Class Member: Failed to add class member : Component D1A (D1) BAV99
+Add Class Member: Failed to add class member : Component FB1A (FB1) 10Ohm
+Add Class Member: Failed to add class member : Component FB2A (FB2) 10Ohm
+Add Class Member: Failed to add class member : Component FB3A (FB3) 10Ohm
+Add Class Member: Failed to add class member : Component FB4A (FB4) 10Ohm
+Add Class Member: Failed to add class member : Component FB5A (FB5) 10Ohm
+Add Class Member: Failed to add class member : Component FB6A (FB6) 10Ohm
+Add Class Member: Failed to add class member : Component L1A (L1) 8.2nH
+Add Class Member: Failed to add class member : Component L2A (L2) 150nH
+Add Class Member: Failed to add class member : Component L3A (L3) 150nH
+Add Class Member: Failed to add class member : Component L4A (L4) 4.7uH
+Add Class Member: Failed to add class member : Component MP1A (MP1) 36903205S
+Added Room: Name=Designator1
+Added Room: Name=Designator2

@@ -1,0 +1,17 @@
+Added Component: Designator=IC3B(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/268/atmel_doc0180-1180509.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AT24C02N-10SU-2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC3B-1
+Added Pin To Net: NetName=GND Pin=IC3B-2
+Added Pin To Net: NetName=GND Pin=IC3B-3
+Added Pin To Net: NetName=GND Pin=IC3B-4
+Added Pin To Net: NetName=SDA-RTL2832UB Pin=IC3B-5
+Added Pin To Net: NetName=SCL-RTL2832UB Pin=IC3B-6
+Added Pin To Net: NetName=VDD3B Pin=IC3B-8
+Added Member To Class: ClassName=Designator2 Member=Component IC3B (IC3) AT24C02N-10SU-2.7

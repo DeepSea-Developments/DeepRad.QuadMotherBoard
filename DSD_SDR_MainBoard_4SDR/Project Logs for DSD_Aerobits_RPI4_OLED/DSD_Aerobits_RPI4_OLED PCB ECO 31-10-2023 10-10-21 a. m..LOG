@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetFB8_1 Pin=J5-1
+Removed Pin From Net: NetName=USBDP0_N Pin=J5-2
+Removed Pin From Net: NetName=USBDP0_P Pin=J5-3
+Removed Pin From Net: NetName=0SSTX_P Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=J5-5
+Removed Pin From Net: NetName=SSRX0_N Pin=J5-6
+Removed Pin From Net: NetName=0SSTX_N Pin=J5-7
+Removed Pin From Net: NetName=GND Pin=J5-9
+Removed Pin From Net: NetName=GND Pin=J5-Shell
+Removed Pin From Net: NetName=GND Pin=J5-Shell
+Added Component: Designator=J?(692141030100)
+Add component (AddParameter): Name = "Application"; Value = "USB 3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Input/Output Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/692141030100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/692141030100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "Type A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "692141030100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Stacked Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30V (AC)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0SSTX_N Pin=IC2-51
+Added Pin To Net: NetName=NetFB8_1 Pin=J?-A1
+Added Pin To Net: NetName=USBDP0_N Pin=J?-A2
+Added Pin To Net: NetName=USBDP0_P Pin=J?-A3
+Added Pin To Net: NetName=GND Pin=J?-A4
+Added Pin To Net: NetName=SSRX0_N Pin=J?-A5
+Added Pin To Net: NetName=0SSTX_N Pin=J?-A6
+Added Pin To Net: NetName=GND Pin=J?-A7
+Added Pin To Net: NetName=0SSTX_N Pin=J?-A8
+Added Pin To Net: NetName=0SSTX_P Pin=J?-A9
+Add Class: Class already exists: Designator
+Add Differential Pair: Number of nets in differential pair NetIC2_7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_8 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_16 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_17 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_65 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_66 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_74 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_75 is 1 instead of 2
+Added Room: Name=Designator1
+Added Room: Name=Designator2
+Added Room: Name=Designator3
+Added Room: Name=Designator4
+Added Room: Name=Designator
+Added Room: Name=Designator

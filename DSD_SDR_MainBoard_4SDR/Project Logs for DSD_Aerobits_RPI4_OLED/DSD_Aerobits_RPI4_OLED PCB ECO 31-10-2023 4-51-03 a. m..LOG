@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=+3V3_SDRA New Net Name=+3V3_SDR
+Added Member To Class: ClassName=RF Member=Wire NetC1A_1
+Added Member To Class: ClassName=RF Member=Wire NetC1A_2
+Added Room: Name=Designator2

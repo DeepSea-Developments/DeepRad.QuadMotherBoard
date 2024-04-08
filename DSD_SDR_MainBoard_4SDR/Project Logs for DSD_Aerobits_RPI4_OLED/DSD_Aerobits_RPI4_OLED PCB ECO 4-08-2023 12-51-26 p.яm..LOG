@@ -1,0 +1,20 @@
+Added Component: Designator=U7(QFN16)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "FTDI, Future"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FT230XQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-16 FTDI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FT230XQ/FTDI%2C%20Future%20Technology%20Devices%20International%20Ltd/view-part/214422/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC40_1 Pin=U7-1
+Added Pin To Net: NetName=UART0_TX Pin=U7-2
+Added Pin To Net: NetName=GNDAA Pin=U7-3
+Added Pin To Net: NetName=BOOT/CONFIG Pin=U7-5
+Added Pin To Net: NetName=NetR38_2 Pin=U7-6
+Added Pin To Net: NetName=NetR6_2 Pin=U7-7
+Added Pin To Net: NetName=NetC40_1 Pin=U7-8
+Added Pin To Net: NetName=NetC40_1 Pin=U7-9
+Added Pin To Net: NetName=VBUS Pin=U7-10
+Added Pin To Net: NetName=GNDAA Pin=U7-13
+Added Pin To Net: NetName=UART0_RX Pin=U7-15
+Added Pin To Net: NetName=GNDAA Pin=U7-17

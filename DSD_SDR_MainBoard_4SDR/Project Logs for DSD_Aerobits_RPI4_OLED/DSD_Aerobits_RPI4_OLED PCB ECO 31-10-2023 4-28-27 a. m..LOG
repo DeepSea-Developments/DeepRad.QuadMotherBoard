@@ -1,0 +1,182 @@
+Add Component: Footprint Not Found DIO_BAV99
+Added Component: Designator=FB1A(WE-CBA_0402_L1W0.5H0.5_HC)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "0.03Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "10Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "17Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "782423100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB2A(WE-CBA_0402_L1W0.5H0.5_HC)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "0.03Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "10Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "17Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "782423100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB3A(WE-CBA_0402_L1W0.5H0.5_HC)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "0.03Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "10Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "17Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "782423100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB4A(WE-CBA_0402_L1W0.5H0.5_HC)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "0.03Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "10Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "17Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "782423100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB5A(WE-CBA_0402_L1W0.5H0.5_HC)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "0.03Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "10Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "17Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "782423100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB6A(WE-CBA_0402_L1W0.5H0.5_HC)
+Add component (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782423100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "0.03Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "10Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "17Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "782423100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found INDC1006X60N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC2518X200N
+Add Component: Footprint Not Found 36903205S
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1A-3
+Added Pin To Net: NetName=+3V3_SDR Pin=FB1A-1
+Added Pin To Net: NetName=VDD3A Pin=FB1A-2
+Added Pin To Net: NetName=VDD3A Pin=FB2A-1
+Added Pin To Net: NetName=VDDA33A Pin=FB2A-2
+Added Pin To Net: NetName=VDD1A Pin=FB3A-1
+Added Pin To Net: NetName=VDDAA Pin=FB3A-2
+Added Pin To Net: NetName=VDD1A Pin=FB4A-1
+Added Pin To Net: NetName=VDD_PLLA Pin=FB4A-2
+Added Pin To Net: NetName=VDD1A Pin=FB5A-1
+Added Pin To Net: NetName=VDDLVA Pin=FB5A-2
+Added Pin To Net: NetName=+3V3_SDR Pin=FB6A-1
+Added Pin To Net: NetName=NetC28A_1 Pin=FB6A-2
+Add Pin To Net: Unknown Pin: Pin L1A-1
+Add Pin To Net: Unknown Pin: Pin L1A-2
+Add Pin To Net: Unknown Pin: Pin L2A-1
+Add Pin To Net: Unknown Pin: Pin L2A-2
+Add Pin To Net: Unknown Pin: Pin L3A-1
+Add Pin To Net: Unknown Pin: Pin L3A-2
+Add Pin To Net: Unknown Pin: Pin L4A-1
+Add Pin To Net: Unknown Pin: Pin L4A-2
+Add Pin To Net: Unknown Pin: Pin MP1A-1
+Add Class Member: Failed to add class member : Component D1A (D1) BAV99
+Added Member To Class: ClassName=Designator1 Member=Component FB1A (FB1) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB2A (FB2) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB3A (FB3) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB4A (FB4) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB5A (FB5) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB6A (FB6) 10Ohm
+Add Class Member: Failed to add class member : Component L1A (L1) 8.2nH
+Add Class Member: Failed to add class member : Component L2A (L2) 150nH
+Add Class Member: Failed to add class member : Component L3A (L3) 150nH
+Add Class Member: Failed to add class member : Component L4A (L4) 4.7uH
+Add Class Member: Failed to add class member : Component MP1A (MP1) 36903205S
+Added Room: Name=Designator1
+Added Room: Name=Designator2

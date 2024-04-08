@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=B1_P Pin=IC2A-16
+Removed Pin From Net: NetName=B1_N Pin=IC2A-17
+Removed Pin From Net: NetName=B1_P Pin=IC2A-65
+Removed Pin From Net: NetName=B1_N Pin=IC2A-66
+Removed Pin From Net: NetName=B1_P Pin=IC2A-74
+Removed Pin From Net: NetName=B1_N Pin=IC2A-75
+Removed Pin From Net: NetName=B1_P Pin=IC2B-7
+Removed Pin From Net: NetName=B1_N Pin=IC2B-8
+Removed Pin From Net: NetName=B1_P Pin=R36-2
+Removed Pin From Net: NetName=B1_N Pin=R37-2
+Removed Pin From Net: NetName=A1_P Pin=R41-1
+Removed Pin From Net: NetName=A1_N Pin=R42-1
+Removed Pin From Net: NetName=A1_P Pin=R43-1
+Removed Pin From Net: NetName=B1_P Pin=R43-2
+Removed Pin From Net: NetName=A1_N Pin=R44-1
+Removed Pin From Net: NetName=B1_N Pin=R44-2
+Removed Pin From Net: NetName=A1_P Pin=R45-1
+Removed Pin From Net: NetName=B1_P Pin=R45-2
+Removed Pin From Net: NetName=A1_N Pin=R46-1
+Removed Pin From Net: NetName=B1_N Pin=R46-2
+Removed Pin From Net: NetName=A1_P Pin=R47-1
+Removed Pin From Net: NetName=B1_P Pin=R47-2
+Removed Pin From Net: NetName=A1_N Pin=R48-1
+Removed Pin From Net: NetName=B1_N Pin=R48-2
+Removed Pin From Net: NetName=A1_P Pin=U2A-40
+Removed Pin From Net: NetName=A1_N Pin=U2A-41
+Removed Pin From Net: NetName=A1_P Pin=U2B-40
+Removed Pin From Net: NetName=A1_N Pin=U2B-41
+Removed Pin From Net: NetName=A1_P Pin=U2C-40
+Removed Pin From Net: NetName=A1_N Pin=U2C-41
+Removed Pin From Net: NetName=A1_P Pin=U2D-40
+Removed Pin From Net: NetName=A1_N Pin=U2D-41
+Change Net Name : Old Net Name=A1_N New Net Name=A5_N
+Change Net Name : Old Net Name=A1_P New Net Name=A5_P
+Added Pin To Net: NetName=A1_N Pin=R42-1
+Added Pin To Net: NetName=A1_N Pin=U2D-41
+Added Net: Name=A1_N
+Added Pin To Net: NetName=A1_P Pin=R41-1
+Added Pin To Net: NetName=A1_P Pin=U2D-40
+Added Net: Name=A1_P
+Added Pin To Net: NetName=A2_N Pin=R44-1
+Added Pin To Net: NetName=A2_N Pin=U2C-41
+Added Net: Name=A2_N
+Added Pin To Net: NetName=A2_P Pin=R43-1
+Added Pin To Net: NetName=A2_P Pin=U2C-40
+Added Net: Name=A2_P
+Added Pin To Net: NetName=A3_N Pin=R46-1
+Added Pin To Net: NetName=A3_N Pin=U2B-41
+Added Net: Name=A3_N
+Added Pin To Net: NetName=A3_P Pin=R45-1
+Added Pin To Net: NetName=A3_P Pin=U2B-40
+Added Net: Name=A3_P
+Added Pin To Net: NetName=A4_N Pin=R48-1
+Added Pin To Net: NetName=A4_N Pin=U2A-41
+Added Net: Name=A4_N
+Added Pin To Net: NetName=A4_P Pin=R47-1
+Added Pin To Net: NetName=A4_P Pin=U2A-40
+Added Net: Name=A4_P
+Added Pin To Net: NetName=B2_N Pin=IC2A-75
+Added Pin To Net: NetName=B2_N Pin=R44-2
+Added Net: Name=B2_N
+Added Pin To Net: NetName=B2_P Pin=IC2A-74
+Added Pin To Net: NetName=B2_P Pin=R43-2
+Added Net: Name=B2_P
+Added Pin To Net: NetName=B3_N Pin=IC2A-66
+Added Pin To Net: NetName=B3_N Pin=R46-2
+Added Net: Name=B3_N
+Added Pin To Net: NetName=B3_P Pin=IC2A-65
+Added Pin To Net: NetName=B3_P Pin=R45-2
+Added Net: Name=B3_P
+Added Pin To Net: NetName=B4_N Pin=IC2A-17
+Added Pin To Net: NetName=B4_N Pin=R48-2
+Added Net: Name=B4_N
+Added Pin To Net: NetName=B4_P Pin=IC2A-16
+Added Pin To Net: NetName=B4_P Pin=R47-2
+Added Net: Name=B4_P
+Added Pin To Net: NetName=B5_N Pin=IC2B-8
+Added Pin To Net: NetName=B5_N Pin=R37-2
+Added Net: Name=B5_N
+Added Pin To Net: NetName=B5_P Pin=IC2B-7
+Added Pin To Net: NetName=B5_P Pin=R36-2
+Added Net: Name=B5_P
+Added Differential Pair: Name=A2
+Added Differential Pair: Name=A3
+Added Differential Pair: Name=A4
+Added Differential Pair: Name=A5
+Added Differential Pair: Name=B2
+Added Differential Pair: Name=B3
+Added Differential Pair: Name=B4
+Added Differential Pair: Name=B5

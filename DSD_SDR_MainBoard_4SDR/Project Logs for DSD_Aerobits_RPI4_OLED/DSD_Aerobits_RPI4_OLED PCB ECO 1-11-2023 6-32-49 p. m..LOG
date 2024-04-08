@@ -1,0 +1,62 @@
+Removed Member From Class: ClassName=Designator1 Member=C46A
+Removed Member From Class: ClassName=Designator2 Member=C47B
+Removed Member From Class: ClassName=Designator1 Member=C48A
+Removed Member From Class: ClassName=Designator1 Member=C52A
+Removed Member From Class: ClassName=Designator1 Member=C56A
+Removed Member From Class: ClassName=Designator2 Member=C59B
+Removed Member From Class: ClassName=Designator2 Member=C63B
+Removed Member From Class: ClassName=Designator1 Member=C70A
+Removed Member From Class: ClassName=Designator2 Member=C73B
+Removed Member From Class: ClassName=Designator1 Member=C74A
+Removed Member From Class: ClassName=Designator2 Member=FB7B
+Removed Member From Class: ClassName=Designator1 Member=J5A
+Removed Member From Class: ClassName=Designator2 Member=R53B
+Added Member To Class: ClassName=Designator1 Member=Component C2A (C2) 2.2µF
+Added Member To Class: ClassName=Designator1 Member=Component C4A (C4) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C5B (C5) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C6A (C6) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C8A (C8) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C9B (C9) 4.7µF
+Added Member To Class: ClassName=Designator1 Member=Component C10A (C10) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C14A (C14) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C17B (C17) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C20A (C20) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C21B (C21) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C22A (C22) 18pF
+Added Member To Class: ClassName=Designator2 Member=Component C23B (C23) 18pF
+Added Member To Class: ClassName=Designator1 Member=Component C28A (C28) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C31B (C31) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C32A (C32) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component FB1B (FB1) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component IC1B (IC1) VL817-Q7_B0_
+Added Member To Class: ClassName=Designator1 Member=Component IC2A (IC2) SST25VF512A-33-4C-SAE
+Added Member To Class: ClassName=Designator1 Member=Component J1A (J1) 692122030100
+Added Member To Class: ClassName=Designator1 Member=Component LED4A (LED4) Green
+Added Member To Class: ClassName=Designator2 Member=Component R12B (R12) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R14A (R14) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R15A (R15) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R17B (R17) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R18B (R18) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R19A (R19) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R21A (R21) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R21B (R21) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R22A (R22) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R23A (R23) 4.7k
+Added Member To Class: ClassName=Designator2 Member=Component R23B (R23) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R24A (R24) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R24B (R24) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R25B (R25) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R26A (R26) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R26B (R26) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R27A (R27) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R28A (R28) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R28B (R28) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R29A (R29) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R30A (R30) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R30B (R30) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R31A (R31) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R32B (R32) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R33A (R33) 470
+Added Member To Class: ClassName=Designator2 Member=Component R33B (R33) 470
+Added Member To Class: ClassName=Designator1 Member=Component R34A (R34) 470
+Added Member To Class: ClassName=Designator2 Member=Component R35B (R35) 470

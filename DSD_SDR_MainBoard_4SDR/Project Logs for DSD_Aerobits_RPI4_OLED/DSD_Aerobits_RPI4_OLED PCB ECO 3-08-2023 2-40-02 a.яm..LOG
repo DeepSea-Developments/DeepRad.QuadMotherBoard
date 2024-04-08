@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SCL-RTL2832U Pin=R1-1
+Removed Pin From Net: NetName=SDA-RTL2832U Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=U?-1
+Removed Pin From Net: NetName=GND Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-3
+Removed Pin From Net: NetName=GND Pin=U?-4
+Removed Pin From Net: NetName=SDA-RTL2832U Pin=U?-5
+Removed Pin From Net: NetName=SCL-RTL2832U Pin=U?-6
+Removed Pin From Net: NetName=VDD3 Pin=U?-8
+Added Component: Designator=U2(SOIC8)
+Added Pin To Net: NetName=SDA-RTL2832U Pin=R1-1
+Added Pin To Net: NetName=SCL-RTL2832U Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=VDD3 Pin=U2-5
+Added Pin To Net: NetName=SCL-RTL2832U Pin=U2-7
+Added Pin To Net: NetName=SDA-RTL2832U Pin=U2-8
+Added Member To Class: ClassName=Designator Member=Component U2 24LC128

@@ -1,0 +1,374 @@
+Removed Pin From Net: NetName=+3V3_SDRD Pin=C50D-2
+Removed Pin From Net: NetName=+3V3_SDRD Pin=C53D-1
+Removed Pin From Net: NetName=+3V3_SDRD Pin=C62D-1
+Removed Pin From Net: NetName=+3V3_SDRD Pin=FB7D-1
+Removed Pin From Net: NetName=+3V3_SDRD Pin=FB?D-2
+Removed Pin From Net: NetName=+3V3_SDRD Pin=U3D-2
+Removed Pin From Net: NetName=+3V3_SDRD Pin=U3D-11
+Removed Pin From Net: NetName=+3V3_SDRD Pin=U3D-18
+Removed Pin From Net: NetName=+3V3_SDRD Pin=X1D-4
+Removed Member From Class: ClassName=RF Member=NetC34A_1
+Removed Member From Class: ClassName=RF Member=NetC34A_2
+Removed Member From Class: ClassName=RF Member=NetC34B_1
+Removed Member From Class: ClassName=RF Member=NetC34B_2
+Removed Member From Class: ClassName=RF Member=NetC34C_1
+Removed Member From Class: ClassName=RF Member=NetC34C_2
+Removed Member From Class: ClassName=RF Member=NetC34D_1
+Removed Member From Class: ClassName=RF Member=NetC34D_2
+Change Component Designator: OldDesignator=C34D NewDesignator=C34
+Change Component Designator: OldDesignator=C35D NewDesignator=C35
+Change Component Designator: OldDesignator=C36D NewDesignator=C36
+Change Component Designator: OldDesignator=C37D NewDesignator=C37
+Change Component Designator: OldDesignator=C38D NewDesignator=C38
+Change Component Designator: OldDesignator=C39D NewDesignator=C39
+Change Component Designator: OldDesignator=C40D NewDesignator=C40
+Change Component Designator: OldDesignator=C41D NewDesignator=C41
+Change Component Designator: OldDesignator=C42D NewDesignator=C42
+Change Component Designator: OldDesignator=C43D NewDesignator=C43
+Change Component Designator: OldDesignator=C44D NewDesignator=C44
+Change Component Designator: OldDesignator=C45D NewDesignator=C45
+Change Component Designator: OldDesignator=C46D NewDesignator=C46
+Change Component Designator: OldDesignator=C47D NewDesignator=C47
+Change Component Designator: OldDesignator=C48D NewDesignator=C48
+Change Component Designator: OldDesignator=C49D NewDesignator=C49
+Change Component Designator: OldDesignator=C50D NewDesignator=C50
+Change Component Designator: OldDesignator=C51D NewDesignator=C51
+Change Component Designator: OldDesignator=C52D NewDesignator=C52
+Change Component Designator: OldDesignator=C53D NewDesignator=C53
+Change Component Designator: OldDesignator=C54D NewDesignator=C54
+Change Component Designator: OldDesignator=C55D NewDesignator=C55
+Change Component Designator: OldDesignator=C56D NewDesignator=C56
+Change Component Designator: OldDesignator=C57D NewDesignator=C57
+Change Component Designator: OldDesignator=C58D NewDesignator=C58
+Change Component Designator: OldDesignator=C59D NewDesignator=C59
+Change Component Designator: OldDesignator=C60D NewDesignator=C60
+Change Component Designator: OldDesignator=C61D NewDesignator=C61
+Change Component Designator: OldDesignator=C62D NewDesignator=C62
+Change Component Designator: OldDesignator=C63D NewDesignator=C63
+Change Component Designator: OldDesignator=C64D NewDesignator=C64
+Change Component Designator: OldDesignator=C65D NewDesignator=C65
+Change Component Designator: OldDesignator=C66D NewDesignator=C66
+Change Component Designator: OldDesignator=C67D NewDesignator=C67
+Change Component Designator: OldDesignator=C68D NewDesignator=C68
+Change Component Designator: OldDesignator=D2D NewDesignator=D2
+Change Component Designator: OldDesignator=FB2D NewDesignator=FB2
+Change Component Designator: OldDesignator=FB3D NewDesignator=FB3
+Change Component Designator: OldDesignator=FB4D NewDesignator=FB4
+Change Component Designator: OldDesignator=FB5D NewDesignator=FB5
+Change Component Designator: OldDesignator=FB6D NewDesignator=FB6
+Change Component Designator: OldDesignator=FB7D NewDesignator=FB7
+Change Component Designator: OldDesignator=FB?D NewDesignator=FB?
+Change Component Designator: OldDesignator=IC3D NewDesignator=IC3
+Change Component Designator: OldDesignator=J4D NewDesignator=J4
+Change Component Designator: OldDesignator=L2D NewDesignator=L2
+Change Component Designator: OldDesignator=L3D NewDesignator=L3
+Change Component Designator: OldDesignator=L4D NewDesignator=L4
+Change Component Designator: OldDesignator=L5D NewDesignator=L5
+Change Component Designator: OldDesignator=MP1D NewDesignator=MP1
+Change Component Designator: OldDesignator=R38D NewDesignator=R38
+Change Component Designator: OldDesignator=R39D NewDesignator=R39
+Change Component Designator: OldDesignator=R40D NewDesignator=R40
+Change Component Designator: OldDesignator=R41D NewDesignator=R41
+Change Component Designator: OldDesignator=R42D NewDesignator=R42
+Change Component Designator: OldDesignator=R43D NewDesignator=R43
+Change Component Designator: OldDesignator=R44D NewDesignator=R44
+Change Component Designator: OldDesignator=R45D NewDesignator=R45
+Change Component Designator: OldDesignator=R46D NewDesignator=R46
+Change Component Designator: OldDesignator=R47D NewDesignator=R47
+Change Component Designator: OldDesignator=R48D NewDesignator=R48
+Change Component Designator: OldDesignator=U1D NewDesignator=U1
+Change Component Designator: OldDesignator=U2D NewDesignator=U2
+Change Component Designator: OldDesignator=U3D NewDesignator=U3
+Change Component Designator: OldDesignator=X1D NewDesignator=X1
+Added Component: Designator=C?(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=R29(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R30(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R31(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R32(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R33(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R34(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC44D_2 Pin=C50-2
+Added Pin To Net: NetName=NetC44D_2 Pin=C53-1
+Added Pin To Net: NetName=NetC44D_2 Pin=C62-1
+Added Pin To Net: NetName=VDD3D Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC44D_2 Pin=FB7-1
+Added Pin To Net: NetName=VDD3D Pin=FB?-2
+Added Pin To Net: NetName=A2_P Pin=R29-1
+Added Pin To Net: NetName=B2_P Pin=R29-2
+Added Pin To Net: NetName=A2_N Pin=R30-1
+Added Pin To Net: NetName=B2_N Pin=R30-2
+Added Pin To Net: NetName=A3_P Pin=R31-1
+Added Pin To Net: NetName=B3_P Pin=R31-2
+Added Pin To Net: NetName=A3_N Pin=R32-1
+Added Pin To Net: NetName=B3_N Pin=R32-2
+Added Pin To Net: NetName=A4_P Pin=R33-1
+Added Pin To Net: NetName=B4_P Pin=R33-2
+Added Pin To Net: NetName=A4_N Pin=R34-1
+Added Pin To Net: NetName=B4_N Pin=R34-2
+Added Pin To Net: NetName=NetC44D_2 Pin=U3-2
+Added Pin To Net: NetName=NetC44D_2 Pin=U3-11
+Added Pin To Net: NetName=NetC44D_2 Pin=U3-18
+Added Pin To Net: NetName=NetC44D_2 Pin=X1-4
+Change Net Name : Old Net Name=+3V3_SDRD New Net Name=+3V3_SDR
+Change Net Name : Old Net Name=CLKD New Net Name=CLK
+Change Net Name : Old Net Name=IF+D New Net Name=IF+
+Change Net Name : Old Net Name=IF-D New Net Name=IF-
+Change Net Name : Old Net Name=IF_AGCD New Net Name=IF_AGC
+Change Net Name : Old Net Name=IFAGCD New Net Name=IFAGC
+Change Net Name : Old Net Name=NetC34D_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetC34D_2 New Net Name=NetC34_2
+Change Net Name : Old Net Name=NetC43D_2 New Net Name=NetC43_2
+Change Net Name : Old Net Name=NetC44D_2 New Net Name=+3V3_R820
+Change Net Name : Old Net Name=NetC45D_1 New Net Name=NetC45_1
+Change Net Name : Old Net Name=NetC48D_2 New Net Name=NetC48_2
+Change Net Name : Old Net Name=NetC49D_1 New Net Name=NetC49_1
+Change Net Name : Old Net Name=NetC51D_2 New Net Name=NetC51_2
+Change Net Name : Old Net Name=NetC54D_1 New Net Name=NetC54_1
+Change Net Name : Old Net Name=NetC56D_1 New Net Name=NetC56_1
+Change Net Name : Old Net Name=NetC57D_1 New Net Name=NetC57_1
+Change Net Name : Old Net Name=NetC60D_2 New Net Name=NetC60_2
+Change Net Name : Old Net Name=NetC61D_1 New Net Name=NetC61_1
+Change Net Name : Old Net Name=NetC67D_1 New Net Name=NetC67_1
+Change Net Name : Old Net Name=NetC68D_1 New Net Name=NetC68_1
+Change Net Name : Old Net Name=NetL3D_1 New Net Name=NetL3_1
+Change Net Name : Old Net Name=NetL3D_2 New Net Name=NetL3_2
+Change Net Name : Old Net Name=NetL4D_1 New Net Name=NetL4_1
+Change Net Name : Old Net Name=NetL4D_2 New Net Name=NetL4_2
+Change Net Name : Old Net Name=NetL5D_1 New Net Name=NetL5_1
+Change Net Name : Old Net Name=NetR38D_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR42D_2 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetR47D_2 New Net Name=NetR47_2
+Change Net Name : Old Net Name=NetR48D_2 New Net Name=NetR48_2
+Change Net Name : Old Net Name=RFIND New Net Name=RFIN
+Change Net Name : Old Net Name=SCL-RTL2832UD New Net Name=SCL-RTL2832U
+Change Net Name : Old Net Name=SCLKD New Net Name=SCLK
+Change Net Name : Old Net Name=SDA-RTL2832UD New Net Name=SDA-RTL2832U
+Change Net Name : Old Net Name=SDATD New Net Name=SDAT
+Change Net Name : Old Net Name=VDD1D New Net Name=VDD1
+Change Net Name : Old Net Name=VDD3D New Net Name=VDD3
+Change Net Name : Old Net Name=VDD_PLLD New Net Name=VDD_PLL
+Change Net Name : Old Net Name=VDDAD New Net Name=VDDA
+Change Net Name : Old Net Name=VDDLVD New Net Name=VDDLV
+Added Pin To Net: NetName=VDDA33 Pin=C?-1
+Added Pin To Net: NetName=VDDA33 Pin=FB3-2
+Added Pin To Net: NetName=VDDA33 Pin=U2-43
+Added Net: Name=VDDA33
+Added Member To Class: ClassName=RF Member=Wire NetC34_1
+Added Member To Class: ClassName=RF Member=Wire NetC34_2
+Added Room: Name=Designator1
+Added Room: Name=Designator2

@@ -1,0 +1,141 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R9
+Change Component Designator: OldDesignator=R2 NewDesignator=R10
+Change Component Designator: OldDesignator=R3 NewDesignator=R11
+Change Component Designator: OldDesignator=R4 NewDesignator=R12
+Change Component Designator: OldDesignator=R5 NewDesignator=R13
+Change Component Designator: OldDesignator=R6 NewDesignator=R14
+Change Component Designator: OldDesignator=R7 NewDesignator=R15
+Change Component Designator: OldDesignator=R8 NewDesignator=R16
+Change Component Designator: OldDesignator=R9 NewDesignator=R17
+Change Component Designator: OldDesignator=R10 NewDesignator=R18
+Change Component Designator: OldDesignator=R11 NewDesignator=R19
+Change Component Designator: OldDesignator=R12 NewDesignator=R20
+Change Component Designator: OldDesignator=R13 NewDesignator=R21
+Change Component Designator: OldDesignator=R14 NewDesignator=R22
+Change Component Designator: OldDesignator=R15 NewDesignator=R23
+Change Component Designator: OldDesignator=R16 NewDesignator=R24
+Change Component Designator: OldDesignator=R17A NewDesignator=R25A
+Change Component Designator: OldDesignator=R17B NewDesignator=R25B
+Change Component Designator: OldDesignator=R17C NewDesignator=R25C
+Change Component Designator: OldDesignator=R17D NewDesignator=R25D
+Change Component Designator: OldDesignator=R18A NewDesignator=R26A
+Change Component Designator: OldDesignator=R18B NewDesignator=R26B
+Change Component Designator: OldDesignator=R18C NewDesignator=R26C
+Change Component Designator: OldDesignator=R18D NewDesignator=R26D
+Change Component Designator: OldDesignator=R19A NewDesignator=R27A
+Change Component Designator: OldDesignator=R19B NewDesignator=R27B
+Change Component Designator: OldDesignator=R19C NewDesignator=R27C
+Change Component Designator: OldDesignator=R19D NewDesignator=R27D
+Change Component Designator: OldDesignator=R20A NewDesignator=R28A
+Change Component Designator: OldDesignator=R20B NewDesignator=R28B
+Change Component Designator: OldDesignator=R20C NewDesignator=R28C
+Change Component Designator: OldDesignator=R20D NewDesignator=R28D
+Change Component Designator: OldDesignator=R21A NewDesignator=R29A
+Change Component Designator: OldDesignator=R21B NewDesignator=R29B
+Change Component Designator: OldDesignator=R21C NewDesignator=R29C
+Change Component Designator: OldDesignator=R21D NewDesignator=R29D
+Change Component Designator: OldDesignator=R22A NewDesignator=R30A
+Change Component Designator: OldDesignator=R22B NewDesignator=R30B
+Change Component Designator: OldDesignator=R22C NewDesignator=R30C
+Change Component Designator: OldDesignator=R22D NewDesignator=R30D
+Change Component Designator: OldDesignator=R23A NewDesignator=R31A
+Change Component Designator: OldDesignator=R23B NewDesignator=R31B
+Change Component Designator: OldDesignator=R23C NewDesignator=R31C
+Change Component Designator: OldDesignator=R23D NewDesignator=R31D
+Change Component Designator: OldDesignator=R24A NewDesignator=R32A
+Change Component Designator: OldDesignator=R24B NewDesignator=R32B
+Change Component Designator: OldDesignator=R24C NewDesignator=R32C
+Change Component Designator: OldDesignator=R24D NewDesignator=R32D
+Change Component Designator: OldDesignator=R25A NewDesignator=R33A
+Change Component Designator: OldDesignator=R25B NewDesignator=R33B
+Change Component Designator: OldDesignator=R25C NewDesignator=R33C
+Change Component Designator: OldDesignator=R25D NewDesignator=R33D
+Change Component Designator: OldDesignator=R26A NewDesignator=R34A
+Change Component Designator: OldDesignator=R26B NewDesignator=R34B
+Change Component Designator: OldDesignator=R26C NewDesignator=R34C
+Change Component Designator: OldDesignator=R26D NewDesignator=R34D
+Change Component Designator: OldDesignator=R27A NewDesignator=R35A
+Change Component Designator: OldDesignator=R27B NewDesignator=R35B
+Change Component Designator: OldDesignator=R27C NewDesignator=R35C
+Change Component Designator: OldDesignator=R27D NewDesignator=R35D
+Change Component Designator: OldDesignator=R28A NewDesignator=R36A
+Change Component Designator: OldDesignator=R28B NewDesignator=R36B
+Change Component Designator: OldDesignator=R28C NewDesignator=R36C
+Change Component Designator: OldDesignator=R28D NewDesignator=R36D
+Change Component Designator: OldDesignator=R29A NewDesignator=R37A
+Change Component Designator: OldDesignator=R29B NewDesignator=R37B
+Change Component Designator: OldDesignator=R29C NewDesignator=R37C
+Change Component Designator: OldDesignator=R29D NewDesignator=R37D
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR19A_2 New Net Name=NetR27A_2
+Change Net Name : Old Net Name=NetR19B_2 New Net Name=NetR27B_2
+Change Net Name : Old Net Name=NetR19C_2 New Net Name=NetR27C_2
+Change Net Name : Old Net Name=NetR19D_2 New Net Name=NetR27D_2
+Change Net Name : Old Net Name=NetR22A_2 New Net Name=NetR30A_2
+Change Net Name : Old Net Name=NetR22B_2 New Net Name=NetR30B_2
+Change Net Name : Old Net Name=NetR22C_2 New Net Name=NetR30C_2
+Change Net Name : Old Net Name=NetR22D_2 New Net Name=NetR30D_2
+Change Net Name : Old Net Name=NetR23A_1 New Net Name=NetR31A_1
+Change Net Name : Old Net Name=NetR23B_1 New Net Name=NetR31B_1
+Change Net Name : Old Net Name=NetR23C_1 New Net Name=NetR31C_1
+Change Net Name : Old Net Name=NetR23D_1 New Net Name=NetR31D_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U5C-40
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U5C-41
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Net: Name=NetU2_3
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Net: Name=NetU2_4
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Net: Name=NetU2_6
+Added Pin To Net: NetName=NetU2_7 Pin=U2-7
+Added Net: Name=NetU2_7
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Net: Name=NetU2_8
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU5A_40 Pin=U5A-40
+Added Net: Name=NetU5A_40
+Added Pin To Net: NetName=NetU5A_41 Pin=U5A-41
+Added Net: Name=NetU5A_41
+Added Pin To Net: NetName=NetU5B_40 Pin=U5B-40
+Added Net: Name=NetU5B_40
+Added Pin To Net: NetName=NetU5B_41 Pin=U5B-41
+Added Net: Name=NetU5B_41
+Added Pin To Net: NetName=NetU5D_40 Pin=U5D-40
+Added Net: Name=NetU5D_40
+Added Pin To Net: NetName=NetU5D_41 Pin=U5D-41
+Added Net: Name=NetU5D_41
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R1 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R2 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R3 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R5 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R7 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R8 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R9 0.0

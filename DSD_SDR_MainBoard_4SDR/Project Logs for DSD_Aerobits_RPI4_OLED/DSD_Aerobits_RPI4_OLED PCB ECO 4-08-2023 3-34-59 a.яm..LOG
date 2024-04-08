@@ -1,0 +1,77 @@
+Removed Member From Class: ClassName=Designator2 Member=C11B
+Removed Member From Class: ClassName=Designator2 Member=C12B
+Removed Member From Class: ClassName=Designator2 Member=C13B
+Removed Member From Class: ClassName=Designator2 Member=C14B
+Removed Member From Class: ClassName=Designator2 Member=C15B
+Removed Member From Class: ClassName=Designator2 Member=C16B
+Removed Member From Class: ClassName=Designator2 Member=C17B
+Removed Member From Class: ClassName=Designator2 Member=C18B
+Removed Member From Class: ClassName=Designator2 Member=C19B
+Removed Member From Class: ClassName=Designator2 Member=C20B
+Removed Member From Class: ClassName=Designator2 Member=C21B
+Removed Member From Class: ClassName=Designator2 Member=C22B
+Removed Member From Class: ClassName=Designator2 Member=C23B
+Removed Member From Class: ClassName=Designator2 Member=C24B
+Removed Member From Class: ClassName=Designator2 Member=C25B
+Removed Member From Class: ClassName=Designator2 Member=C26B
+Removed Member From Class: ClassName=Designator2 Member=C27B
+Removed Member From Class: ClassName=Designator2 Member=C28B
+Removed Member From Class: ClassName=Designator2 Member=C29B
+Removed Member From Class: ClassName=Designator2 Member=C30B
+Removed Member From Class: ClassName=Designator2 Member=C31B
+Removed Member From Class: ClassName=Designator2 Member=C32B
+Removed Member From Class: ClassName=Designator2 Member=C33B
+Removed Member From Class: ClassName=Designator2 Member=C34B
+Removed Member From Class: ClassName=Designator2 Member=C35B
+Removed Member From Class: ClassName=Designator2 Member=C36B
+Removed Member From Class: ClassName=Designator2 Member=C37B
+Removed Member From Class: ClassName=Designator2 Member=D1B
+Removed Member From Class: ClassName=Designator2 Member=FB2B
+Removed Member From Class: ClassName=Designator2 Member=FB3B
+Removed Member From Class: ClassName=Designator2 Member=FB4B
+Removed Member From Class: ClassName=Designator2 Member=J*1B
+Removed Member From Class: ClassName=Designator2 Member=L1B
+Removed Member From Class: ClassName=Designator2 Member=L2B
+Removed Member From Class: ClassName=Designator2 Member=L3B
+Removed Member From Class: ClassName=Designator2 Member=L4B
+Removed Member From Class: ClassName=Designator2 Member=R25B
+Removed Member From Class: ClassName=Designator2 Member=R26B
+Removed Member From Class: ClassName=Designator2 Member=R27B
+Removed Member From Class: ClassName=Designator2 Member=R28B
+Removed Member From Class: ClassName=Designator2 Member=R29B
+Removed Member From Class: ClassName=Designator2 Member=R30B
+Removed Member From Class: ClassName=Designator2 Member=R31B
+Removed Member From Class: ClassName=Designator2 Member=R32B
+Removed Member From Class: ClassName=Designator2 Member=R33B
+Removed Member From Class: ClassName=Designator2 Member=R34B
+Removed Member From Class: ClassName=Designator2 Member=R35B
+Removed Member From Class: ClassName=Designator2 Member=R36B
+Removed Member From Class: ClassName=Designator2 Member=R37B
+Removed Member From Class: ClassName=Designator2 Member=U4B
+Removed Member From Class: ClassName=Designator2 Member=U5B
+Removed Member From Class: ClassName=Designator2 Member=U6B
+Removed Member From Class: ClassName=Designator2 Member=Y2B
+Added Member To Class: ClassName=Designator2 Member=Component C2B (C2) 1µF
+Added Member To Class: ClassName=Designator2 Member=Component C3B (C3) 1µF
+Added Member To Class: ClassName=Designator2 Member=Component C4B (C4) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C5B (C5) 1µF
+Added Member To Class: ClassName=Designator2 Member=Component C6B (C6) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C7B (C7) 12pF
+Added Member To Class: ClassName=Designator2 Member=Component C8B (C8) 12pF
+Added Member To Class: ClassName=Designator2 Member=Component LED5B (LED5) Green
+Added Member To Class: ClassName=Designator2 Member=Component R13B (R13) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R14B (R14) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R15B (R15) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R16B (R16) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R17B (R17) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R18B (R18) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R19B (R19) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R20B (R20) 1k
+Added Member To Class: ClassName=Designator2 Member=Component R21B (R21) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R22B (R22) 1k
+Added Member To Class: ClassName=Designator2 Member=Component R23B (R23) 12k
+Added Member To Class: ClassName=Designator2 Member=Component R24B (R24) 1M
+Added Member To Class: ClassName=Designator2 Member=Component U2B (U2) USB2514B-I/M2
+Added Member To Class: ClassName=Designator2 Member=Component Y1B (Y1) ECS-240-12-37B-CKY-TR
+Added Room: Name=Designator1
+Added Room: Name=Designator2

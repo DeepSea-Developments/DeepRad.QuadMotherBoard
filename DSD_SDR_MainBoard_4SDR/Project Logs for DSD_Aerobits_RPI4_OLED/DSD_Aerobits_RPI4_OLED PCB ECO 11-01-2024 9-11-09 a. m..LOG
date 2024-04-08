@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-3
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-6
+Removed Pin From Net: NetName=B5_P Pin=IC1B-7
+Removed Pin From Net: NetName=B5_N Pin=IC1B-8
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-9
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-12
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-15
+Removed Pin From Net: NetName=5VBus Pin=IC1B-20
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-21
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-22
+Removed Pin From Net: NetName=TESTENB Pin=IC1B-23
+Removed Pin From Net: NetName=RST_OUTB Pin=IC1B-24
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-29
+Removed Pin From Net: NetName=SMCLKB Pin=IC1B-36
+Removed Pin From Net: NetName=SMDATB Pin=IC1B-37
+Removed Pin From Net: NetName=5VBus Pin=IC1B-38
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-40
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-43
+Removed Pin From Net: NetName=EXTPWRONB Pin=IC1B-44
+Removed Pin From Net: NetName=VBUSDETB Pin=IC1B-45
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-46
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-49
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-52
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-58
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-61
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-64
+Removed Pin From Net: NetName=AUX_USB_P Pin=IC1B-65
+Removed Pin From Net: NetName=AUX_USB_N Pin=IC1B-66
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-67
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-70
+Removed Pin From Net: NetName=3_3VB Pin=IC1B-73
+Removed Pin From Net: NetName=QUECTEL_USB_P Pin=IC1B-74
+Removed Pin From Net: NetName=QUECTEL_USB_N Pin=IC1B-75
+Removed Pin From Net: NetName=1_1VB Pin=IC1B-76
+Removed Pin From Net: NetName=GND Pin=IC1B-77
+Removed Pin From Net: NetName=GND Pin=IC2B-4
+Removed Pin From Net: NetName=SPISIB Pin=IC2B-5
+Removed Pin From Net: NetName=3_3VB Pin=IC2B-8
+Removed Pin From Net: NetName=SSXOB Pin=Y1B-1
+Removed Pin From Net: NetName=GND Pin=Y1B-2
+Removed Pin From Net: NetName=SSXIB Pin=Y1B-3
+Removed Pin From Net: NetName=GND Pin=Y1B-4
+Removed Member From Class: ClassName=Designator2 Member=IC1B
+Removed Member From Class: ClassName=Designator2 Member=IC2B
+Removed Member From Class: ClassName=Designator2 Member=Y1B
+Add Component: Footprint Not Found QFN40P900X900X90-77N-D
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Component: Footprint Not Found QFN40P900X900X90-77N-D
+Add Component: Footprint Not Found ABM8G16000MHZB4YT
+Add Component: Footprint Not Found ABM8G16000MHZB4YT
+Add Pin To Net: Unknown Pin: Pin IC?A-3
+Add Pin To Net: Unknown Pin: Pin IC?A-4
+Add Pin To Net: Unknown Pin: Pin IC?A-5
+Add Pin To Net: Unknown Pin: Pin IC?A-6
+Add Pin To Net: Unknown Pin: Pin IC?A-7
+Add Pin To Net: Unknown Pin: Pin IC?A-8
+Add Pin To Net: Unknown Pin: Pin IC?A-8
+Add Pin To Net: Unknown Pin: Pin IC?A-9
+Add Pin To Net: Unknown Pin: Pin IC?A-12
+Add Pin To Net: Unknown Pin: Pin IC?A-15
+Add Pin To Net: Unknown Pin: Pin IC?A-16
+Add Pin To Net: Unknown Pin: Pin IC?A-17
+Add Pin To Net: Unknown Pin: Pin IC?A-20
+Add Pin To Net: Unknown Pin: Pin IC?A-21
+Add Pin To Net: Unknown Pin: Pin IC?A-22
+Add Pin To Net: Unknown Pin: Pin IC?A-23
+Add Pin To Net: Unknown Pin: Pin IC?A-24
+Add Pin To Net: Unknown Pin: Pin IC?A-29
+Add Pin To Net: Unknown Pin: Pin IC?A-36
+Add Pin To Net: Unknown Pin: Pin IC?A-37
+Add Pin To Net: Unknown Pin: Pin IC?A-38
+Add Pin To Net: Unknown Pin: Pin IC?A-40
+Add Pin To Net: Unknown Pin: Pin IC?A-43
+Add Pin To Net: Unknown Pin: Pin IC?A-44
+Add Pin To Net: Unknown Pin: Pin IC?A-45
+Add Pin To Net: Unknown Pin: Pin IC?A-46
+Add Pin To Net: Unknown Pin: Pin IC?A-49
+Add Pin To Net: Unknown Pin: Pin IC?A-52
+Add Pin To Net: Unknown Pin: Pin IC?A-58
+Add Pin To Net: Unknown Pin: Pin IC?A-61
+Add Pin To Net: Unknown Pin: Pin IC?A-64
+Add Pin To Net: Unknown Pin: Pin IC?A-65
+Add Pin To Net: Unknown Pin: Pin IC?A-66
+Add Pin To Net: Unknown Pin: Pin IC?A-67
+Add Pin To Net: Unknown Pin: Pin IC?A-70
+Add Pin To Net: Unknown Pin: Pin IC?A-73
+Add Pin To Net: Unknown Pin: Pin IC?A-74
+Add Pin To Net: Unknown Pin: Pin IC?A-75
+Add Pin To Net: Unknown Pin: Pin IC?A-76
+Add Pin To Net: Unknown Pin: Pin IC?A-77
+Add Pin To Net: Unknown Pin: Pin IC?B-3
+Add Pin To Net: Unknown Pin: Pin IC?B-4
+Add Pin To Net: Unknown Pin: Pin IC?B-5
+Add Pin To Net: Unknown Pin: Pin IC?B-6
+Add Pin To Net: Unknown Pin: Pin IC?B-7
+Add Pin To Net: Unknown Pin: Pin IC?B-8
+Add Pin To Net: Unknown Pin: Pin IC?B-8
+Add Pin To Net: Unknown Pin: Pin IC?B-9
+Add Pin To Net: Unknown Pin: Pin IC?B-12
+Add Pin To Net: Unknown Pin: Pin IC?B-15
+Add Pin To Net: Unknown Pin: Pin IC?B-20
+Add Pin To Net: Unknown Pin: Pin IC?B-21
+Add Pin To Net: Unknown Pin: Pin IC?B-22
+Add Pin To Net: Unknown Pin: Pin IC?B-23
+Add Pin To Net: Unknown Pin: Pin IC?B-24
+Add Pin To Net: Unknown Pin: Pin IC?B-29
+Add Pin To Net: Unknown Pin: Pin IC?B-36
+Add Pin To Net: Unknown Pin: Pin IC?B-37
+Add Pin To Net: Unknown Pin: Pin IC?B-38
+Add Pin To Net: Unknown Pin: Pin IC?B-40
+Add Pin To Net: Unknown Pin: Pin IC?B-43
+Add Pin To Net: Unknown Pin: Pin IC?B-44
+Add Pin To Net: Unknown Pin: Pin IC?B-45
+Add Pin To Net: Unknown Pin: Pin IC?B-46
+Add Pin To Net: Unknown Pin: Pin IC?B-49
+Add Pin To Net: Unknown Pin: Pin IC?B-52
+Add Pin To Net: Unknown Pin: Pin IC?B-58
+Add Pin To Net: Unknown Pin: Pin IC?B-61
+Add Pin To Net: Unknown Pin: Pin IC?B-64
+Add Pin To Net: Unknown Pin: Pin IC?B-65
+Add Pin To Net: Unknown Pin: Pin IC?B-66
+Add Pin To Net: Unknown Pin: Pin IC?B-67
+Add Pin To Net: Unknown Pin: Pin IC?B-70
+Add Pin To Net: Unknown Pin: Pin IC?B-73
+Add Pin To Net: Unknown Pin: Pin IC?B-74
+Add Pin To Net: Unknown Pin: Pin IC?B-75
+Add Pin To Net: Unknown Pin: Pin IC?B-76
+Add Pin To Net: Unknown Pin: Pin IC?B-77
+Add Pin To Net: Unknown Pin: Pin Y?A-1
+Add Pin To Net: Unknown Pin: Pin Y?A-2
+Add Pin To Net: Unknown Pin: Pin Y?A-3
+Add Pin To Net: Unknown Pin: Pin Y?A-4
+Add Pin To Net: Unknown Pin: Pin Y?B-1
+Add Pin To Net: Unknown Pin: Pin Y?B-2
+Add Pin To Net: Unknown Pin: Pin Y?B-3
+Add Pin To Net: Unknown Pin: Pin Y?B-4
+Added Pin To Net: NetName=NetIC?A_3 Pin=R9A-1
+Added Net: Name=NetIC?A_3
+Added Pin To Net: NetName=NetIC?A_7 Pin=R10A-1
+Added Net: Name=NetIC?A_7
+Added Pin To Net: NetName=NetIC?A_39 Pin=L1A-1
+Added Net: Name=NetIC?A_39
+Added Pin To Net: NetName=NetIC?A_57 Pin=R6A-2
+Added Net: Name=NetIC?A_57
+Added Pin To Net: NetName=NetIC?B_3 Pin=R9B-1
+Added Net: Name=NetIC?B_3
+Added Pin To Net: NetName=NetIC?B_7 Pin=R10B-1
+Added Net: Name=NetIC?B_7
+Added Net: Name=NetIC?B_16
+Added Net: Name=NetIC?B_17
+Added Pin To Net: NetName=NetIC?B_39 Pin=L1B-1
+Added Net: Name=NetIC?B_39
+Added Pin To Net: NetName=NetIC?B_57 Pin=R6B-2
+Added Net: Name=NetIC?B_57
+Add Differential Pair: Number of nets in differential pair NetC3A_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC3B_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC4A_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC4B_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_5 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_5 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_6 is 1 instead of 2
+Add Class Member: Failed to add class member : Component IC?A (IC?) VL817-Q7_B0_
+Add Class Member: Failed to add class member : Component IC?A (IC?) SST25VF512A-33-4C-SAE
+Add Class Member: Failed to add class member : Component IC?B (IC?) SST25VF512A-33-4C-SAE
+Add Class Member: Failed to add class member : Component IC?B (IC?) VL817-Q7_B0_
+Add Class Member: Failed to add class member : Component Y?A (Y?) ABM8G-25.000MHZ-18-D-2-Y-T3
+Add Class Member: Failed to add class member : Component Y?B (Y?) ABM8G-25.000MHZ-18-D-2-Y-T3

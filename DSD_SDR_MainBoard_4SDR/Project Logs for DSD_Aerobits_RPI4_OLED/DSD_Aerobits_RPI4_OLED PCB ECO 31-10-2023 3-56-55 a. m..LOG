@@ -1,0 +1,387 @@
+Removed Member From Class: ClassName=RF Member=NetC1_1
+Removed Member From Class: ClassName=RF Member=NetC1_2
+Change Component Designator: OldDesignator=C1 NewDesignator=C1A
+Change Component Designator: OldDesignator=C2 NewDesignator=C2A
+Change Component Designator: OldDesignator=C3 NewDesignator=C3A
+Change Component Designator: OldDesignator=C4 NewDesignator=C4A
+Change Component Designator: OldDesignator=C5 NewDesignator=C5A
+Change Component Designator: OldDesignator=C6 NewDesignator=C6A
+Change Component Designator: OldDesignator=C7 NewDesignator=C7A
+Change Component Designator: OldDesignator=C8 NewDesignator=C8A
+Change Component Designator: OldDesignator=C9 NewDesignator=C9A
+Change Component Designator: OldDesignator=C10 NewDesignator=C10A
+Change Component Designator: OldDesignator=C11 NewDesignator=C11A
+Change Component Designator: OldDesignator=C12 NewDesignator=C12A
+Change Component Designator: OldDesignator=C13 NewDesignator=C13A
+Change Component Designator: OldDesignator=C14 NewDesignator=C14A
+Change Component Designator: OldDesignator=C15 NewDesignator=C15A
+Change Component Designator: OldDesignator=C16 NewDesignator=C16A
+Change Component Designator: OldDesignator=C17 NewDesignator=C17A
+Change Component Designator: OldDesignator=C18 NewDesignator=C18A
+Change Component Designator: OldDesignator=C19 NewDesignator=C19A
+Change Component Designator: OldDesignator=C20 NewDesignator=C20A
+Change Component Designator: OldDesignator=C21 NewDesignator=C21A
+Change Component Designator: OldDesignator=C22 NewDesignator=C22A
+Change Component Designator: OldDesignator=C23 NewDesignator=C23A
+Change Component Designator: OldDesignator=C24 NewDesignator=C24A
+Change Component Designator: OldDesignator=C25 NewDesignator=C25A
+Change Component Designator: OldDesignator=C26 NewDesignator=C26A
+Change Component Designator: OldDesignator=C27 NewDesignator=C27A
+Change Component Designator: OldDesignator=C28 NewDesignator=C28A
+Change Component Designator: OldDesignator=C29 NewDesignator=C29A
+Change Component Designator: OldDesignator=C30 NewDesignator=C30A
+Change Component Designator: OldDesignator=C31 NewDesignator=C31A
+Change Component Designator: OldDesignator=C32 NewDesignator=C32A
+Change Component Designator: OldDesignator=C33 NewDesignator=C33A
+Change Component Designator: OldDesignator=C34 NewDesignator=C34A
+Change Component Designator: OldDesignator=C35 NewDesignator=C35A
+Change Component Designator: OldDesignator=D1 NewDesignator=D1A
+Change Component Designator: OldDesignator=FB1 NewDesignator=FB1A
+Change Component Designator: OldDesignator=FB2 NewDesignator=FB2A
+Change Component Designator: OldDesignator=FB3 NewDesignator=FB3A
+Change Component Designator: OldDesignator=FB4 NewDesignator=FB4A
+Change Component Designator: OldDesignator=FB5 NewDesignator=FB5A
+Change Component Designator: OldDesignator=FB6 NewDesignator=FB6A
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC1A
+Change Component Designator: OldDesignator=J1 NewDesignator=J1A
+Change Component Designator: OldDesignator=L1 NewDesignator=L1A
+Change Component Designator: OldDesignator=L2 NewDesignator=L2A
+Change Component Designator: OldDesignator=L3 NewDesignator=L3A
+Change Component Designator: OldDesignator=L4 NewDesignator=L4A
+Change Component Designator: OldDesignator=MP1 NewDesignator=MP1A
+Change Component Designator: OldDesignator=R1 NewDesignator=R1A
+Change Component Designator: OldDesignator=R2 NewDesignator=R2A
+Change Component Designator: OldDesignator=R3 NewDesignator=R3A
+Change Component Designator: OldDesignator=R4 NewDesignator=R4A
+Change Component Designator: OldDesignator=R5 NewDesignator=R5A
+Change Component Designator: OldDesignator=R6 NewDesignator=R6A
+Change Component Designator: OldDesignator=R7 NewDesignator=R7A
+Change Component Designator: OldDesignator=R8 NewDesignator=R8A
+Change Component Designator: OldDesignator=R9 NewDesignator=R9A
+Change Component Designator: OldDesignator=R10 NewDesignator=R10A
+Change Component Designator: OldDesignator=R11 NewDesignator=R11A
+Change Component Designator: OldDesignator=R12 NewDesignator=R12A
+Change Component Designator: OldDesignator=U1 NewDesignator=U1A
+Change Component Designator: OldDesignator=U2 NewDesignator=U2A
+Change Component Designator: OldDesignator=U3 NewDesignator=U3A
+Change Component Designator: OldDesignator=X1 NewDesignator=X1A
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0805C
+Add Component: Footprint Not Found SMD-0805C
+Add Component: Footprint Not Found SMD-1210C
+Add Component: Footprint Not Found SMD-1210C
+Add Component: Footprint Not Found SMD-1210C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0603C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0603C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0805C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-1210C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found SMD-0402C
+Add Component: Footprint Not Found DIO_BAV99
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Added Component: Designator=IC1B(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/268/atmel_doc0180-1180509.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AT24C02N-10SU-2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found U.FL jack
+Add Component: Footprint Not Found INDC1006X60N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC2518X200N
+Add Component: Footprint Not Found 36903205S
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Add Component: Footprint Not Found SMD-0402-RES
+Added Component: Designator=U1B(SOT223)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM1117MP-3.3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM1117MP-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Added Component: Designator=U2B(QFN40P600X600X84_HS-49N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Work on RTL2832U Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://sites.google.com/site/oh2ftg/home/rtl2832u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Realtek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "ftg"; VariantName = "[No Variations]"
+Added Component: Designator=U3B(QFN50P400X400X85_HS-25N_r820t)
+Added Component: Designator=X1B(WTL28.8-OSC28.8)
+Add Pin To Net: Unknown Pin: Pin C2B-1
+Add Pin To Net: Unknown Pin: Pin C2B-2
+Add Pin To Net: Unknown Pin: Pin C3B-1
+Add Pin To Net: Unknown Pin: Pin C3B-2
+Add Pin To Net: Unknown Pin: Pin C4B-1
+Add Pin To Net: Unknown Pin: Pin C4B-2
+Add Pin To Net: Unknown Pin: Pin C5B-1
+Add Pin To Net: Unknown Pin: Pin C5B-2
+Add Pin To Net: Unknown Pin: Pin C6B-1
+Add Pin To Net: Unknown Pin: Pin C6B-2
+Add Pin To Net: Unknown Pin: Pin C7B-1
+Add Pin To Net: Unknown Pin: Pin C8B-1
+Add Pin To Net: Unknown Pin: Pin C9B-1
+Add Pin To Net: Unknown Pin: Pin C10B-1
+Add Pin To Net: Unknown Pin: Pin C11B-1
+Add Pin To Net: Unknown Pin: Pin C13B-2
+Add Pin To Net: Unknown Pin: Pin C14B-1
+Add Pin To Net: Unknown Pin: Pin C15B-1
+Add Pin To Net: Unknown Pin: Pin C17B-1
+Add Pin To Net: Unknown Pin: Pin C17B-2
+Add Pin To Net: Unknown Pin: Pin C18B-1
+Add Pin To Net: Unknown Pin: Pin C19B-1
+Add Pin To Net: Unknown Pin: Pin C20B-1
+Add Pin To Net: Unknown Pin: Pin C20B-2
+Add Pin To Net: Unknown Pin: Pin C21B-2
+Add Pin To Net: Unknown Pin: Pin C22B-1
+Add Pin To Net: Unknown Pin: Pin C23B-2
+Add Pin To Net: Unknown Pin: Pin C24B-2
+Add Pin To Net: Unknown Pin: Pin C25B-2
+Add Pin To Net: Unknown Pin: Pin C26B-2
+Add Pin To Net: Unknown Pin: Pin C28B-2
+Add Pin To Net: Unknown Pin: Pin C29B-1
+Add Pin To Net: Unknown Pin: Pin C29B-2
+Add Pin To Net: Unknown Pin: Pin C30B-2
+Add Pin To Net: Unknown Pin: Pin C31B-2
+Add Pin To Net: Unknown Pin: Pin C32B-2
+Add Pin To Net: Unknown Pin: Pin C33B-1
+Add Pin To Net: Unknown Pin: Pin C34B-2
+Add Pin To Net: Unknown Pin: Pin C35B-2
+Add Pin To Net: Unknown Pin: Pin D1B-1
+Add Pin To Net: Unknown Pin: Pin D1B-2
+Add Pin To Net: Unknown Pin: Pin FB1B-1
+Add Pin To Net: Unknown Pin: Pin FB6B-1
+Added Pin To Net: NetName=GND Pin=IC1B-1
+Added Pin To Net: NetName=GND Pin=IC1B-2
+Added Pin To Net: NetName=GND Pin=IC1B-3
+Added Pin To Net: NetName=GND Pin=IC1B-4
+Add Pin To Net: Unknown Pin: Pin J1B-2
+Add Pin To Net: Unknown Pin: Pin MP1B-1
+Add Pin To Net: Unknown Pin: Pin R1B-2
+Add Pin To Net: Unknown Pin: Pin R2B-1
+Add Pin To Net: Unknown Pin: Pin R9B-2
+Add Pin To Net: Unknown Pin: Pin R10B-2
+Added Pin To Net: NetName=GND Pin=U1B-1
+Added Pin To Net: NetName=+3V3_SDR Pin=U1B-2
+Added Pin To Net: NetName=VBUS Pin=U1B-3
+Added Pin To Net: NetName=+3V3_SDR Pin=U1B-4
+Added Pin To Net: NetName=GND Pin=U2B-3
+Added Pin To Net: NetName=GND Pin=U2B-8
+Added Pin To Net: NetName=GND Pin=U2B-39
+Added Pin To Net: NetName=GND Pin=U2B-45
+Added Pin To Net: NetName=GND Pin=U2B-49
+Added Pin To Net: NetName=+3V3_SDR Pin=U3B-2
+Added Pin To Net: NetName=+3V3_SDR Pin=U3B-11
+Added Pin To Net: NetName=GND Pin=U3B-16
+Added Pin To Net: NetName=+3V3_SDR Pin=U3B-18
+Added Pin To Net: NetName=GND Pin=U3B-25
+Added Pin To Net: NetName=GND Pin=X1B-2
+Added Pin To Net: NetName=+3V3_SDR Pin=X1B-4
+Change Net Name : Old Net Name=CLK New Net Name=CLKA
+Change Net Name : Old Net Name=IF+ New Net Name=IF+A
+Change Net Name : Old Net Name=IF- New Net Name=IF-A
+Change Net Name : Old Net Name=IF_AGC New Net Name=IF_AGCA
+Change Net Name : Old Net Name=IFAGC New Net Name=IFAGCA
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC1A_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC1A_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC10A_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC11A_2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC12A_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC15A_2
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC16A_1
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC18A_2
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC21A_1
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC23A_1
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC24A_1
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC27A_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC28A_1
+Change Net Name : Old Net Name=NetC34_1 New Net Name=NetC34A_1
+Change Net Name : Old Net Name=NetC35_1 New Net Name=NetC35A_1
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetL2A_1
+Change Net Name : Old Net Name=NetL2_2 New Net Name=NetL2A_2
+Change Net Name : Old Net Name=NetL3_1 New Net Name=NetL3A_1
+Change Net Name : Old Net Name=NetL3_2 New Net Name=NetL3A_2
+Change Net Name : Old Net Name=NetL4_1 New Net Name=NetL4A_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR2A_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR6A_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR11A_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR12A_2
+Change Net Name : Old Net Name=NetU2_27 New Net Name=NetU2A_27
+Change Net Name : Old Net Name=NetU2_40 New Net Name=NetU2A_40
+Change Net Name : Old Net Name=NetU2_41 New Net Name=NetU2A_41
+Change Net Name : Old Net Name=RFIN New Net Name=RFINA
+Change Net Name : Old Net Name=SCL-RTL2832U New Net Name=SCL-RTL2832UA
+Change Net Name : Old Net Name=SCLK New Net Name=SCLKA
+Change Net Name : Old Net Name=SDA-RTL2832U New Net Name=SDA-RTL2832UA
+Change Net Name : Old Net Name=SDAT New Net Name=SDATA
+Change Net Name : Old Net Name=VDD1 New Net Name=VDD1A
+Change Net Name : Old Net Name=VDD3 New Net Name=VDD3A
+Change Net Name : Old Net Name=VDD_PLL New Net Name=VDD_PLLA
+Change Net Name : Old Net Name=VDDA33 New Net Name=VDDA33A
+Change Net Name : Old Net Name=VDDA New Net Name=VDDAA
+Change Net Name : Old Net Name=VDDLV New Net Name=VDDLVA
+Added Pin To Net: NetName=CLKB Pin=U3B-10
+Added Net: Name=CLKB
+Added Pin To Net: NetName=IF+B Pin=U3B-13
+Added Net: Name=IF+B
+Added Pin To Net: NetName=IF-B Pin=U3B-12
+Added Net: Name=IF-B
+Added Pin To Net: NetName=IF_AGCB Pin=U3B-14
+Added Net: Name=IF_AGCB
+Added Pin To Net: NetName=IFAGCB Pin=U2B-13
+Added Net: Name=IFAGCB
+Added Net: Name=NetC1B_1
+Added Net: Name=NetC1B_2
+Added Pin To Net: NetName=NetC10B_2 Pin=U2B-46
+Added Net: Name=NetC10B_2
+Added Pin To Net: NetName=NetC11B_2 Pin=U3B-23
+Added Net: Name=NetC11B_2
+Added Pin To Net: NetName=NetC12B_1 Pin=U2B-1
+Added Net: Name=NetC12B_1
+Added Pin To Net: NetName=NetC15B_2 Pin=U3B-17
+Added Net: Name=NetC15B_2
+Added Pin To Net: NetName=NetC16B_1 Pin=U2B-2
+Added Net: Name=NetC16B_1
+Added Pin To Net: NetName=NetC18B_2 Pin=U3B-15
+Added Net: Name=NetC18B_2
+Added Net: Name=NetC21B_1
+Added Pin To Net: NetName=NetC23B_1 Pin=U3B-4
+Added Net: Name=NetC23B_1
+Added Pin To Net: NetName=NetC24B_1 Pin=U3B-5
+Added Net: Name=NetC24B_1
+Added Pin To Net: NetName=NetC27B_2 Pin=U2B-11
+Added Net: Name=NetC27B_2
+Added Net: Name=NetC28B_1
+Added Pin To Net: NetName=NetC34B_1 Pin=U3B-8
+Added Pin To Net: NetName=NetC34B_1 Pin=X1B-1
+Added Pin To Net: NetName=NetC34B_1 Pin=X1B-5
+Added Net: Name=NetC34B_1
+Added Pin To Net: NetName=NetC35B_1 Pin=U3B-9
+Added Pin To Net: NetName=NetC35B_1 Pin=X1B-3
+Added Pin To Net: NetName=NetC35B_1 Pin=X1B-6
+Added Net: Name=NetC35B_1
+Added Pin To Net: NetName=NetL2B_1 Pin=U3B-22
+Added Net: Name=NetL2B_1
+Added Pin To Net: NetName=NetL2B_2 Pin=U3B-20
+Added Net: Name=NetL2B_2
+Added Pin To Net: NetName=NetL3B_1 Pin=U3B-21
+Added Net: Name=NetL3B_1
+Added Pin To Net: NetName=NetL3B_2 Pin=U3B-19
+Added Net: Name=NetL3B_2
+Added Pin To Net: NetName=NetL4B_1 Pin=U2B-24
+Added Net: Name=NetL4B_1
+Added Pin To Net: NetName=NetR2B_2 Pin=U2B-48
+Added Net: Name=NetR2B_2
+Added Pin To Net: NetName=NetR6B_2 Pin=U2B-10
+Added Net: Name=NetR6B_2
+Added Pin To Net: NetName=NetR11B_2 Pin=U2B-16
+Added Net: Name=NetR11B_2
+Added Pin To Net: NetName=NetR12B_2 Pin=U2B-17
+Added Net: Name=NetR12B_2
+Added Pin To Net: NetName=NetU2B_27 Pin=U2B-27
+Added Net: Name=NetU2B_27
+Added Pin To Net: NetName=NetU2B_40 Pin=U2B-40
+Added Net: Name=NetU2B_40
+Added Pin To Net: NetName=NetU2B_41 Pin=U2B-41
+Added Net: Name=NetU2B_41
+Added Pin To Net: NetName=RFINB Pin=U3B-24
+Added Net: Name=RFINB
+Added Pin To Net: NetName=SCL-RTL2832UB Pin=IC1B-6
+Added Pin To Net: NetName=SCL-RTL2832UB Pin=U2B-18
+Added Net: Name=SCL-RTL2832UB
+Added Pin To Net: NetName=SCLKB Pin=U3B-6
+Added Net: Name=SCLKB
+Added Pin To Net: NetName=SDA-RTL2832UB Pin=IC1B-5
+Added Pin To Net: NetName=SDA-RTL2832UB Pin=U2B-19
+Added Net: Name=SDA-RTL2832UB
+Added Pin To Net: NetName=SDATB Pin=U3B-7
+Added Net: Name=SDATB
+Added Pin To Net: NetName=VDD1B Pin=U2B-12
+Added Pin To Net: NetName=VDD1B Pin=U2B-20
+Added Pin To Net: NetName=VDD1B Pin=U2B-23
+Added Pin To Net: NetName=VDD1B Pin=U2B-28
+Added Pin To Net: NetName=VDD1B Pin=U2B-34
+Added Net: Name=VDD1B
+Added Pin To Net: NetName=VDD3B Pin=IC1B-8
+Added Pin To Net: NetName=VDD3B Pin=U2B-14
+Added Pin To Net: NetName=VDD3B Pin=U2B-25
+Added Pin To Net: NetName=VDD3B Pin=U2B-26
+Added Pin To Net: NetName=VDD3B Pin=U2B-33
+Added Net: Name=VDD3B
+Added Pin To Net: NetName=VDD_PLLB Pin=U2B-7
+Added Net: Name=VDD_PLLB
+Added Pin To Net: NetName=VDDA33B Pin=U2B-43
+Added Net: Name=VDDA33B
+Added Pin To Net: NetName=VDDAB Pin=U2B-44
+Added Pin To Net: NetName=VDDAB Pin=U2B-47
+Added Net: Name=VDDAB
+Added Pin To Net: NetName=VDDLVB Pin=U2B-42
+Added Net: Name=VDDLVB
+Change Class Name : Old Net Name=Designator New Net Name=Designator1
+Added Class: Name=Designator2
+Added Class: Name=RTL-SDR
+Added Member To Class: ClassName=RF Member=Wire NetC1A_1
+Added Member To Class: ClassName=RF Member=Wire NetC1A_2
+Added Member To Class: ClassName=RF Member=Wire NetC1B_1
+Added Member To Class: ClassName=RF Member=Wire NetC1B_2
+Change Room Name: Old Name=Designator New Name=Designator2
+Change Room Scope: Old Scope=InComponentClass('Designator') New Scope=InComponentClass('Designator2')
+Added Room: Name=Designator1

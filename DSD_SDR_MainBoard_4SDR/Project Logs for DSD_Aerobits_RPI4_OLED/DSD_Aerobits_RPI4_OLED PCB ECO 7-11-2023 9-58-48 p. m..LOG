@@ -1,0 +1,24 @@
+Added Component: Designator=K2A(HEADER-1X2)
+Add component (AddParameter): Name = "REEL"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011E-36-ND"; VariantName = "[No Variations]"
+Added Component: Designator=K2B(HEADER-1X2)
+Add component (AddParameter): Name = "REEL"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011E-36-ND"; VariantName = "[No Variations]"
+Added Component: Designator=K2C(HEADER-1X2)
+Add component (AddParameter): Name = "REEL"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011E-36-ND"; VariantName = "[No Variations]"
+Added Component: Designator=K2D(HEADER-1X2)
+Add component (AddParameter): Name = "REEL"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011E-36-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=K2A-1
+Added Pin To Net: NetName=GND Pin=K2A-2
+Added Pin To Net: NetName=VBUS Pin=K2B-1
+Added Pin To Net: NetName=GND Pin=K2B-2
+Added Pin To Net: NetName=VBUS Pin=K2C-1
+Added Pin To Net: NetName=GND Pin=K2C-2
+Added Pin To Net: NetName=VBUS Pin=K2D-1
+Added Pin To Net: NetName=GND Pin=K2D-2

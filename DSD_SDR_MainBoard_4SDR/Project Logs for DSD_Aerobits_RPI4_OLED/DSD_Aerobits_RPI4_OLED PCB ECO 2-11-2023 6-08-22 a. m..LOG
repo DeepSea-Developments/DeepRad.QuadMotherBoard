@@ -1,0 +1,139 @@
+Removed Member From Class: ClassName=RF Member=NetC43_1
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43A NewDesignator=R44A
+Change Component Designator: OldDesignator=R43B NewDesignator=R44B
+Change Component Designator: OldDesignator=R43C NewDesignator=R44C
+Change Component Designator: OldDesignator=R43D NewDesignator=R44D
+Change Component Designator: OldDesignator=R44A NewDesignator=R45A
+Change Component Designator: OldDesignator=R44B NewDesignator=R45B
+Change Component Designator: OldDesignator=R44C NewDesignator=R45C
+Change Component Designator: OldDesignator=R44D NewDesignator=R45D
+Change Component Designator: OldDesignator=R45A NewDesignator=R46A
+Change Component Designator: OldDesignator=R45B NewDesignator=R46B
+Change Component Designator: OldDesignator=R45C NewDesignator=R46C
+Change Component Designator: OldDesignator=R45D NewDesignator=R46D
+Change Component Designator: OldDesignator=R46A NewDesignator=R47A
+Change Component Designator: OldDesignator=R46B NewDesignator=R47B
+Change Component Designator: OldDesignator=R46C NewDesignator=R47C
+Change Component Designator: OldDesignator=R46D NewDesignator=R47D
+Change Component Designator: OldDesignator=R47A NewDesignator=R48A
+Change Component Designator: OldDesignator=R47B NewDesignator=R48B
+Change Component Designator: OldDesignator=R47C NewDesignator=R48C
+Change Component Designator: OldDesignator=R47D NewDesignator=R48D
+Change Component Designator: OldDesignator=R48A NewDesignator=R49A
+Change Component Designator: OldDesignator=R48B NewDesignator=R49B
+Change Component Designator: OldDesignator=R48C NewDesignator=R49C
+Change Component Designator: OldDesignator=R48D NewDesignator=R49D
+Change Component Designator: OldDesignator=R49A NewDesignator=R50A
+Change Component Designator: OldDesignator=R49B NewDesignator=R50B
+Change Component Designator: OldDesignator=R49C NewDesignator=R50C
+Change Component Designator: OldDesignator=R49D NewDesignator=R50D
+Change Component Designator: OldDesignator=R50A NewDesignator=R51A
+Change Component Designator: OldDesignator=R50B NewDesignator=R51B
+Change Component Designator: OldDesignator=R50C NewDesignator=R51C
+Change Component Designator: OldDesignator=R50D NewDesignator=R51D
+Change Component Designator: OldDesignator=R51A NewDesignator=R52A
+Change Component Designator: OldDesignator=R51B NewDesignator=R52B
+Change Component Designator: OldDesignator=R51C NewDesignator=R52C
+Change Component Designator: OldDesignator=R51D NewDesignator=R52D
+Change Component Designator: OldDesignator=R52A NewDesignator=R53A
+Change Component Designator: OldDesignator=R52B NewDesignator=R53B
+Change Component Designator: OldDesignator=R52C NewDesignator=R53C
+Change Component Designator: OldDesignator=R52D NewDesignator=R53D
+Change Component Designator: OldDesignator=R53A NewDesignator=R54A
+Change Component Designator: OldDesignator=R53B NewDesignator=R54B
+Change Component Designator: OldDesignator=R53C NewDesignator=R54C
+Change Component Designator: OldDesignator=R53D NewDesignator=R54D
+Change Component Designator: OldDesignator=R54A NewDesignator=R55A
+Change Component Designator: OldDesignator=R54B NewDesignator=R55B
+Change Component Designator: OldDesignator=R54C NewDesignator=R55C
+Change Component Designator: OldDesignator=R54D NewDesignator=R55D
+Added Component: Designator=LED7(LED-0603-WHITE)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTW-C193TS5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTW-C193TS5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608QWF-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608QWF-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 0.8mm x 1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Type"; Value = "Clear, Tinted"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Flux @ Current - Test"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Lite-On Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Kingbright Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LTW-C193TS5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "APT1608QWF/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "InGaN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "230mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "Ultra Bright; 8700K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "1.60mm L x 0.80mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1721-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "APT1608QWF/D-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) @ 10mA"; Value = "3.0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) Typ"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=R31(SMD-0402-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C243.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P17193CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/ERJ-PA2-Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-PA2J102X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.2W, 1/5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "11930"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.02020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED7-K
+Added Pin To Net: NetName=ADSB_OUT Pin=R31-2
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR32_1
+Change Net Name : Old Net Name=NetR44A_2 New Net Name=NetR45A_2
+Change Net Name : Old Net Name=NetR44B_2 New Net Name=NetR45B_2
+Change Net Name : Old Net Name=NetR44C_2 New Net Name=NetR45C_2
+Change Net Name : Old Net Name=NetR44D_2 New Net Name=NetR45D_2
+Change Net Name : Old Net Name=NetR48A_2 New Net Name=NetR49A_2
+Change Net Name : Old Net Name=NetR48B_2 New Net Name=NetR49B_2
+Change Net Name : Old Net Name=NetR48C_2 New Net Name=NetR49C_2
+Change Net Name : Old Net Name=NetR48D_2 New Net Name=NetR49D_2
+Change Net Name : Old Net Name=NetR53A_2 New Net Name=NetR54A_2
+Change Net Name : Old Net Name=NetR53B_2 New Net Name=NetR54B_2
+Change Net Name : Old Net Name=NetR53C_2 New Net Name=NetR54C_2
+Change Net Name : Old Net Name=NetR53D_2 New Net Name=NetR54D_2
+Change Net Name : Old Net Name=NetR54A_2 New Net Name=NetR55A_2
+Change Net Name : Old Net Name=NetR54B_2 New Net Name=NetR55B_2
+Change Net Name : Old Net Name=NetR54C_2 New Net Name=NetR55C_2
+Change Net Name : Old Net Name=NetR54D_2 New Net Name=NetR55D_2
+Added Pin To Net: NetName=NetLED7_A Pin=LED7-A
+Added Pin To Net: NetName=NetLED7_A Pin=R31-1
+Added Net: Name=NetLED7_A
+Added Member To Class: ClassName=RF Member=Wire NetC40_1
+Added Member To Class: ClassName=RF Member=Wire NetC41_1

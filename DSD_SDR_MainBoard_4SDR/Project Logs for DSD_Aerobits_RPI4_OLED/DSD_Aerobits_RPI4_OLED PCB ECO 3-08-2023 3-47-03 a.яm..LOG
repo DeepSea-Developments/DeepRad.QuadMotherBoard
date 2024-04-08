@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=FB4-2
+Removed Member From Class: ClassName=Designator Member=FB4
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-45
+Change Net Name : Old Net Name=GND New Net Name=GNDA
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

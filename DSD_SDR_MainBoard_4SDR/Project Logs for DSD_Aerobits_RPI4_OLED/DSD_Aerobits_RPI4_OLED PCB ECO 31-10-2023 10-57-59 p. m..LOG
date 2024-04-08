@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=A4_P Pin=R43-1
+Removed Pin From Net: NetName=A4_P Pin=U2A-41
+Added Pin To Net: NetName=A4_N Pin=R43-1
+Added Pin To Net: NetName=A4_N Pin=U2A-41
+Added Net: Name=A4_N
+Added Differential Pair: Name=A4
+Added Member To Class: ClassName=RF Member=Wire NetC1A_1
+Added Member To Class: ClassName=RF Member=Wire NetC1A_2
+Added Member To Class: ClassName=RF Member=Wire NetC1C_1
+Added Member To Class: ClassName=RF Member=Wire NetC1C_2

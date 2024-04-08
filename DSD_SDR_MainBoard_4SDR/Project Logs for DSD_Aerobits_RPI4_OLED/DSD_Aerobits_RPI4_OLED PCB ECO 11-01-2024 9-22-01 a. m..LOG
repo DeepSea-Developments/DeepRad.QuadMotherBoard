@@ -1,0 +1,40 @@
+Added Component: Designator=Y1A(ABM8G16000MHZB4YT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Resonators/ABM8G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABM8G-25.000MHZ-18-D-2-Y-T3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1B(ABM8G16000MHZB4YT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Resonators/ABM8G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABM8G-25.000MHZ-18-D-2-Y-T3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SSXOA Pin=Y1A-1
+Added Pin To Net: NetName=GND Pin=Y1A-2
+Added Pin To Net: NetName=SSXIA Pin=Y1A-3
+Added Pin To Net: NetName=GND Pin=Y1A-4
+Added Pin To Net: NetName=SSXOB Pin=Y1B-1
+Added Pin To Net: NetName=GND Pin=Y1B-2
+Added Pin To Net: NetName=SSXIB Pin=Y1B-3
+Added Pin To Net: NetName=GND Pin=Y1B-4
+Add Differential Pair: Number of nets in differential pair NetC3A_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC3B_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC4A_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetC4B_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_5 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1A_6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_5 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ1B_6 is 1 instead of 2
+Added Member To Class: ClassName=Designator1 Member=Component Y1A (Y1) ABM8G-25.000MHZ-18-D-2-Y-T3
+Added Member To Class: ClassName=Designator2 Member=Component Y1B (Y1) ABM8G-25.000MHZ-18-D-2-Y-T3

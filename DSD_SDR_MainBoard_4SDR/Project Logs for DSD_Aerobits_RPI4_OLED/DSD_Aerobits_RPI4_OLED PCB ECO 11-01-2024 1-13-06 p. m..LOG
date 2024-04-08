@@ -1,0 +1,212 @@
+Removed Member From Class: ClassName=Designator1 Member=C1A
+Removed Member From Class: ClassName=Designator1 Member=C2A
+Removed Member From Class: ClassName=Designator1 Member=C3A
+Removed Member From Class: ClassName=Designator1 Member=C4A
+Removed Member From Class: ClassName=Designator1 Member=C5A
+Removed Member From Class: ClassName=Designator1 Member=C6A
+Removed Member From Class: ClassName=Designator1 Member=C7A
+Removed Member From Class: ClassName=Designator1 Member=C8A
+Removed Member From Class: ClassName=Designator1 Member=C9A
+Removed Member From Class: ClassName=Designator1 Member=C10A
+Removed Member From Class: ClassName=Designator1 Member=C11A
+Removed Member From Class: ClassName=Designator1 Member=C12A
+Removed Member From Class: ClassName=Designator1 Member=C13A
+Removed Member From Class: ClassName=Designator1 Member=C14A
+Removed Member From Class: ClassName=Designator1 Member=C15A
+Removed Member From Class: ClassName=Designator1 Member=C16A
+Removed Member From Class: ClassName=Designator1 Member=C17A
+Removed Member From Class: ClassName=Designator1 Member=C18A
+Removed Member From Class: ClassName=Designator1 Member=C19A
+Removed Member From Class: ClassName=Designator1 Member=C20A
+Removed Member From Class: ClassName=Designator1 Member=C21A
+Removed Member From Class: ClassName=Designator1 Member=C22A
+Removed Member From Class: ClassName=Designator1 Member=C23A
+Removed Member From Class: ClassName=Designator1 Member=C24A
+Removed Member From Class: ClassName=Designator1 Member=C25A
+Removed Member From Class: ClassName=Designator1 Member=C26A
+Removed Member From Class: ClassName=Designator1 Member=C27A
+Removed Member From Class: ClassName=Designator1 Member=C28A
+Removed Member From Class: ClassName=Designator1 Member=C29A
+Removed Member From Class: ClassName=Designator1 Member=C30A
+Removed Member From Class: ClassName=Designator1 Member=C31A
+Removed Member From Class: ClassName=Designator1 Member=C32A
+Removed Member From Class: ClassName=Designator1 Member=C33A
+Removed Member From Class: ClassName=Designator1 Member=FB1A
+Removed Member From Class: ClassName=Designator1 Member=IC1A
+Removed Member From Class: ClassName=Designator1 Member=IC2A
+Removed Member From Class: ClassName=Designator1 Member=J1A
+Removed Member From Class: ClassName=Designator1 Member=L1A
+Removed Member From Class: ClassName=Designator1 Member=LED1A
+Removed Member From Class: ClassName=Designator1 Member=LED2A
+Removed Member From Class: ClassName=Designator1 Member=LED3A
+Removed Member From Class: ClassName=Designator1 Member=LED4A
+Removed Member From Class: ClassName=Designator1 Member=R1A
+Removed Member From Class: ClassName=Designator1 Member=R2A
+Removed Member From Class: ClassName=Designator1 Member=R3A
+Removed Member From Class: ClassName=Designator1 Member=R4A
+Removed Member From Class: ClassName=Designator1 Member=R5A
+Removed Member From Class: ClassName=Designator1 Member=R6A
+Removed Member From Class: ClassName=Designator1 Member=R7A
+Removed Member From Class: ClassName=Designator1 Member=R8A
+Removed Member From Class: ClassName=Designator1 Member=R9A
+Removed Member From Class: ClassName=Designator1 Member=R10A
+Removed Member From Class: ClassName=Designator1 Member=R11A
+Removed Member From Class: ClassName=Designator1 Member=R12A
+Removed Member From Class: ClassName=Designator1 Member=R13A
+Removed Member From Class: ClassName=Designator1 Member=R14A
+Removed Member From Class: ClassName=Designator1 Member=R15A
+Removed Member From Class: ClassName=Designator1 Member=R16A
+Removed Member From Class: ClassName=Designator1 Member=R17A
+Removed Member From Class: ClassName=Designator1 Member=R18A
+Removed Member From Class: ClassName=Designator1 Member=R19A
+Removed Member From Class: ClassName=Designator1 Member=R20A
+Removed Member From Class: ClassName=Designator1 Member=R21A
+Removed Member From Class: ClassName=Designator1 Member=R22A
+Removed Member From Class: ClassName=Designator1 Member=R23A
+Removed Member From Class: ClassName=Designator1 Member=R24A
+Removed Member From Class: ClassName=Designator1 Member=R25A
+Removed Member From Class: ClassName=Designator1 Member=R26A
+Removed Member From Class: ClassName=Designator1 Member=Y1A
+Added Class: Name=Designator3
+Added Member To Class: ClassName=Designator1 Member=Component C34A (C34) 330pF
+Added Member To Class: ClassName=Designator2 Member=Component C34B (C34) 330pF
+Added Member To Class: ClassName=Designator1 Member=Component C35A (C35) 10µF
+Added Member To Class: ClassName=Designator2 Member=Component C35B (C35) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C36A (C36) 22µF
+Added Member To Class: ClassName=Designator2 Member=Component C36B (C36) 22µF
+Added Member To Class: ClassName=Designator1 Member=Component C37A (C37) 100µF
+Added Member To Class: ClassName=Designator2 Member=Component C37B (C37) 100µF
+Added Member To Class: ClassName=Designator1 Member=Component C38A (C38) 100µF
+Added Member To Class: ClassName=Designator2 Member=Component C38B (C38) 100µF
+Added Member To Class: ClassName=Designator1 Member=Component C39A (C39) 100µF
+Added Member To Class: ClassName=Designator2 Member=Component C39B (C39) 100µF
+Added Member To Class: ClassName=Designator1 Member=Component C40A (C40) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C40B (C40) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C41A (C41) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C41B (C41) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C42A (C42) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C42B (C42) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C43A (C43) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C43B (C43) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C44A (C44) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C44B (C44) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C45A (C45) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C45B (C45) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C46A (C46) 10000pF
+Added Member To Class: ClassName=Designator2 Member=Component C46B (C46) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C47A (C47) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C47B (C47) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C48A (C48) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C48B (C48) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C49A (C49) 10µF
+Added Member To Class: ClassName=Designator2 Member=Component C49B (C49) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C50A (C50) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C50B (C50) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C51A (C51) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C51B (C51) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C52A (C52) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C52B (C52) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C53A (C53) 0.33µF
+Added Member To Class: ClassName=Designator2 Member=Component C53B (C53) 0.33µF
+Added Member To Class: ClassName=Designator1 Member=Component C54A (C54) 10000pF
+Added Member To Class: ClassName=Designator2 Member=Component C54B (C54) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C55A (C55) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C55B (C55) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C56A (C56) 6800pF
+Added Member To Class: ClassName=Designator2 Member=Component C56B (C56) 6800pF
+Added Member To Class: ClassName=Designator1 Member=Component C57A (C57) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C57B (C57) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C58A (C58) 1µF
+Added Member To Class: ClassName=Designator2 Member=Component C58B (C58) 1µF
+Added Member To Class: ClassName=Designator1 Member=Component C59A (C59) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C59B (C59) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C60A (C60) 10µF
+Added Member To Class: ClassName=Designator2 Member=Component C60B (C60) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C61A (C61) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C61B (C61) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C62A (C62) 10000pF
+Added Member To Class: ClassName=Designator2 Member=Component C62B (C62) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C63A (C63) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C63B (C63) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C64A (C64) 10µF
+Added Member To Class: ClassName=Designator2 Member=Component C64B (C64) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C65A (C65) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C65B (C65) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C66A (C66) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C66B (C66) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C67A (C67) 220µF
+Added Member To Class: ClassName=Designator2 Member=Component C67B (C67) 220µF
+Added Member To Class: ClassName=Designator1 Member=Component C68A (C68) 10000pF
+Added Member To Class: ClassName=Designator2 Member=Component C68B (C68) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C69A (C69) 27pF
+Added Member To Class: ClassName=Designator2 Member=Component C69B (C69) 27pF
+Added Member To Class: ClassName=Designator1 Member=Component C70A (C70) 27pF
+Added Member To Class: ClassName=Designator2 Member=Component C70B (C70) 27pF
+Added Member To Class: ClassName=Designator1 Member=Component D2A (D2) BAV99
+Added Member To Class: ClassName=Designator2 Member=Component D2B (D2) BAV99
+Added Member To Class: ClassName=Designator1 Member=Component FB2A (FB2) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component FB2B (FB2) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB3A (FB3) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component FB3B (FB3) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB4A (FB4) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component FB4B (FB4) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB5A (FB5) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component FB5B (FB5) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB6A (FB6) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component FB6B (FB6) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB7A (FB7) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component FB7B (FB7) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component FB8A (FB8) 10Ohm
+Added Member To Class: ClassName=Designator2 Member=Component FB8B (FB8) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component IC3A (IC3) AT24C02N-10SU-2.7
+Added Member To Class: ClassName=Designator2 Member=Component IC3B (IC3) AT24C02N-10SU-2.7
+Added Member To Class: ClassName=Designator1 Member=Component J4A (J4) SMA-J-P-H-RA-TH1
+Added Member To Class: ClassName=Designator2 Member=Component J4B (J4) SMA-J-P-H-RA-TH1
+Added Member To Class: ClassName=Designator1 Member=Component L2A (L2) LQW15AN8N2G00D
+Added Member To Class: ClassName=Designator2 Member=Component L2B (L2) LQW15AN8N2G00D
+Added Member To Class: ClassName=Designator1 Member=Component L3A (L3) 150nH
+Added Member To Class: ClassName=Designator2 Member=Component L3B (L3) 150nH
+Added Member To Class: ClassName=Designator1 Member=Component L4A (L4) 150nH
+Added Member To Class: ClassName=Designator2 Member=Component L4B (L4) 150nH
+Added Member To Class: ClassName=Designator1 Member=Component L5A (L5) 4.7uH
+Added Member To Class: ClassName=Designator2 Member=Component L5B (L5) 4.7uH
+Added Member To Class: ClassName=Designator1 Member=Component MP1A (MP1) 36903205S
+Added Member To Class: ClassName=Designator2 Member=Component MP1B (MP1) 36903205S
+Added Member To Class: ClassName=Designator1 Member=Component R37A (R37) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R37B (R37) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R38A (R38) 1.8k
+Added Member To Class: ClassName=Designator2 Member=Component R38B (R38) 1.8k
+Added Member To Class: ClassName=Designator1 Member=Component R39A (R39) 4.7k
+Added Member To Class: ClassName=Designator2 Member=Component R39B (R39) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R40A (R40) 4.7k
+Added Member To Class: ClassName=Designator2 Member=Component R40B (R40) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R41A (R41) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R41B (R41) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R42A (R42) 1k
+Added Member To Class: ClassName=Designator2 Member=Component R42B (R42) 1k
+Added Member To Class: ClassName=Designator1 Member=Component R43A (R43) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R43B (R43) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R44A (R44) 4.7k
+Added Member To Class: ClassName=Designator2 Member=Component R44B (R44) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R45A (R45) 4.7k
+Added Member To Class: ClassName=Designator2 Member=Component R45B (R45) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R46A (R46) 220
+Added Member To Class: ClassName=Designator2 Member=Component R46B (R46) 220
+Added Member To Class: ClassName=Designator1 Member=Component R47A (R47) 220
+Added Member To Class: ClassName=Designator2 Member=Component R47B (R47) 220
+Added Member To Class: ClassName=Designator1 Member=Component U1A (U1) LM1117MP-3V3
+Added Member To Class: ClassName=Designator2 Member=Component U1B (U1) LM1117MP-3V3
+Added Member To Class: ClassName=Designator1 Member=Component U2A (U2) RTL2832U
+Added Member To Class: ClassName=Designator2 Member=Component U2B (U2) RTL2832U
+Added Member To Class: ClassName=Designator1 Member=Component U3A (U3) R820T
+Added Member To Class: ClassName=Designator2 Member=Component U3B (U3) R820T
+Added Member To Class: ClassName=Designator1 Member=Component X1A (X1) WTL28.8-OSC28.8
+Added Member To Class: ClassName=Designator2 Member=Component X1B (X1) WTL28.8-OSC28.8
+Added Member To Class: ClassName=RF Member=Wire NetC34A_1
+Added Member To Class: ClassName=RF Member=Wire NetC34A_2
+Added Member To Class: ClassName=RF Member=Wire NetC34B_1
+Added Member To Class: ClassName=RF Member=Wire NetC34B_2
+Added Member To Class: ClassName=RF Member=Wire NetC34C_1
+Added Member To Class: ClassName=RF Member=Wire NetC34C_2
+Added Member To Class: ClassName=RTL-SDR Member=Designator (RTL-SDR.SchDoc)
+Added Room: Name=Designator1

@@ -1,0 +1,6 @@
+Added Component: Designator=K1(HEADER-1X2)
+Add component (AddParameter): Name = "REEL"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011E-36-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADSB_OUT Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-2

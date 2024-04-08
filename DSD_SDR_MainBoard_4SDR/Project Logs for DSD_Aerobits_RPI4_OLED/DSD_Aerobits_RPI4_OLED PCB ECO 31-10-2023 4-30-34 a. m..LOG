@@ -1,0 +1,51 @@
+Change Component Comment : Designator=L1B Old Comment=8.2nH New Comment=LQW15AN8N2G00D
+Add Component: Footprint Not Found DIO_BAV99
+Added Component: Designator=L1A(INDC1006X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQW15AN8N2G00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2A(INDC1608X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQW18ANR15J00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L3A(INDC1608X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQW18ANR15J00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L4A(INDC2518X200N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CB2518T4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 36903205S
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1A-3
+Added Pin To Net: NetName=NetC1A_2 Pin=L1A-1
+Added Pin To Net: NetName=RFINA Pin=L1A-2
+Added Pin To Net: NetName=NetL2A_1 Pin=L2A-1
+Added Pin To Net: NetName=NetL2A_2 Pin=L2A-2
+Added Pin To Net: NetName=NetL3A_1 Pin=L3A-1
+Added Pin To Net: NetName=NetL3A_2 Pin=L3A-2
+Added Pin To Net: NetName=NetL4A_1 Pin=L4A-1
+Added Pin To Net: NetName=VDD1A Pin=L4A-2
+Add Pin To Net: Unknown Pin: Pin MP1A-1
+Add Class Member: Failed to add class member : Component D1A (D1) BAV99
+Added Member To Class: ClassName=Designator1 Member=Component L1A (L1) LQW15AN8N2G00D
+Added Member To Class: ClassName=Designator1 Member=Component L2A (L2) 150nH
+Added Member To Class: ClassName=Designator1 Member=Component L3A (L3) 150nH
+Added Member To Class: ClassName=Designator1 Member=Component L4A (L4) 4.7uH
+Add Class Member: Failed to add class member : Component MP1A (MP1) 36903205S
+Added Room: Name=Designator1
+Added Room: Name=Designator2

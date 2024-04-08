@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=MP? Old Footprint=3670206 New Footprint=36103205S
+Change Component Comment : Designator=MP? Old Comment=3670206 New Comment=36103205S
+Change component parameters: Designator = "MP?" ("MP?"); Footprint = "3670206"; UniqueID = "\ADUZCKIO\ECUWEQYF" ("\ADUZCKIO\ECUWEQYF")
+Change component parameters (AddParameter): Name = "Base Material"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "EMC Shielding"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/36103205S?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/36103205S?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "20mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "36103205S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-SHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Tin Plated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMT Frame"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "20mm"; VariantName = "[No Variations]"

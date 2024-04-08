@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=+5V Pin=J4-2
+Removed Pin From Net: NetName=+5V Pin=J4-4
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Added Pin To Net: NetName=+5V Pin=J6A-1
+Added Pin To Net: NetName=+5V Pin=J6B-1
+Added Pin To Net: NetName=+5V Pin=J8-1
+Added Pin To Net: NetName=+5V Pin=J8-2
+Added Pin To Net: NetName=GNDAA Pin=J8-5
+Added Pin To Net: NetName=GNDAA Pin=J8-6
+Added Pin To Net: NetName=+5V Pin=U1-10
+Change Net Name : Old Net Name=+5V New Net Name=VBUS
+Added Pin To Net: NetName=+5V Pin=J4-2
+Added Pin To Net: NetName=+5V Pin=J4-4
+Added Net: Name=+5V
+Added Pin To Net: NetName=USB_N Pin=J8-4
+Added Pin To Net: NetName=USB_N Pin=U3A-3
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=J8-3
+Added Pin To Net: NetName=USB_P Pin=U3A-4
+Added Net: Name=USB_P
+Added Differential Pair: Name=USB

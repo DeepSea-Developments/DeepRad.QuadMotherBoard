@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C65
+Change Component Designator: OldDesignator=C? NewDesignator=C66
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Net Name : Old Net Name=NetLED?_K New Net Name=NetLED4_K
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-K
+Added Pin To Net: NetName=NetLED3_K Pin=R32-2
+Added Net: Name=NetLED3_K
+Added Pin To Net: NetName=NetLED5_K Pin=LED5-K
+Added Pin To Net: NetName=NetLED5_K Pin=R34-2
+Added Net: Name=NetLED5_K
+Added Pin To Net: NetName=NetLED6_K Pin=LED6-K
+Added Pin To Net: NetName=NetLED6_K Pin=R35-2
+Added Net: Name=NetLED6_K
+Add Class: Class already exists: Designator
+Added Room: Name=Designator1
+Added Room: Name=Designator2
+Added Room: Name=Designator3
+Added Room: Name=Designator4
+Added Room: Name=Designator
+Added Room: Name=Designator

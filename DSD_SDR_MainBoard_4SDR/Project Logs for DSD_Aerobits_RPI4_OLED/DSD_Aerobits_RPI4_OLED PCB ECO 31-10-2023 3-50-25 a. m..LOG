@@ -1,0 +1,19 @@
+Change Net Name : Old Net Name=CLKA New Net Name=CLK
+Change Net Name : Old Net Name=IF+A New Net Name=IF+
+Change Net Name : Old Net Name=IF-A New Net Name=IF-
+Change Net Name : Old Net Name=IF_AGCA New Net Name=IF_AGC
+Change Net Name : Old Net Name=IFAGCA New Net Name=IFAGC
+Change Net Name : Old Net Name=RFINA New Net Name=RFIN
+Change Net Name : Old Net Name=SCL-RTL2832UA New Net Name=SCL-RTL2832U
+Change Net Name : Old Net Name=SCLKA New Net Name=SCLK
+Change Net Name : Old Net Name=SDA-RTL2832UA New Net Name=SDA-RTL2832U
+Change Net Name : Old Net Name=SDATA New Net Name=SDAT
+Change Net Name : Old Net Name=VDD1A New Net Name=VDD1
+Change Net Name : Old Net Name=VDD3A New Net Name=VDD3
+Change Net Name : Old Net Name=VDD_PLLA New Net Name=VDD_PLL
+Change Net Name : Old Net Name=VDDA33A New Net Name=VDDA33
+Change Net Name : Old Net Name=VDDAA New Net Name=VDDA
+Change Net Name : Old Net Name=VDDLVA New Net Name=VDDLV
+Added Class: Name=Designator
+Change Room Name: Old Name=Designator1 New Name=Designator
+Change Room Scope: Old Scope=InComponentClass('Designator1') New Scope=InComponentClass('Designator')

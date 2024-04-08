@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=+5V Pin=U5-1
+Removed Pin From Net: NetName=GNDAA Pin=U5-2
+Removed Pin From Net: NetName=+3V3_TT-SU2 Pin=U5-3
+Change Component Footprint: Designator=U5 Old Footprint=DPAK New Footprint=SOT223
+Change Component Comment : Designator=U5 Old Comment=LD29080DT33R New Comment=LM1117MP-3V3
+Change Component Designator: OldDesignator=LED5A NewDesignator=LED4A
+Change Component Designator: OldDesignator=LED5B NewDesignator=LED4B
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R17 NewDesignator=R14
+Change Component Designator: OldDesignator=R18A NewDesignator=R15A
+Change Component Designator: OldDesignator=R18B NewDesignator=R15B
+Change Component Designator: OldDesignator=R19A NewDesignator=R16A
+Change Component Designator: OldDesignator=R19B NewDesignator=R16B
+Change Component Designator: OldDesignator=R20A NewDesignator=R17A
+Change Component Designator: OldDesignator=R20B NewDesignator=R17B
+Change Component Designator: OldDesignator=R21A NewDesignator=R18A
+Change Component Designator: OldDesignator=R21B NewDesignator=R18B
+Change Component Designator: OldDesignator=R22A NewDesignator=R19A
+Change Component Designator: OldDesignator=R22B NewDesignator=R19B
+Change Component Designator: OldDesignator=R23A NewDesignator=R20A
+Change Component Designator: OldDesignator=R23B NewDesignator=R20B
+Change Component Designator: OldDesignator=R24A NewDesignator=R21A
+Change Component Designator: OldDesignator=R24B NewDesignator=R21B
+Change Component Designator: OldDesignator=R25A NewDesignator=R22A
+Change Component Designator: OldDesignator=R25B NewDesignator=R22B
+Change Component Designator: OldDesignator=R26A NewDesignator=R23A
+Change Component Designator: OldDesignator=R26B NewDesignator=R23B
+Change Component Designator: OldDesignator=R27A NewDesignator=R24A
+Change Component Designator: OldDesignator=R27B NewDesignator=R24B
+Change Component Designator: OldDesignator=R28A NewDesignator=R25A
+Change Component Designator: OldDesignator=R28B NewDesignator=R25B
+Change Component Designator: OldDesignator=R29A NewDesignator=R26A
+Change Component Designator: OldDesignator=R29B NewDesignator=R26B
+Change Component Designator: OldDesignator=R30A NewDesignator=R27A
+Change Component Designator: OldDesignator=R30B NewDesignator=R27B
+Change Component Designator: OldDesignator=R30C NewDesignator=R27C
+Change Component Designator: OldDesignator=R30D NewDesignator=R27D
+Change Component Designator: OldDesignator=R31A NewDesignator=R28A
+Change Component Designator: OldDesignator=R31B NewDesignator=R28B
+Change Component Designator: OldDesignator=R31C NewDesignator=R28C
+Change Component Designator: OldDesignator=R31D NewDesignator=R28D
+Change Component Designator: OldDesignator=R32A NewDesignator=R29A
+Change Component Designator: OldDesignator=R32B NewDesignator=R29B
+Change Component Designator: OldDesignator=R32C NewDesignator=R29C
+Change Component Designator: OldDesignator=R32D NewDesignator=R29D
+Change Component Designator: OldDesignator=R33A NewDesignator=R30A
+Change Component Designator: OldDesignator=R33B NewDesignator=R30B
+Change Component Designator: OldDesignator=R33C NewDesignator=R30C
+Change Component Designator: OldDesignator=R33D NewDesignator=R30D
+Change Component Designator: OldDesignator=R34A NewDesignator=R31A
+Change Component Designator: OldDesignator=R34B NewDesignator=R31B
+Change Component Designator: OldDesignator=R34C NewDesignator=R31C
+Change Component Designator: OldDesignator=R34D NewDesignator=R31D
+Change Component Designator: OldDesignator=R35A NewDesignator=R32A
+Change Component Designator: OldDesignator=R35B NewDesignator=R32B
+Change Component Designator: OldDesignator=R35C NewDesignator=R32C
+Change Component Designator: OldDesignator=R35D NewDesignator=R32D
+Change Component Designator: OldDesignator=R36A NewDesignator=R33A
+Change Component Designator: OldDesignator=R36B NewDesignator=R33B
+Change Component Designator: OldDesignator=R36C NewDesignator=R33C
+Change Component Designator: OldDesignator=R36D NewDesignator=R33D
+Change Component Designator: OldDesignator=R37A NewDesignator=R34A
+Change Component Designator: OldDesignator=R37B NewDesignator=R34B
+Change Component Designator: OldDesignator=R37C NewDesignator=R34C
+Change Component Designator: OldDesignator=R37D NewDesignator=R34D
+Change Component Designator: OldDesignator=R38A NewDesignator=R35A
+Change Component Designator: OldDesignator=R38B NewDesignator=R35B
+Change Component Designator: OldDesignator=R38C NewDesignator=R35C
+Change Component Designator: OldDesignator=R38D NewDesignator=R35D
+Change Component Designator: OldDesignator=R39A NewDesignator=R36A
+Change Component Designator: OldDesignator=R39B NewDesignator=R36B
+Change Component Designator: OldDesignator=R39C NewDesignator=R36C
+Change Component Designator: OldDesignator=R39D NewDesignator=R36D
+Change Component Designator: OldDesignator=R40A NewDesignator=R37A
+Change Component Designator: OldDesignator=R40B NewDesignator=R37B
+Change Component Designator: OldDesignator=R40C NewDesignator=R37C
+Change Component Designator: OldDesignator=R40D NewDesignator=R37D
+Change Component Designator: OldDesignator=R41A NewDesignator=R38A
+Change Component Designator: OldDesignator=R41B NewDesignator=R38B
+Change Component Designator: OldDesignator=R41C NewDesignator=R38C
+Change Component Designator: OldDesignator=R41D NewDesignator=R38D
+Change Component Designator: OldDesignator=R42A NewDesignator=R39A
+Change Component Designator: OldDesignator=R42B NewDesignator=R39B
+Change Component Designator: OldDesignator=R42C NewDesignator=R39C
+Change Component Designator: OldDesignator=R42D NewDesignator=R39D
+Change component parameters: Designator = "U5" ("U5"); Footprint = "DPAK"; UniqueID = "\WZAOYGPT\WFNHCDBQ" ("\WZAOYGPT\WFNHCDBQ")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM1117MP-3.3CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N05A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "LM1117MP-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDAA Pin=U5-1
+Added Pin To Net: NetName=+3V3_TT-SU2 Pin=U5-2
+Added Pin To Net: NetName=+5V Pin=U5-3
+Added Pin To Net: NetName=+3V3_TT-SU2 Pin=U5-4
+Change Net Name : Old Net Name=NetLED5A_K New Net Name=NetLED4A_K
+Change Net Name : Old Net Name=NetLED5B_K New Net Name=NetLED4B_K
+Change Net Name : Old Net Name=NetR19A_1 New Net Name=NetR16A_1
+Change Net Name : Old Net Name=NetR19B_1 New Net Name=NetR16B_1
+Change Net Name : Old Net Name=NetR20A_1 New Net Name=NetR17A_1
+Change Net Name : Old Net Name=NetR20B_1 New Net Name=NetR17B_1
+Change Net Name : Old Net Name=NetR21A_1 New Net Name=NetR18A_1
+Change Net Name : Old Net Name=NetR21B_1 New Net Name=NetR18B_1
+Change Net Name : Old Net Name=NetR22A_1 New Net Name=NetR19A_1
+Change Net Name : Old Net Name=NetR22B_1 New Net Name=NetR19B_1
+Change Net Name : Old Net Name=NetR23A_2 New Net Name=NetR20A_2
+Change Net Name : Old Net Name=NetR23B_2 New Net Name=NetR20B_2
+Change Net Name : Old Net Name=NetR24A_2 New Net Name=NetR21A_2
+Change Net Name : Old Net Name=NetR24B_2 New Net Name=NetR21B_2
+Change Net Name : Old Net Name=NetR25A_2 New Net Name=NetR22A_2
+Change Net Name : Old Net Name=NetR25B_2 New Net Name=NetR22B_2
+Change Net Name : Old Net Name=NetR26A_2 New Net Name=NetR23A_2
+Change Net Name : Old Net Name=NetR26B_2 New Net Name=NetR23B_2
+Change Net Name : Old Net Name=NetR28A_1 New Net Name=NetR25A_1
+Change Net Name : Old Net Name=NetR28B_1 New Net Name=NetR25B_1
+Change Net Name : Old Net Name=NetR32A_2 New Net Name=NetR29A_2
+Change Net Name : Old Net Name=NetR32B_2 New Net Name=NetR29B_2
+Change Net Name : Old Net Name=NetR32C_2 New Net Name=NetR29C_2
+Change Net Name : Old Net Name=NetR32D_2 New Net Name=NetR29D_2
+Change Net Name : Old Net Name=NetR35A_2 New Net Name=NetR32A_2
+Change Net Name : Old Net Name=NetR35B_2 New Net Name=NetR32B_2
+Change Net Name : Old Net Name=NetR35C_2 New Net Name=NetR32C_2
+Change Net Name : Old Net Name=NetR35D_2 New Net Name=NetR32D_2
+Change Net Name : Old Net Name=NetR36A_1 New Net Name=NetR33A_1
+Change Net Name : Old Net Name=NetR36B_1 New Net Name=NetR33B_1
+Change Net Name : Old Net Name=NetR36C_1 New Net Name=NetR33C_1
+Change Net Name : Old Net Name=NetR36D_1 New Net Name=NetR33D_1

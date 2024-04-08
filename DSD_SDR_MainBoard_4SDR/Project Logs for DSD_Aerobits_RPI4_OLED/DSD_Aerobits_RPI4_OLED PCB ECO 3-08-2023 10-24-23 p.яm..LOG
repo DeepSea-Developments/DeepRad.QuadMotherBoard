@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC26_1 Pin=XT1-1
+Removed Pin From Net: NetName=NetC27_1 Pin=XT1-2
+Added Component: Designator=Y1(WT3_3.2_2.5mm)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WTL3M60400VH/WLS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WTL3M60400VH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/WTL3M60400VH/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WTL3M60400VH/WLS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC26_1 Pin=Y1-1
+Added Pin To Net: NetName=GNDA Pin=Y1-2
+Added Pin To Net: NetName=NetC27_1 Pin=Y1-3
+Added Pin To Net: NetName=GNDA Pin=Y1-4
+Added Class: Name=Designator

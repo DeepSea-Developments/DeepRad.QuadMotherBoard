@@ -1,0 +1,730 @@
+Removed Pin From Net: NetName=NetIC2_7 Pin=U2A-40
+Removed Pin From Net: NetName=NetIC2_8 Pin=U2A-41
+Removed Pin From Net: NetName=NetIC2_74 Pin=U2B-40
+Removed Pin From Net: NetName=NetIC2_75 Pin=U2B-41
+Removed Pin From Net: NetName=NetIC2_65 Pin=U2C-40
+Removed Pin From Net: NetName=NetIC2_66 Pin=U2C-41
+Removed Pin From Net: NetName=NetIC2_16 Pin=U2D-40
+Removed Pin From Net: NetName=NetIC2_17 Pin=U2D-41
+Change Component Designator: OldDesignator=C1A NewDesignator=C1D
+Change Component Designator: OldDesignator=C1B NewDesignator=C1C
+Change Component Designator: OldDesignator=C1C NewDesignator=C1B
+Change Component Designator: OldDesignator=C1D NewDesignator=C1A
+Change Component Designator: OldDesignator=C2A NewDesignator=C2D
+Change Component Designator: OldDesignator=C2B NewDesignator=C2C
+Change Component Designator: OldDesignator=C2C NewDesignator=C2B
+Change Component Designator: OldDesignator=C2D NewDesignator=C2A
+Change Component Designator: OldDesignator=C3A NewDesignator=C3D
+Change Component Designator: OldDesignator=C3B NewDesignator=C3C
+Change Component Designator: OldDesignator=C3C NewDesignator=C3B
+Change Component Designator: OldDesignator=C3D NewDesignator=C3A
+Change Component Designator: OldDesignator=C4A NewDesignator=C4D
+Change Component Designator: OldDesignator=C4B NewDesignator=C4C
+Change Component Designator: OldDesignator=C4C NewDesignator=C4B
+Change Component Designator: OldDesignator=C4D NewDesignator=C4A
+Change Component Designator: OldDesignator=C5A NewDesignator=C5D
+Change Component Designator: OldDesignator=C5B NewDesignator=C5C
+Change Component Designator: OldDesignator=C5C NewDesignator=C5B
+Change Component Designator: OldDesignator=C5D NewDesignator=C5A
+Change Component Designator: OldDesignator=C6A NewDesignator=C6D
+Change Component Designator: OldDesignator=C6B NewDesignator=C6C
+Change Component Designator: OldDesignator=C6C NewDesignator=C6B
+Change Component Designator: OldDesignator=C6D NewDesignator=C6A
+Change Component Designator: OldDesignator=C7A NewDesignator=C7D
+Change Component Designator: OldDesignator=C7B NewDesignator=C7C
+Change Component Designator: OldDesignator=C7C NewDesignator=C7B
+Change Component Designator: OldDesignator=C7D NewDesignator=C7A
+Change Component Designator: OldDesignator=C8A NewDesignator=C8D
+Change Component Designator: OldDesignator=C8B NewDesignator=C8C
+Change Component Designator: OldDesignator=C8C NewDesignator=C8B
+Change Component Designator: OldDesignator=C8D NewDesignator=C8A
+Change Component Designator: OldDesignator=C9A NewDesignator=C9D
+Change Component Designator: OldDesignator=C9B NewDesignator=C9C
+Change Component Designator: OldDesignator=C9C NewDesignator=C9B
+Change Component Designator: OldDesignator=C9D NewDesignator=C9A
+Change Component Designator: OldDesignator=C10A NewDesignator=C10D
+Change Component Designator: OldDesignator=C10B NewDesignator=C10C
+Change Component Designator: OldDesignator=C10C NewDesignator=C10B
+Change Component Designator: OldDesignator=C10D NewDesignator=C10A
+Change Component Designator: OldDesignator=C11A NewDesignator=C11D
+Change Component Designator: OldDesignator=C11B NewDesignator=C11C
+Change Component Designator: OldDesignator=C11C NewDesignator=C11B
+Change Component Designator: OldDesignator=C11D NewDesignator=C11A
+Change Component Designator: OldDesignator=C12A NewDesignator=C12D
+Change Component Designator: OldDesignator=C12B NewDesignator=C12C
+Change Component Designator: OldDesignator=C12C NewDesignator=C12B
+Change Component Designator: OldDesignator=C12D NewDesignator=C12A
+Change Component Designator: OldDesignator=C13A NewDesignator=C13D
+Change Component Designator: OldDesignator=C13B NewDesignator=C13C
+Change Component Designator: OldDesignator=C13C NewDesignator=C13B
+Change Component Designator: OldDesignator=C13D NewDesignator=C13A
+Change Component Designator: OldDesignator=C14A NewDesignator=C14D
+Change Component Designator: OldDesignator=C14B NewDesignator=C14C
+Change Component Designator: OldDesignator=C14C NewDesignator=C14B
+Change Component Designator: OldDesignator=C14D NewDesignator=C14A
+Change Component Designator: OldDesignator=C15A NewDesignator=C15D
+Change Component Designator: OldDesignator=C15B NewDesignator=C15C
+Change Component Designator: OldDesignator=C15C NewDesignator=C15B
+Change Component Designator: OldDesignator=C15D NewDesignator=C15A
+Change Component Designator: OldDesignator=C16A NewDesignator=C16D
+Change Component Designator: OldDesignator=C16B NewDesignator=C16C
+Change Component Designator: OldDesignator=C16C NewDesignator=C16B
+Change Component Designator: OldDesignator=C16D NewDesignator=C16A
+Change Component Designator: OldDesignator=C17A NewDesignator=C17D
+Change Component Designator: OldDesignator=C17B NewDesignator=C17C
+Change Component Designator: OldDesignator=C17C NewDesignator=C17B
+Change Component Designator: OldDesignator=C17D NewDesignator=C17A
+Change Component Designator: OldDesignator=C18A NewDesignator=C18D
+Change Component Designator: OldDesignator=C18B NewDesignator=C18C
+Change Component Designator: OldDesignator=C18C NewDesignator=C18B
+Change Component Designator: OldDesignator=C18D NewDesignator=C18A
+Change Component Designator: OldDesignator=C19A NewDesignator=C19D
+Change Component Designator: OldDesignator=C19B NewDesignator=C19C
+Change Component Designator: OldDesignator=C19C NewDesignator=C19B
+Change Component Designator: OldDesignator=C19D NewDesignator=C19A
+Change Component Designator: OldDesignator=C20A NewDesignator=C20D
+Change Component Designator: OldDesignator=C20B NewDesignator=C20C
+Change Component Designator: OldDesignator=C20C NewDesignator=C20B
+Change Component Designator: OldDesignator=C20D NewDesignator=C20A
+Change Component Designator: OldDesignator=C21A NewDesignator=C21D
+Change Component Designator: OldDesignator=C21B NewDesignator=C21C
+Change Component Designator: OldDesignator=C21C NewDesignator=C21B
+Change Component Designator: OldDesignator=C21D NewDesignator=C21A
+Change Component Designator: OldDesignator=C22A NewDesignator=C22D
+Change Component Designator: OldDesignator=C22B NewDesignator=C22C
+Change Component Designator: OldDesignator=C22C NewDesignator=C22B
+Change Component Designator: OldDesignator=C22D NewDesignator=C22A
+Change Component Designator: OldDesignator=C23A NewDesignator=C23D
+Change Component Designator: OldDesignator=C23B NewDesignator=C23C
+Change Component Designator: OldDesignator=C23C NewDesignator=C23B
+Change Component Designator: OldDesignator=C23D NewDesignator=C23A
+Change Component Designator: OldDesignator=C24A NewDesignator=C24D
+Change Component Designator: OldDesignator=C24B NewDesignator=C24C
+Change Component Designator: OldDesignator=C24C NewDesignator=C24B
+Change Component Designator: OldDesignator=C24D NewDesignator=C24A
+Change Component Designator: OldDesignator=C25A NewDesignator=C25D
+Change Component Designator: OldDesignator=C25B NewDesignator=C25C
+Change Component Designator: OldDesignator=C25C NewDesignator=C25B
+Change Component Designator: OldDesignator=C25D NewDesignator=C25A
+Change Component Designator: OldDesignator=C26A NewDesignator=C26D
+Change Component Designator: OldDesignator=C26B NewDesignator=C26C
+Change Component Designator: OldDesignator=C26C NewDesignator=C26B
+Change Component Designator: OldDesignator=C26D NewDesignator=C26A
+Change Component Designator: OldDesignator=C27A NewDesignator=C27D
+Change Component Designator: OldDesignator=C27B NewDesignator=C27C
+Change Component Designator: OldDesignator=C27C NewDesignator=C27B
+Change Component Designator: OldDesignator=C27D NewDesignator=C27A
+Change Component Designator: OldDesignator=C28A NewDesignator=C28D
+Change Component Designator: OldDesignator=C28B NewDesignator=C28C
+Change Component Designator: OldDesignator=C28C NewDesignator=C28B
+Change Component Designator: OldDesignator=C28D NewDesignator=C28A
+Change Component Designator: OldDesignator=C29A NewDesignator=C29D
+Change Component Designator: OldDesignator=C29B NewDesignator=C29C
+Change Component Designator: OldDesignator=C29C NewDesignator=C29B
+Change Component Designator: OldDesignator=C29D NewDesignator=C29A
+Change Component Designator: OldDesignator=C30A NewDesignator=C30D
+Change Component Designator: OldDesignator=C30B NewDesignator=C30C
+Change Component Designator: OldDesignator=C30C NewDesignator=C30B
+Change Component Designator: OldDesignator=C30D NewDesignator=C30A
+Change Component Designator: OldDesignator=C31A NewDesignator=C31D
+Change Component Designator: OldDesignator=C31B NewDesignator=C31C
+Change Component Designator: OldDesignator=C31C NewDesignator=C31B
+Change Component Designator: OldDesignator=C31D NewDesignator=C31A
+Change Component Designator: OldDesignator=C32A NewDesignator=C32D
+Change Component Designator: OldDesignator=C32B NewDesignator=C32C
+Change Component Designator: OldDesignator=C32C NewDesignator=C32B
+Change Component Designator: OldDesignator=C32D NewDesignator=C32A
+Change Component Designator: OldDesignator=C33A NewDesignator=C33D
+Change Component Designator: OldDesignator=C33B NewDesignator=C33C
+Change Component Designator: OldDesignator=C33C NewDesignator=C33B
+Change Component Designator: OldDesignator=C33D NewDesignator=C33A
+Change Component Designator: OldDesignator=C34A NewDesignator=C34D
+Change Component Designator: OldDesignator=C34B NewDesignator=C34C
+Change Component Designator: OldDesignator=C34C NewDesignator=C34B
+Change Component Designator: OldDesignator=C34D NewDesignator=C34A
+Change Component Designator: OldDesignator=C35A NewDesignator=C35D
+Change Component Designator: OldDesignator=C35B NewDesignator=C35C
+Change Component Designator: OldDesignator=C35C NewDesignator=C35B
+Change Component Designator: OldDesignator=C35D NewDesignator=C35A
+Change Component Designator: OldDesignator=D1A NewDesignator=D1D
+Change Component Designator: OldDesignator=D1B NewDesignator=D1C
+Change Component Designator: OldDesignator=D1C NewDesignator=D1B
+Change Component Designator: OldDesignator=D1D NewDesignator=D1A
+Change Component Designator: OldDesignator=FB1A NewDesignator=FB1D
+Change Component Designator: OldDesignator=FB1B NewDesignator=FB1C
+Change Component Designator: OldDesignator=FB1C NewDesignator=FB1B
+Change Component Designator: OldDesignator=FB1D NewDesignator=FB1A
+Change Component Designator: OldDesignator=FB2A NewDesignator=FB2D
+Change Component Designator: OldDesignator=FB2B NewDesignator=FB2C
+Change Component Designator: OldDesignator=FB2C NewDesignator=FB2B
+Change Component Designator: OldDesignator=FB2D NewDesignator=FB2A
+Change Component Designator: OldDesignator=FB3A NewDesignator=FB3D
+Change Component Designator: OldDesignator=FB3B NewDesignator=FB3C
+Change Component Designator: OldDesignator=FB3C NewDesignator=FB3B
+Change Component Designator: OldDesignator=FB3D NewDesignator=FB3A
+Change Component Designator: OldDesignator=FB4A NewDesignator=FB4D
+Change Component Designator: OldDesignator=FB4B NewDesignator=FB4C
+Change Component Designator: OldDesignator=FB4C NewDesignator=FB4B
+Change Component Designator: OldDesignator=FB4D NewDesignator=FB4A
+Change Component Designator: OldDesignator=FB5A NewDesignator=FB5D
+Change Component Designator: OldDesignator=FB5B NewDesignator=FB5C
+Change Component Designator: OldDesignator=FB5C NewDesignator=FB5B
+Change Component Designator: OldDesignator=FB5D NewDesignator=FB5A
+Change Component Designator: OldDesignator=FB6A NewDesignator=FB6D
+Change Component Designator: OldDesignator=FB6B NewDesignator=FB6C
+Change Component Designator: OldDesignator=FB6C NewDesignator=FB6B
+Change Component Designator: OldDesignator=FB6D NewDesignator=FB6A
+Change Component Designator: OldDesignator=IC1A NewDesignator=IC1D
+Change Component Designator: OldDesignator=IC1B NewDesignator=IC1C
+Change Component Designator: OldDesignator=IC1C NewDesignator=IC1B
+Change Component Designator: OldDesignator=IC1D NewDesignator=IC1A
+Change Component Designator: OldDesignator=J1A NewDesignator=J1D
+Change Component Designator: OldDesignator=J1B NewDesignator=J1C
+Change Component Designator: OldDesignator=J1C NewDesignator=J1B
+Change Component Designator: OldDesignator=J1D NewDesignator=J1A
+Change Component Designator: OldDesignator=L1A NewDesignator=L1D
+Change Component Designator: OldDesignator=L1B NewDesignator=L1C
+Change Component Designator: OldDesignator=L1C NewDesignator=L1B
+Change Component Designator: OldDesignator=L1D NewDesignator=L1A
+Change Component Designator: OldDesignator=L2A NewDesignator=L2D
+Change Component Designator: OldDesignator=L2B NewDesignator=L2C
+Change Component Designator: OldDesignator=L2C NewDesignator=L2B
+Change Component Designator: OldDesignator=L2D NewDesignator=L2A
+Change Component Designator: OldDesignator=L3A NewDesignator=L3D
+Change Component Designator: OldDesignator=L3B NewDesignator=L3C
+Change Component Designator: OldDesignator=L3C NewDesignator=L3B
+Change Component Designator: OldDesignator=L3D NewDesignator=L3A
+Change Component Designator: OldDesignator=L4A NewDesignator=L4D
+Change Component Designator: OldDesignator=L4B NewDesignator=L4C
+Change Component Designator: OldDesignator=L4C NewDesignator=L4B
+Change Component Designator: OldDesignator=L4D NewDesignator=L4A
+Change Component Designator: OldDesignator=MP1A NewDesignator=MP1D
+Change Component Designator: OldDesignator=MP1B NewDesignator=MP1C
+Change Component Designator: OldDesignator=MP1C NewDesignator=MP1B
+Change Component Designator: OldDesignator=MP1D NewDesignator=MP1A
+Change Component Designator: OldDesignator=R1A NewDesignator=R1D
+Change Component Designator: OldDesignator=R1B NewDesignator=R1C
+Change Component Designator: OldDesignator=R1C NewDesignator=R1B
+Change Component Designator: OldDesignator=R1D NewDesignator=R1A
+Change Component Designator: OldDesignator=R2A NewDesignator=R2D
+Change Component Designator: OldDesignator=R2B NewDesignator=R2C
+Change Component Designator: OldDesignator=R2C NewDesignator=R2B
+Change Component Designator: OldDesignator=R2D NewDesignator=R2A
+Change Component Designator: OldDesignator=R3A NewDesignator=R3D
+Change Component Designator: OldDesignator=R3B NewDesignator=R3C
+Change Component Designator: OldDesignator=R3C NewDesignator=R3B
+Change Component Designator: OldDesignator=R3D NewDesignator=R3A
+Change Component Designator: OldDesignator=R4A NewDesignator=R4D
+Change Component Designator: OldDesignator=R4B NewDesignator=R4C
+Change Component Designator: OldDesignator=R4C NewDesignator=R4B
+Change Component Designator: OldDesignator=R4D NewDesignator=R4A
+Change Component Designator: OldDesignator=R5A NewDesignator=R5D
+Change Component Designator: OldDesignator=R5B NewDesignator=R5C
+Change Component Designator: OldDesignator=R5C NewDesignator=R5B
+Change Component Designator: OldDesignator=R5D NewDesignator=R5A
+Change Component Designator: OldDesignator=R6A NewDesignator=R6D
+Change Component Designator: OldDesignator=R6B NewDesignator=R6C
+Change Component Designator: OldDesignator=R6C NewDesignator=R6B
+Change Component Designator: OldDesignator=R6D NewDesignator=R6A
+Change Component Designator: OldDesignator=R7A NewDesignator=R7D
+Change Component Designator: OldDesignator=R7B NewDesignator=R7C
+Change Component Designator: OldDesignator=R7C NewDesignator=R7B
+Change Component Designator: OldDesignator=R7D NewDesignator=R7A
+Change Component Designator: OldDesignator=R8A NewDesignator=R8D
+Change Component Designator: OldDesignator=R8B NewDesignator=R8C
+Change Component Designator: OldDesignator=R8C NewDesignator=R8B
+Change Component Designator: OldDesignator=R8D NewDesignator=R8A
+Change Component Designator: OldDesignator=R9A NewDesignator=R9D
+Change Component Designator: OldDesignator=R9B NewDesignator=R9C
+Change Component Designator: OldDesignator=R9C NewDesignator=R9B
+Change Component Designator: OldDesignator=R9D NewDesignator=R9A
+Change Component Designator: OldDesignator=R10A NewDesignator=R10D
+Change Component Designator: OldDesignator=R10B NewDesignator=R10C
+Change Component Designator: OldDesignator=R10C NewDesignator=R10B
+Change Component Designator: OldDesignator=R10D NewDesignator=R10A
+Change Component Designator: OldDesignator=R11A NewDesignator=R11D
+Change Component Designator: OldDesignator=R11B NewDesignator=R11C
+Change Component Designator: OldDesignator=R11C NewDesignator=R11B
+Change Component Designator: OldDesignator=R11D NewDesignator=R11A
+Change Component Designator: OldDesignator=R12A NewDesignator=R12D
+Change Component Designator: OldDesignator=R12B NewDesignator=R12C
+Change Component Designator: OldDesignator=R12C NewDesignator=R12B
+Change Component Designator: OldDesignator=R12D NewDesignator=R12A
+Change Component Designator: OldDesignator=U1A NewDesignator=U1D
+Change Component Designator: OldDesignator=U1B NewDesignator=U1C
+Change Component Designator: OldDesignator=U1C NewDesignator=U1B
+Change Component Designator: OldDesignator=U1D NewDesignator=U1A
+Change Component Designator: OldDesignator=U2A NewDesignator=U2D
+Change Component Designator: OldDesignator=U2B NewDesignator=U2C
+Change Component Designator: OldDesignator=U2C NewDesignator=U2B
+Change Component Designator: OldDesignator=U2D NewDesignator=U2A
+Change Component Designator: OldDesignator=U3A NewDesignator=U3D
+Change Component Designator: OldDesignator=U3B NewDesignator=U3C
+Change Component Designator: OldDesignator=U3C NewDesignator=U3B
+Change Component Designator: OldDesignator=U3D NewDesignator=U3A
+Change Component Designator: OldDesignator=X1A NewDesignator=X1D
+Change Component Designator: OldDesignator=X1B NewDesignator=X1C
+Change Component Designator: OldDesignator=X1C NewDesignator=X1B
+Change Component Designator: OldDesignator=X1D NewDesignator=X1A
+Added Component: Designator=J5(692221030100)
+Add component (AddParameter): Name = "Application"; Value = "USB 3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Input/Output Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/692221030100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/692221030100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "Type B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "692221030100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30V (AC)"; VariantName = "[No Variations]"
+Added Component: Designator=R36(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R37(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R38(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R39(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R40(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R41(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R42(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R43(SMD-1206-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ8GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Panasonic%20Renders/ERJ-1206%20Pkg.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.25W, 1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "1074190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetFB8_1 Pin=J5-1
+Added Pin To Net: NetName=USBDP0_N Pin=J5-2
+Added Pin To Net: NetName=USBDP0_P Pin=J5-3
+Added Pin To Net: NetName=0SSTX_P Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=SSRX0_N Pin=J5-6
+Added Pin To Net: NetName=0SSTX_N Pin=J5-7
+Added Pin To Net: NetName=SSRX0_P Pin=J5-8
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-Shell
+Added Pin To Net: NetName=GND Pin=J5-Shell
+Added Pin To Net: NetName=NetIC2_7 Pin=R36-2
+Added Pin To Net: NetName=NetIC2_8 Pin=R37-2
+Added Pin To Net: NetName=NetIC2_74 Pin=R38-2
+Added Pin To Net: NetName=NetIC2_75 Pin=R39-2
+Added Pin To Net: NetName=NetIC2_65 Pin=R40-2
+Added Pin To Net: NetName=NetIC2_66 Pin=R41-2
+Added Pin To Net: NetName=NetIC2_16 Pin=R42-2
+Added Pin To Net: NetName=NetIC2_17 Pin=R43-2
+Change Net Name : Old Net Name=CLKA New Net Name=CLKD
+Change Net Name : Old Net Name=CLKB New Net Name=CLKC
+Change Net Name : Old Net Name=CLKC New Net Name=CLKB
+Change Net Name : Old Net Name=CLKD New Net Name=CLKA
+Change Net Name : Old Net Name=IF+A New Net Name=IF+D
+Change Net Name : Old Net Name=IF+B New Net Name=IF+C
+Change Net Name : Old Net Name=IF+C New Net Name=IF+B
+Change Net Name : Old Net Name=IF+D New Net Name=IF+A
+Change Net Name : Old Net Name=IF-A New Net Name=IF-D
+Change Net Name : Old Net Name=IF-B New Net Name=IF-C
+Change Net Name : Old Net Name=IF-C New Net Name=IF-B
+Change Net Name : Old Net Name=IF-D New Net Name=IF-A
+Change Net Name : Old Net Name=IF_AGCA New Net Name=IF_AGCD
+Change Net Name : Old Net Name=IF_AGCB New Net Name=IF_AGCC
+Change Net Name : Old Net Name=IF_AGCC New Net Name=IF_AGCB
+Change Net Name : Old Net Name=IF_AGCD New Net Name=IF_AGCA
+Change Net Name : Old Net Name=IFAGCA New Net Name=IFAGCD
+Change Net Name : Old Net Name=IFAGCB New Net Name=IFAGCC
+Change Net Name : Old Net Name=IFAGCC New Net Name=IFAGCB
+Change Net Name : Old Net Name=IFAGCD New Net Name=IFAGCA
+Change Net Name : Old Net Name=NetC1A_1 New Net Name=NetC1D_1
+Change Net Name : Old Net Name=NetC1A_2 New Net Name=NetC1D_2
+Change Net Name : Old Net Name=NetC1B_1 New Net Name=NetC1C_1
+Change Net Name : Old Net Name=NetC1B_2 New Net Name=NetC1C_2
+Change Net Name : Old Net Name=NetC1C_1 New Net Name=NetC1B_1
+Change Net Name : Old Net Name=NetC1C_2 New Net Name=NetC1B_2
+Change Net Name : Old Net Name=NetC1D_1 New Net Name=NetC1A_1
+Change Net Name : Old Net Name=NetC1D_2 New Net Name=NetC1A_2
+Change Net Name : Old Net Name=NetC10A_2 New Net Name=NetC10D_2
+Change Net Name : Old Net Name=NetC10B_2 New Net Name=NetC10C_2
+Change Net Name : Old Net Name=NetC10C_2 New Net Name=NetC10B_2
+Change Net Name : Old Net Name=NetC10D_2 New Net Name=NetC10A_2
+Change Net Name : Old Net Name=NetC11A_2 New Net Name=NetC11D_2
+Change Net Name : Old Net Name=NetC11B_2 New Net Name=NetC11C_2
+Change Net Name : Old Net Name=NetC11C_2 New Net Name=NetC11B_2
+Change Net Name : Old Net Name=NetC11D_2 New Net Name=NetC11A_2
+Change Net Name : Old Net Name=NetC12A_1 New Net Name=NetC12D_1
+Change Net Name : Old Net Name=NetC12B_1 New Net Name=NetC12C_1
+Change Net Name : Old Net Name=NetC12C_1 New Net Name=NetC12B_1
+Change Net Name : Old Net Name=NetC12D_1 New Net Name=NetC12A_1
+Change Net Name : Old Net Name=NetC15A_2 New Net Name=NetC15D_2
+Change Net Name : Old Net Name=NetC15B_2 New Net Name=NetC15C_2
+Change Net Name : Old Net Name=NetC15C_2 New Net Name=NetC15B_2
+Change Net Name : Old Net Name=NetC15D_2 New Net Name=NetC15A_2
+Change Net Name : Old Net Name=NetC16A_1 New Net Name=NetC16D_1
+Change Net Name : Old Net Name=NetC16B_1 New Net Name=NetC16C_1
+Change Net Name : Old Net Name=NetC16C_1 New Net Name=NetC16B_1
+Change Net Name : Old Net Name=NetC16D_1 New Net Name=NetC16A_1
+Change Net Name : Old Net Name=NetC18A_2 New Net Name=NetC18D_2
+Change Net Name : Old Net Name=NetC18B_2 New Net Name=NetC18C_2
+Change Net Name : Old Net Name=NetC18C_2 New Net Name=NetC18B_2
+Change Net Name : Old Net Name=NetC18D_2 New Net Name=NetC18A_2
+Change Net Name : Old Net Name=NetC21A_1 New Net Name=NetC21D_1
+Change Net Name : Old Net Name=NetC21B_1 New Net Name=NetC21C_1
+Change Net Name : Old Net Name=NetC21C_1 New Net Name=NetC21B_1
+Change Net Name : Old Net Name=NetC21D_1 New Net Name=NetC21A_1
+Change Net Name : Old Net Name=NetC23A_1 New Net Name=NetC23D_1
+Change Net Name : Old Net Name=NetC23B_1 New Net Name=NetC23C_1
+Change Net Name : Old Net Name=NetC23C_1 New Net Name=NetC23B_1
+Change Net Name : Old Net Name=NetC23D_1 New Net Name=NetC23A_1
+Change Net Name : Old Net Name=NetC24A_1 New Net Name=NetC24D_1
+Change Net Name : Old Net Name=NetC24B_1 New Net Name=NetC24C_1
+Change Net Name : Old Net Name=NetC24C_1 New Net Name=NetC24B_1
+Change Net Name : Old Net Name=NetC24D_1 New Net Name=NetC24A_1
+Change Net Name : Old Net Name=NetC27A_2 New Net Name=NetC27D_2
+Change Net Name : Old Net Name=NetC27B_2 New Net Name=NetC27C_2
+Change Net Name : Old Net Name=NetC27C_2 New Net Name=NetC27B_2
+Change Net Name : Old Net Name=NetC27D_2 New Net Name=NetC27A_2
+Change Net Name : Old Net Name=NetC28A_1 New Net Name=NetC28D_1
+Change Net Name : Old Net Name=NetC28B_1 New Net Name=NetC28C_1
+Change Net Name : Old Net Name=NetC28C_1 New Net Name=NetC28B_1
+Change Net Name : Old Net Name=NetC28D_1 New Net Name=NetC28A_1
+Change Net Name : Old Net Name=NetC34A_1 New Net Name=NetC34D_1
+Change Net Name : Old Net Name=NetC34B_1 New Net Name=NetC34C_1
+Change Net Name : Old Net Name=NetC34C_1 New Net Name=NetC34B_1
+Change Net Name : Old Net Name=NetC34D_1 New Net Name=NetC34A_1
+Change Net Name : Old Net Name=NetC35A_1 New Net Name=NetC35D_1
+Change Net Name : Old Net Name=NetC35B_1 New Net Name=NetC35C_1
+Change Net Name : Old Net Name=NetC35C_1 New Net Name=NetC35B_1
+Change Net Name : Old Net Name=NetC35D_1 New Net Name=NetC35A_1
+Change Net Name : Old Net Name=NetL2A_1 New Net Name=NetL2D_1
+Change Net Name : Old Net Name=NetL2A_2 New Net Name=NetL2D_2
+Change Net Name : Old Net Name=NetL2B_1 New Net Name=NetL2C_1
+Change Net Name : Old Net Name=NetL2B_2 New Net Name=NetL2C_2
+Change Net Name : Old Net Name=NetL2C_1 New Net Name=NetL2B_1
+Change Net Name : Old Net Name=NetL2C_2 New Net Name=NetL2B_2
+Change Net Name : Old Net Name=NetL2D_1 New Net Name=NetL2A_1
+Change Net Name : Old Net Name=NetL2D_2 New Net Name=NetL2A_2
+Change Net Name : Old Net Name=NetL3A_1 New Net Name=NetL3D_1
+Change Net Name : Old Net Name=NetL3A_2 New Net Name=NetL3D_2
+Change Net Name : Old Net Name=NetL3B_1 New Net Name=NetL3C_1
+Change Net Name : Old Net Name=NetL3B_2 New Net Name=NetL3C_2
+Change Net Name : Old Net Name=NetL3C_1 New Net Name=NetL3B_1
+Change Net Name : Old Net Name=NetL3C_2 New Net Name=NetL3B_2
+Change Net Name : Old Net Name=NetL3D_1 New Net Name=NetL3A_1
+Change Net Name : Old Net Name=NetL3D_2 New Net Name=NetL3A_2
+Change Net Name : Old Net Name=NetL4A_1 New Net Name=NetL4D_1
+Change Net Name : Old Net Name=NetL4B_1 New Net Name=NetL4C_1
+Change Net Name : Old Net Name=NetL4C_1 New Net Name=NetL4B_1
+Change Net Name : Old Net Name=NetL4D_1 New Net Name=NetL4A_1
+Change Net Name : Old Net Name=NetR2A_2 New Net Name=NetR2D_2
+Change Net Name : Old Net Name=NetR2B_2 New Net Name=NetR2C_2
+Change Net Name : Old Net Name=NetR2C_2 New Net Name=NetR2B_2
+Change Net Name : Old Net Name=NetR2D_2 New Net Name=NetR2A_2
+Change Net Name : Old Net Name=NetR6A_2 New Net Name=NetR6D_2
+Change Net Name : Old Net Name=NetR6B_2 New Net Name=NetR6C_2
+Change Net Name : Old Net Name=NetR6C_2 New Net Name=NetR6B_2
+Change Net Name : Old Net Name=NetR6D_2 New Net Name=NetR6A_2
+Change Net Name : Old Net Name=NetR11A_2 New Net Name=NetR11D_2
+Change Net Name : Old Net Name=NetR11B_2 New Net Name=NetR11C_2
+Change Net Name : Old Net Name=NetR11C_2 New Net Name=NetR11B_2
+Change Net Name : Old Net Name=NetR11D_2 New Net Name=NetR11A_2
+Change Net Name : Old Net Name=NetR12A_2 New Net Name=NetR12D_2
+Change Net Name : Old Net Name=NetR12B_2 New Net Name=NetR12C_2
+Change Net Name : Old Net Name=NetR12C_2 New Net Name=NetR12B_2
+Change Net Name : Old Net Name=NetR12D_2 New Net Name=NetR12A_2
+Change Net Name : Old Net Name=NetU2A_27 New Net Name=NetU2D_27
+Change Net Name : Old Net Name=NetU2B_27 New Net Name=NetU2C_27
+Change Net Name : Old Net Name=NetU2C_27 New Net Name=NetU2B_27
+Change Net Name : Old Net Name=NetU2D_27 New Net Name=NetU2A_27
+Change Net Name : Old Net Name=RFINA New Net Name=RFIND
+Change Net Name : Old Net Name=RFINB New Net Name=RFINC
+Change Net Name : Old Net Name=RFINC New Net Name=RFINB
+Change Net Name : Old Net Name=RFIND New Net Name=RFINA
+Change Net Name : Old Net Name=SCL-RTL2832UA New Net Name=SCL-RTL2832UD
+Change Net Name : Old Net Name=SCL-RTL2832UB New Net Name=SCL-RTL2832UC
+Change Net Name : Old Net Name=SCL-RTL2832UC New Net Name=SCL-RTL2832UB
+Change Net Name : Old Net Name=SCL-RTL2832UD New Net Name=SCL-RTL2832UA
+Change Net Name : Old Net Name=SCLKA New Net Name=SCLKD
+Change Net Name : Old Net Name=SCLKB New Net Name=SCLKC
+Change Net Name : Old Net Name=SCLKC New Net Name=SCLKB
+Change Net Name : Old Net Name=SCLKD New Net Name=SCLKA
+Change Net Name : Old Net Name=SDA-RTL2832UA New Net Name=SDA-RTL2832UD
+Change Net Name : Old Net Name=SDA-RTL2832UB New Net Name=SDA-RTL2832UC
+Change Net Name : Old Net Name=SDA-RTL2832UC New Net Name=SDA-RTL2832UB
+Change Net Name : Old Net Name=SDA-RTL2832UD New Net Name=SDA-RTL2832UA
+Change Net Name : Old Net Name=SDATA New Net Name=SDATD
+Change Net Name : Old Net Name=SDATB New Net Name=SDATC
+Change Net Name : Old Net Name=SDATC New Net Name=SDATB
+Change Net Name : Old Net Name=SDATD New Net Name=SDATA
+Change Net Name : Old Net Name=VDD1A New Net Name=VDD1D
+Change Net Name : Old Net Name=VDD1B New Net Name=VDD1C
+Change Net Name : Old Net Name=VDD1C New Net Name=VDD1B
+Change Net Name : Old Net Name=VDD1D New Net Name=VDD1A
+Change Net Name : Old Net Name=VDD3A New Net Name=VDD3D
+Change Net Name : Old Net Name=VDD3B New Net Name=VDD3C
+Change Net Name : Old Net Name=VDD3C New Net Name=VDD3B
+Change Net Name : Old Net Name=VDD3D New Net Name=VDD3A
+Change Net Name : Old Net Name=VDD_PLLA New Net Name=VDD_PLLD
+Change Net Name : Old Net Name=VDD_PLLB New Net Name=VDD_PLLC
+Change Net Name : Old Net Name=VDD_PLLC New Net Name=VDD_PLLB
+Change Net Name : Old Net Name=VDD_PLLD New Net Name=VDD_PLLA
+Change Net Name : Old Net Name=VDDA33A New Net Name=VDDA33D
+Change Net Name : Old Net Name=VDDA33B New Net Name=VDDA33C
+Change Net Name : Old Net Name=VDDA33C New Net Name=VDDA33B
+Change Net Name : Old Net Name=VDDA33D New Net Name=VDDA33A
+Change Net Name : Old Net Name=VDDAA New Net Name=VDDAD
+Change Net Name : Old Net Name=VDDAB New Net Name=VDDAC
+Change Net Name : Old Net Name=VDDAC New Net Name=VDDAB
+Change Net Name : Old Net Name=VDDAD New Net Name=VDDAA
+Change Net Name : Old Net Name=VDDLVA New Net Name=VDDLVD
+Change Net Name : Old Net Name=VDDLVB New Net Name=VDDLVC
+Change Net Name : Old Net Name=VDDLVC New Net Name=VDDLVB
+Change Net Name : Old Net Name=VDDLVD New Net Name=VDDLVA
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=U2D-40
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U2D-41
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=U2C-40
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U2C-41
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=U2B-40
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=U2B-41
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=U2A-40
+Added Net: Name=NetR42_1
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_1 Pin=U2A-41
+Added Net: Name=NetR43_1
+Add Class: Class already exists: Designator
+Add Differential Pair: Number of nets in differential pair NetIC2_7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_8 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_16 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_17 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_65 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_66 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_74 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_75 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR36_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR37_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR38_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR39_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR40_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR41_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR42_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR43_1 is 1 instead of 2
+Added Member To Class: ClassName=Designator1 Member=Component MP1A (MP1) 36903205S

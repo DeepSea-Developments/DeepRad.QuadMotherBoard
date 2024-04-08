@@ -1,0 +1,30 @@
+Added Component: Designator=J7(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B4B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B4B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=VBUS Pin=J8-4
+Change Net Name : Old Net Name=NetU2_29 New Net Name=ADSB_OUT
+Added Pin To Net: NetName=AUX_USB_N Pin=IC1B-66
+Added Pin To Net: NetName=AUX_USB_N Pin=J8-2
+Added Net: Name=AUX_USB_N
+Added Pin To Net: NetName=AUX_USB_P Pin=IC1B-65
+Added Pin To Net: NetName=AUX_USB_P Pin=J8-3
+Added Net: Name=AUX_USB_P
+Added Differential Pair: Name=AUX_USB

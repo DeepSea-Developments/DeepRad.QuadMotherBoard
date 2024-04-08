@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetIC2_7 Pin=U2A-40
+Added Pin To Net: NetName=NetIC2_8 Pin=U2A-41
+Added Pin To Net: NetName=NetIC2_74 Pin=U2B-40
+Added Pin To Net: NetName=NetIC2_75 Pin=U2B-41
+Added Pin To Net: NetName=NetIC2_16 Pin=U2D-40
+Added Pin To Net: NetName=NetIC2_17 Pin=U2D-41
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator1 Member=Component MP1A (MP1) 36903205S

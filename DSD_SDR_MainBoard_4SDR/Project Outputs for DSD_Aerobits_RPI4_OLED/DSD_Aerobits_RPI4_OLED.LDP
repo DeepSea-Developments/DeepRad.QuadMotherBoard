@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Cristian Rojas\Videos\DSD_SDR_MainBoard_4SDR\DSD_Aerobits_RPI4_OLED.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dsd_aerobits_rpi4_oled-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dsd_aerobits_rpi4_oled-slotholes.txt|DrillLayers=gtl,gbl

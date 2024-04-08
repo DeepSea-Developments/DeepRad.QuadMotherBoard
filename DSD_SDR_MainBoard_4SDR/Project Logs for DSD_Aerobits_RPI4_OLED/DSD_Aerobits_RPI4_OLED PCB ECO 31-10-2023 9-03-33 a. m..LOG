@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=NetIC2_65 Pin=IC2-65
+Added Pin To Net: NetName=NetIC2_65 Pin=U2C-40
+Added Net: Name=NetIC2_65
+Added Pin To Net: NetName=NetIC2_66 Pin=IC2-66
+Added Pin To Net: NetName=NetIC2_66 Pin=U2C-41
+Added Net: Name=NetIC2_66
+Add Class: Class already exists: Designator
+Add Differential Pair: Number of nets in differential pair NetIC2_7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_8 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_16 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_17 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_65 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_66 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_74 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_75 is 1 instead of 2
+Added Differential Pair: Name=USBDP0

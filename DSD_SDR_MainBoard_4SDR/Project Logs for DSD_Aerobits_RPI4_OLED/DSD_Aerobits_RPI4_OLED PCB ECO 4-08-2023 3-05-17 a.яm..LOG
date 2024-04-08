@@ -1,0 +1,86 @@
+Removed Member From Class: ClassName=Designator Member=C1
+Removed Member From Class: ClassName=Designator Member=FB1
+Removed Member From Class: ClassName=Designator Member=LED1
+Removed Member From Class: ClassName=Designator Member=LED2
+Removed Member From Class: ClassName=Designator Member=LED3
+Removed Member From Class: ClassName=Designator Member=R1
+Removed Member From Class: ClassName=Designator Member=R2
+Removed Member From Class: ClassName=Designator Member=R3
+Removed Member From Class: ClassName=Designator Member=R4
+Added Pin To Net: NetName=NetU2_2 Pin=U5D-40
+Added Pin To Net: NetName=NetU2_1 Pin=U5D-41
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator1 Member=Component C11A (C11) 330pF
+Added Member To Class: ClassName=Designator2 Member=Component C11B (C11) 330pF
+Added Member To Class: ClassName=Designator3 Member=Component C11C (C11) 330pF
+Added Member To Class: ClassName=Designator4 Member=Component C11D (C11) 330pF
+Added Member To Class: ClassName=Designator1 Member=Component C12A (C12) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C12B (C12) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C12C (C12) 0.10µF
+Added Member To Class: ClassName=Designator4 Member=Component C12D (C12) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C13A (C13) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C13B (C13) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C13C (C13) 0.10µF
+Added Member To Class: ClassName=Designator4 Member=Component C13D (C13) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C14A (C14) 10000pF
+Added Member To Class: ClassName=Designator2 Member=Component C14B (C14) 10000pF
+Added Member To Class: ClassName=Designator3 Member=Component C14C (C14) 10000pF
+Added Member To Class: ClassName=Designator4 Member=Component C14D (C14) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C15A (C15) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C15B (C15) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C15C (C15) 0.10µF
+Added Member To Class: ClassName=Designator4 Member=Component C15D (C15) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C16A (C16) 2.2µF
+Added Member To Class: ClassName=Designator2 Member=Component C16B (C16) 2.2µF
+Added Member To Class: ClassName=Designator3 Member=Component C16C (C16) 2.2µF
+Added Member To Class: ClassName=Designator1 Member=Component C17A (C17) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C17B (C17) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C17C (C17) 0.10µF
+Added Member To Class: ClassName=Designator4 Member=Component C17D (C17) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C18A (C18) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C18B (C18) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C18C (C18) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C19A (C19) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C19B (C19) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C19C (C19) 0.10µF
+Added Member To Class: ClassName=Designator4 Member=Component C19D (C19) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C20B (C20) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C20C (C20) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C21B (C21) 0.33µF
+Added Member To Class: ClassName=Designator3 Member=Component C21C (C21) 0.33µF
+Added Member To Class: ClassName=Designator4 Member=Component C21D (C21) 0.33µF
+Added Member To Class: ClassName=Designator1 Member=Component C22A (C22) 1000pF
+Added Member To Class: ClassName=Designator2 Member=Component C22B (C22) 1000pF
+Added Member To Class: ClassName=Designator3 Member=Component C22C (C22) 1000pF
+Added Member To Class: ClassName=Designator2 Member=Component C23B (C23) 6.8pF
+Added Member To Class: ClassName=Designator3 Member=Component C23C (C23) 6.8pF
+Added Member To Class: ClassName=Designator4 Member=Component C23D (C23) 6.8pF
+Added Member To Class: ClassName=Designator1 Member=Component C24A (C24) 10µF
+Added Member To Class: ClassName=Designator2 Member=Component C24B (C24) 10µF
+Added Member To Class: ClassName=Designator3 Member=Component C24C (C24) 10µF
+Added Member To Class: ClassName=Designator4 Member=Component C24D (C24) 10µF
+Added Member To Class: ClassName=Designator2 Member=Component C25B (C25) 1µF
+Added Member To Class: ClassName=Designator3 Member=Component C25C (C25) 1µF
+Added Member To Class: ClassName=Designator4 Member=Component C25D (C25) 1µF
+Added Member To Class: ClassName=Designator1 Member=Component C26A (C26) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C26B (C26) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C26C (C26) 0.10µF
+Added Member To Class: ClassName=Designator4 Member=Component C26D (C26) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C27B (C27) 2.2µF
+Added Member To Class: ClassName=Designator3 Member=Component C27C (C27) 2.2µF
+Added Member To Class: ClassName=Designator4 Member=Component C27D (C27) 2.2µF
+Added Member To Class: ClassName=Designator1 Member=Component C28A (C28) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C28B (C28) 0.10µF
+Added Member To Class: ClassName=Designator3 Member=Component C28C (C28) 0.10µF
+Added Member To Class: ClassName=Designator4 Member=Component C28D (C28) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C29A (C29) 220µF
+Added Member To Class: ClassName=Designator2 Member=Component C29B (C29) 220µF
+Added Member To Class: ClassName=Designator3 Member=Component C29C (C29) 220µF
+Added Member To Class: ClassName=Designator4 Member=Component C29D (C29) 220µF
+Added Member To Class: ClassName=Designator1 Member=Component L2A (L2) 150nH
+Added Member To Class: ClassName=Designator2 Member=Component L3B (L3) 150nH
+Added Member To Class: ClassName=Designator3 Member=Component L3C (L3) 150nH
+Added Member To Class: ClassName=Designator4 Member=Component L3D (L3) 150nH
+Added Member To Class: ClassName=Designator2 Member=Component U4B (U4) AT24C02C-MAHM-E
+Added Member To Class: ClassName=Designator3 Member=Component U4C (U4) AT24C02C-MAHM-E
+Added Member To Class: ClassName=Designator4 Member=Component U4D (U4) AT24C02C-MAHM-E

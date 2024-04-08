@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=DSD_Aerobits_RPI4_OLED Member=R10
+Removed Member From Class: ClassName=DSD_Aerobits_RPI4_OLED Member=R17
+Removed Member From Class: ClassName=DSD_Aerobits_RPI4_OLED Member=R19
+Removed Member From Class: ClassName=DSD_Aerobits_RPI4_OLED Member=R21
+Removed Member From Class: ClassName=DSD_Aerobits_RPI4_OLED Member=R23
+Removed Member From Class: ClassName=DSD_Aerobits_RPI4_OLED Member=R24
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U5B-40
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-4
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U5B-41
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-3
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U5A-40
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U2-7
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U5A-41
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U2-6
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U5D-40
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U2-9
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U5D-41
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U2-8
+Added Net: Name=NetR9_2
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R1 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R2 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R3 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R4 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R5 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R7 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R8 0.0
+Added Member To Class: ClassName=DSD_Aerobits_RPI4_OLED Member=Component R9 0.0
+Added Member To Class: ClassName=Designator Member=Component R13 100k
+Added Member To Class: ClassName=Designator Member=Component R15 10k
+Added Member To Class: ClassName=Designator Member=Component R16 10k
+Added Member To Class: ClassName=Designator1 Member=Component R25A (R25) 4.7k
+Added Member To Class: ClassName=Designator2 Member=Component R25B (R25) 4.7k
+Added Member To Class: ClassName=Designator3 Member=Component R25C (R25) 4.7k
+Added Member To Class: ClassName=Designator4 Member=Component R25D (R25) 4.7k
+Added Member To Class: ClassName=Designator2 Member=Component R27B (R27) 10k
+Added Member To Class: ClassName=Designator3 Member=Component R27C (R27) 10k
+Added Member To Class: ClassName=Designator4 Member=Component R27D (R27) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R28A (R28) 220
+Added Member To Class: ClassName=Designator2 Member=Component R28B (R28) 220
+Added Member To Class: ClassName=Designator3 Member=Component R28C (R28) 220
+Added Member To Class: ClassName=Designator4 Member=Component R28D (R28) 220
+Added Member To Class: ClassName=Designator2 Member=Component R29B (R29) 220
+Added Member To Class: ClassName=Designator3 Member=Component R29C (R29) 220
+Added Member To Class: ClassName=Designator4 Member=Component R29D (R29) 220

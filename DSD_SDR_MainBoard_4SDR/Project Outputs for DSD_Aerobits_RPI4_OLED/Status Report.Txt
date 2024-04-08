@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DSD_Aerobits_RPI4_OLED.PrjPcb]
+   Generated File[DSD_Aerobits_RPI4_OLED-RoundHoles.TXT]
+   Generated File[DSD_Aerobits_RPI4_OLED-SlotHoles.TXT]
+   Generated File[DSD_Aerobits_RPI4_OLED.LDP]
+   Generated File[DSD_Aerobits_RPI4_OLED.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:39:55 p. m. On 4/03/2024

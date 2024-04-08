@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC42A_1 Pin=Y2A-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2A-2
+Removed Pin From Net: NetName=NetC43A_1 Pin=Y2A-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2A-4
+Removed Pin From Net: NetName=NetC42B_1 Pin=Y2B-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2B-2
+Removed Pin From Net: NetName=NetC43B_1 Pin=Y2B-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2B-4
+Removed Pin From Net: NetName=NetC42C_1 Pin=Y2C-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2C-2
+Removed Pin From Net: NetName=NetC43C_1 Pin=Y2C-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2C-4
+Removed Pin From Net: NetName=NetC42D_1 Pin=Y2D-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2D-2
+Removed Pin From Net: NetName=NetC43D_1 Pin=Y2D-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2D-4
+Change Component Designator: OldDesignator=XT?A NewDesignator=XT1A
+Change Component Designator: OldDesignator=XT?B NewDesignator=XT1B
+Change Component Designator: OldDesignator=XT?C NewDesignator=XT1C
+Change Component Designator: OldDesignator=XT?D NewDesignator=XT1D
+Added Pin To Net: NetName=NetC42A_1 Pin=XT1A-1
+Added Pin To Net: NetName=NetC43A_1 Pin=XT1A-2
+Added Pin To Net: NetName=NetC42B_1 Pin=XT1B-1
+Added Pin To Net: NetName=NetC43B_1 Pin=XT1B-2
+Added Pin To Net: NetName=NetC42C_1 Pin=XT1C-1
+Added Pin To Net: NetName=NetC43C_1 Pin=XT1C-2
+Added Pin To Net: NetName=NetC42D_1 Pin=XT1D-1
+Added Pin To Net: NetName=NetC43D_1 Pin=XT1D-2

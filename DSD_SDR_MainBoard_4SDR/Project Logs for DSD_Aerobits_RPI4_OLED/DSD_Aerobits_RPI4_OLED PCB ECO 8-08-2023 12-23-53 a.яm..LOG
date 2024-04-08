@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GNDAA Pin=J4-14
+Added Component: Designator=J6A(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B4B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6B(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B4B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B4B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/447494/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=J6A-1
+Added Pin To Net: NetName=GNDAA Pin=J6A-4
+Added Pin To Net: NetName=VBUS Pin=J6B-1
+Added Pin To Net: NetName=GNDAA Pin=J6B-4
+Added Pin To Net: NetName=+3.3V-PI Pin=J7-1
+Added Pin To Net: NetName=GNDAA Pin=J7-4
+Added Pin To Net: NetName=GPIO_23 Pin=J4-16
+Added Pin To Net: NetName=GPIO_23 Pin=J7-2
+Added Net: Name=GPIO_23
+Added Pin To Net: NetName=GPIO_24 Pin=J4-18
+Added Pin To Net: NetName=GPIO_24 Pin=J7-3
+Added Net: Name=GPIO_24
+Added Pin To Net: NetName=NetJ6A_2 Pin=J6A-2
+Added Pin To Net: NetName=NetJ6A_2 Pin=U3A-31
+Added Net: Name=NetJ6A_2
+Added Pin To Net: NetName=NetJ6A_3 Pin=J6A-3
+Added Pin To Net: NetName=NetJ6A_3 Pin=U3A-30
+Added Net: Name=NetJ6A_3
+Added Pin To Net: NetName=NetJ6B_2 Pin=J6B-2
+Added Pin To Net: NetName=NetJ6B_2 Pin=U3B-31
+Added Net: Name=NetJ6B_2
+Added Pin To Net: NetName=NetJ6B_3 Pin=J6B-3
+Added Pin To Net: NetName=NetJ6B_3 Pin=U3B-30
+Added Net: Name=NetJ6B_3
+Added Member To Class: ClassName=Designator1 Member=Component J6A (J6) B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Designator2 Member=Component J6B (J6) B4B-XH-A(LF)(SN)

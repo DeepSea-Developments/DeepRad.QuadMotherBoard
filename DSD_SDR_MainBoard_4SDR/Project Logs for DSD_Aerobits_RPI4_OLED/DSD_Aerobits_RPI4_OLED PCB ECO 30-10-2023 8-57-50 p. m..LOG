@@ -1,0 +1,1199 @@
+Removed Pin From Net: NetName=GNDAA Pin=C1-1
+Removed Pin From Net: NetName=GNDAA Pin=C2-1
+Removed Pin From Net: NetName=GNDAA Pin=C3-2
+Removed Pin From Net: NetName=GNDAA Pin=C6-2
+Removed Pin From Net: NetName=GNDAA Pin=C7-2
+Removed Pin From Net: NetName=GNDAA Pin=C8-2
+Removed Pin From Net: NetName=GNDAA Pin=C10-2
+Removed Pin From Net: NetName=GNDAA Pin=C11A-1
+Removed Pin From Net: NetName=GNDAA Pin=C11B-1
+Removed Pin From Net: NetName=GNDAA Pin=C12A-2
+Removed Pin From Net: NetName=GNDAA Pin=C12B-2
+Removed Pin From Net: NetName=GNDAA Pin=C13A-2
+Removed Pin From Net: NetName=GNDAA Pin=C13B-2
+Removed Pin From Net: NetName=GNDAA Pin=C14A-2
+Removed Pin From Net: NetName=GNDAA Pin=C14B-2
+Removed Pin From Net: NetName=GNDAA Pin=C15A-2
+Removed Pin From Net: NetName=GNDAA Pin=C15B-2
+Removed Pin From Net: NetName=GNDAA Pin=C16A-2
+Removed Pin From Net: NetName=GNDAA Pin=C16B-2
+Removed Pin From Net: NetName=GNDAA Pin=C17A-2
+Removed Pin From Net: NetName=GNDAA Pin=C17B-2
+Removed Pin From Net: NetName=GNDAA Pin=C18-1
+Removed Pin From Net: NetName=VBUS Pin=C18-2
+Removed Pin From Net: NetName=GNDAA Pin=C19-1
+Removed Pin From Net: NetName=VDD3A Pin=C19-2
+Removed Pin From Net: NetName=GNDAA Pin=C20-1
+Removed Pin From Net: NetName=VBUS Pin=C20-2
+Removed Pin From Net: NetName=GNDAA Pin=C21-1
+Removed Pin From Net: NetName=+3V3_TT-SU2 Pin=C21-2
+Removed Pin From Net: NetName=GNDAA Pin=C23A-1
+Removed Pin From Net: NetName=GNDAA Pin=C23B-1
+Removed Pin From Net: NetName=GNDAA Pin=C23D-1
+Removed Pin From Net: NetName=GNDAA Pin=C25A-1
+Removed Pin From Net: NetName=VDD3A Pin=C25A-2
+Removed Pin From Net: NetName=GNDAA Pin=C25B-1
+Removed Pin From Net: NetName=VDD3A Pin=C25B-2
+Removed Pin From Net: NetName=VDD3A Pin=C25C-2
+Removed Pin From Net: NetName=GNDAA Pin=C25D-1
+Removed Pin From Net: NetName=VDD3A Pin=C25D-2
+Removed Pin From Net: NetName=GNDAA Pin=C27A-2
+Removed Pin From Net: NetName=GNDAA Pin=C27B-2
+Removed Pin From Net: NetName=VDDA1C Pin=C27C-1
+Removed Pin From Net: NetName=GNDAA Pin=C27C-2
+Removed Pin From Net: NetName=GNDAA Pin=C27D-2
+Removed Pin From Net: NetName=GNDAA Pin=C28A-1
+Removed Pin From Net: NetName=GNDAA Pin=C28B-1
+Removed Pin From Net: NetName=GNDAA Pin=C28D-1
+Removed Pin From Net: NetName=GNDAA Pin=C29A-1
+Removed Pin From Net: NetName=GNDAA Pin=C29B-1
+Removed Pin From Net: NetName=GNDAA Pin=C29C-1
+Removed Pin From Net: NetName=VDDA1C Pin=C29C-2
+Removed Pin From Net: NetName=GNDAA Pin=C29D-1
+Removed Pin From Net: NetName=GNDAA Pin=C30A-1
+Removed Pin From Net: NetName=GNDAA Pin=C30B-1
+Removed Pin From Net: NetName=GNDAA Pin=C30D-1
+Removed Pin From Net: NetName=GNDAA Pin=C31A-1
+Removed Pin From Net: NetName=VDD3A Pin=C31A-2
+Removed Pin From Net: NetName=GNDAA Pin=C31B-1
+Removed Pin From Net: NetName=VDD3A Pin=C31B-2
+Removed Pin From Net: NetName=GNDAA Pin=C31D-1
+Removed Pin From Net: NetName=VDD3A Pin=C31D-2
+Removed Pin From Net: NetName=GNDAA Pin=C32A-1
+Removed Pin From Net: NetName=GNDAA Pin=C32B-1
+Removed Pin From Net: NetName=GNDAA Pin=C32D-1
+Removed Pin From Net: NetName=GNDAA Pin=C34A-2
+Removed Pin From Net: NetName=GNDAA Pin=C34B-2
+Removed Pin From Net: NetName=GNDAA Pin=C34D-2
+Removed Pin From Net: NetName=VDD3A Pin=C35A-1
+Removed Pin From Net: NetName=GNDAA Pin=C35A-2
+Removed Pin From Net: NetName=VDD3A Pin=C35B-1
+Removed Pin From Net: NetName=GNDAA Pin=C35B-2
+Removed Pin From Net: NetName=VDD3A Pin=C35C-1
+Removed Pin From Net: NetName=VDD3A Pin=C35D-1
+Removed Pin From Net: NetName=GNDAA Pin=C35D-2
+Removed Pin From Net: NetName=GNDAA Pin=C36A-2
+Removed Pin From Net: NetName=GNDAA Pin=C36B-2
+Removed Pin From Net: NetName=GNDAA Pin=C36D-2
+Removed Pin From Net: NetName=GNDAA Pin=C37A-2
+Removed Pin From Net: NetName=GNDAA Pin=C37B-2
+Removed Pin From Net: NetName=GNDAA Pin=C37D-2
+Removed Pin From Net: NetName=GNDAA Pin=C38A-2
+Removed Pin From Net: NetName=GNDAA Pin=C38B-2
+Removed Pin From Net: NetName=VDD_PLLC Pin=C38C-1
+Removed Pin From Net: NetName=GNDAA Pin=C38C-2
+Removed Pin From Net: NetName=GNDAA Pin=C38D-2
+Removed Pin From Net: NetName=GNDAA Pin=C39A-1
+Removed Pin From Net: NetName=GNDAA Pin=C39B-1
+Removed Pin From Net: NetName=GNDAA Pin=C39D-1
+Removed Pin From Net: NetName=GNDAA Pin=C40A-2
+Removed Pin From Net: NetName=GNDAA Pin=C40B-2
+Removed Pin From Net: NetName=GNDAA Pin=C40D-2
+Removed Pin From Net: NetName=GNDAA Pin=C41A-2
+Removed Pin From Net: NetName=GNDAA Pin=C41B-2
+Removed Pin From Net: NetName=GNDAA Pin=C41C-2
+Removed Pin From Net: NetName=GNDAA Pin=C41D-2
+Removed Pin From Net: NetName=GNDAA Pin=C42A-2
+Removed Pin From Net: NetName=GNDAA Pin=C42B-2
+Removed Pin From Net: NetName=GNDAA Pin=C42D-2
+Removed Pin From Net: NetName=GNDAA Pin=C43A-2
+Removed Pin From Net: NetName=GNDAA Pin=C43B-2
+Removed Pin From Net: NetName=GNDAA Pin=C43D-2
+Removed Pin From Net: NetName=GNDAA Pin=C44A-2
+Removed Pin From Net: NetName=GNDAA Pin=C44B-2
+Removed Pin From Net: NetName=VDDLVC Pin=C44C-1
+Removed Pin From Net: NetName=GNDAA Pin=C44C-2
+Removed Pin From Net: NetName=GNDAA Pin=C44D-2
+Removed Pin From Net: NetName=GNDAA Pin=C45A-1
+Removed Pin From Net: NetName=GNDAA Pin=C45B-1
+Removed Pin From Net: NetName=GNDAA Pin=C45D-1
+Removed Pin From Net: NetName=GNDAA Pin=C46A-2
+Removed Pin From Net: NetName=GNDAA Pin=C46B-2
+Removed Pin From Net: NetName=GNDAA Pin=C46C-2
+Removed Pin From Net: NetName=GNDAA Pin=C46D-2
+Removed Pin From Net: NetName=GNDAA Pin=C47A-2
+Removed Pin From Net: NetName=GNDAA Pin=C47B-2
+Removed Pin From Net: NetName=GNDAA Pin=C47D-2
+Removed Pin From Net: NetName=GNDAA Pin=C48-1
+Removed Pin From Net: NetName=VBUS Pin=C48-2
+Removed Pin From Net: NetName=GNDAA Pin=C49-1
+Removed Pin From Net: NetName=GNDAA Pin=D1A-1
+Removed Pin From Net: NetName=GNDAA Pin=D1A-2
+Removed Pin From Net: NetName=GNDAA Pin=D1B-1
+Removed Pin From Net: NetName=GNDAA Pin=D1B-2
+Removed Pin From Net: NetName=GNDAA Pin=D1D-1
+Removed Pin From Net: NetName=GNDAA Pin=D1D-2
+Removed Pin From Net: NetName=+3V3_TT-SU2 Pin=FB1-2
+Removed Pin From Net: NetName=GNDAA Pin=J1-2
+Removed Pin From Net: NetName=GNDAA Pin=J1-2
+Removed Pin From Net: NetName=GNDAA Pin=J1-2
+Removed Pin From Net: NetName=GNDAA Pin=J2-2
+Removed Pin From Net: NetName=GNDAA Pin=J2-2
+Removed Pin From Net: NetName=GNDAA Pin=J2-2
+Removed Pin From Net: NetName=GNDAA Pin=J3-2
+Removed Pin From Net: NetName=GNDAA Pin=J3-2
+Removed Pin From Net: NetName=GNDAA Pin=J3-2
+Removed Pin From Net: NetName=GNDAA Pin=J4-6
+Removed Pin From Net: NetName=GNDAA Pin=J4-9
+Removed Pin From Net: NetName=GNDAA Pin=J4-20
+Removed Pin From Net: NetName=GNDAA Pin=J4-25
+Removed Pin From Net: NetName=GNDAA Pin=J4-30
+Removed Pin From Net: NetName=GNDAA Pin=J4-34
+Removed Pin From Net: NetName=GNDAA Pin=J4-39
+Removed Pin From Net: NetName=GNDAA Pin=J5-4
+Removed Pin From Net: NetName=VBUS Pin=J6A-1
+Removed Pin From Net: NetName=GNDAA Pin=J6A-4
+Removed Pin From Net: NetName=VBUS Pin=J6B-1
+Removed Pin From Net: NetName=GNDAA Pin=J6B-4
+Removed Pin From Net: NetName=GNDAA Pin=J7-4
+Removed Pin From Net: NetName=GNDAA Pin=J*1A-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1A-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1A-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1B-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1B-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1B-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1D-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1D-2
+Removed Pin From Net: NetName=GNDAA Pin=J*1D-2
+Removed Pin From Net: NetName=GNDAA Pin=LED1-K
+Removed Pin From Net: NetName=GNDAA Pin=LED2-K
+Removed Pin From Net: NetName=GNDAA Pin=LED3-K
+Removed Pin From Net: NetName=+3V3_TT-SU2 Pin=R14-2
+Removed Pin From Net: NetName=GNDAA Pin=R20A-1
+Removed Pin From Net: NetName=GNDAA Pin=R20B-1
+Removed Pin From Net: NetName=GNDAA Pin=R21A-1
+Removed Pin From Net: NetName=GNDAA Pin=R21B-1
+Removed Pin From Net: NetName=GNDAA Pin=R23A-1
+Removed Pin From Net: NetName=GNDAA Pin=R23B-1
+Removed Pin From Net: NetName=GNDAA Pin=R25A-2
+Removed Pin From Net: NetName=GNDAA Pin=R25B-2
+Removed Pin From Net: NetName=VDD3A Pin=R27A-2
+Removed Pin From Net: NetName=VDD3A Pin=R27B-2
+Removed Pin From Net: NetName=VDD3A Pin=R27D-2
+Removed Pin From Net: NetName=VDD3A Pin=R28A-2
+Removed Pin From Net: NetName=VDD3A Pin=R28B-2
+Removed Pin From Net: NetName=VDD3A Pin=R28D-2
+Removed Pin From Net: NetName=GNDAA Pin=R29A-1
+Removed Pin From Net: NetName=GNDAA Pin=R29B-1
+Removed Pin From Net: NetName=GNDAA Pin=R29D-1
+Removed Pin From Net: NetName=GNDAA Pin=R33A-2
+Removed Pin From Net: NetName=GNDAA Pin=R33B-2
+Removed Pin From Net: NetName=GNDAA Pin=R33C-2
+Removed Pin From Net: NetName=GNDAA Pin=R33D-2
+Removed Pin From Net: NetName=VDD3A Pin=R36A-2
+Removed Pin From Net: NetName=VDD3A Pin=R36B-2
+Removed Pin From Net: NetName=VDD3A Pin=R36D-2
+Removed Pin From Net: NetName=VDD3A Pin=R37A-2
+Removed Pin From Net: NetName=VDD3A Pin=R37B-2
+Removed Pin From Net: NetName=VDD3A Pin=R37D-2
+Removed Pin From Net: NetName=VBUS Pin=R40-2
+Removed Pin From Net: NetName=GNDAA Pin=U1-3
+Removed Pin From Net: NetName=VBUS Pin=U1-10
+Removed Pin From Net: NetName=GNDAA Pin=U1-13
+Removed Pin From Net: NetName=GNDAA Pin=U1-17
+Removed Pin From Net: NetName=GNDAA Pin=U2-16
+Removed Pin From Net: NetName=GNDAA Pin=U2-17
+Removed Pin From Net: NetName=GNDAA Pin=U2-19
+Removed Pin From Net: NetName=GNDAA Pin=U2-20
+Removed Pin From Net: NetName=GNDAA Pin=U2-22
+Removed Pin From Net: NetName=GNDAA Pin=U2-23
+Removed Pin From Net: NetName=GNDAA Pin=U2-25
+Removed Pin From Net: NetName=GNDAA Pin=U2-31
+Removed Pin From Net: NetName=+3V3_TT-SU2 Pin=U2-40
+Removed Pin From Net: NetName=USB_N Pin=U3A-3
+Removed Pin From Net: NetName=USB_P Pin=U3A-4
+Removed Pin From Net: NetName=GNDAA Pin=U3A-11
+Removed Pin From Net: NetName=GNDAA Pin=U3A-37
+Removed Pin From Net: NetName=GNDAA Pin=U3B-11
+Removed Pin From Net: NetName=GNDAA Pin=U3B-37
+Removed Pin From Net: NetName=VBUS Pin=U4-1
+Removed Pin From Net: NetName=GNDAA Pin=U4-2
+Removed Pin From Net: NetName=VDD3A Pin=U4-3
+Removed Pin From Net: NetName=GNDAA Pin=U5-1
+Removed Pin From Net: NetName=+3V3_TT-SU2 Pin=U5-2
+Removed Pin From Net: NetName=VBUS Pin=U5-3
+Removed Pin From Net: NetName=+3V3_TT-SU2 Pin=U5-4
+Removed Pin From Net: NetName=GNDAA Pin=U6A-1
+Removed Pin From Net: NetName=GNDAA Pin=U6A-2
+Removed Pin From Net: NetName=GNDAA Pin=U6A-3
+Removed Pin From Net: NetName=GNDAA Pin=U6A-4
+Removed Pin From Net: NetName=VDD3A Pin=U6A-8
+Removed Pin From Net: NetName=GNDAA Pin=U6B-1
+Removed Pin From Net: NetName=GNDAA Pin=U6B-2
+Removed Pin From Net: NetName=GNDAA Pin=U6B-3
+Removed Pin From Net: NetName=GNDAA Pin=U6B-4
+Removed Pin From Net: NetName=VDD3A Pin=U6B-8
+Removed Pin From Net: NetName=GNDAA Pin=U6C-1
+Removed Pin From Net: NetName=GNDAA Pin=U6C-2
+Removed Pin From Net: NetName=GNDAA Pin=U6C-3
+Removed Pin From Net: NetName=GNDAA Pin=U6C-4
+Removed Pin From Net: NetName=VDD3A Pin=U6C-8
+Removed Pin From Net: NetName=GNDAA Pin=U6D-1
+Removed Pin From Net: NetName=GNDAA Pin=U6D-2
+Removed Pin From Net: NetName=GNDAA Pin=U6D-3
+Removed Pin From Net: NetName=GNDAA Pin=U6D-4
+Removed Pin From Net: NetName=VDD3A Pin=U6D-8
+Removed Pin From Net: NetName=GNDAA Pin=U7A-3
+Removed Pin From Net: NetName=GNDAA Pin=U7A-8
+Removed Pin From Net: NetName=VDD3A Pin=U7A-14
+Removed Pin From Net: NetName=VDD3A Pin=U7A-25
+Removed Pin From Net: NetName=VDD3A Pin=U7A-26
+Removed Pin From Net: NetName=VDD3A Pin=U7A-33
+Removed Pin From Net: NetName=GNDAA Pin=U7A-39
+Removed Pin From Net: NetName=VDD3A Pin=U7A-43
+Removed Pin From Net: NetName=GNDAA Pin=U7A-45
+Removed Pin From Net: NetName=GNDAA Pin=U7A-49
+Removed Pin From Net: NetName=GNDAA Pin=U7B-3
+Removed Pin From Net: NetName=GNDAA Pin=U7B-8
+Removed Pin From Net: NetName=VDD3A Pin=U7B-14
+Removed Pin From Net: NetName=VDD3A Pin=U7B-25
+Removed Pin From Net: NetName=VDD3A Pin=U7B-26
+Removed Pin From Net: NetName=VDD3A Pin=U7B-33
+Removed Pin From Net: NetName=GNDAA Pin=U7B-39
+Removed Pin From Net: NetName=VDD3A Pin=U7B-43
+Removed Pin From Net: NetName=GNDAA Pin=U7B-45
+Removed Pin From Net: NetName=GNDAA Pin=U7B-49
+Removed Pin From Net: NetName=VDD3A Pin=U7C-14
+Removed Pin From Net: NetName=VDD3A Pin=U7C-25
+Removed Pin From Net: NetName=VDD3A Pin=U7C-26
+Removed Pin From Net: NetName=VDD3A Pin=U7C-33
+Removed Pin From Net: NetName=VDD3A Pin=U7C-43
+Removed Pin From Net: NetName=GNDAA Pin=U7D-3
+Removed Pin From Net: NetName=GNDAA Pin=U7D-8
+Removed Pin From Net: NetName=VDD3A Pin=U7D-14
+Removed Pin From Net: NetName=VDD3A Pin=U7D-25
+Removed Pin From Net: NetName=VDD3A Pin=U7D-26
+Removed Pin From Net: NetName=VDD3A Pin=U7D-33
+Removed Pin From Net: NetName=GNDAA Pin=U7D-39
+Removed Pin From Net: NetName=VDD3A Pin=U7D-43
+Removed Pin From Net: NetName=GNDAA Pin=U7D-45
+Removed Pin From Net: NetName=GNDAA Pin=U7D-49
+Removed Pin From Net: NetName=VDD3A Pin=U8A-2
+Removed Pin From Net: NetName=VDD3A Pin=U8A-11
+Removed Pin From Net: NetName=GNDAA Pin=U8A-16
+Removed Pin From Net: NetName=VDD3A Pin=U8A-18
+Removed Pin From Net: NetName=VDD3A Pin=U8A-23
+Removed Pin From Net: NetName=VDD3A Pin=U8B-2
+Removed Pin From Net: NetName=VDD3A Pin=U8B-11
+Removed Pin From Net: NetName=GNDAA Pin=U8B-16
+Removed Pin From Net: NetName=VDD3A Pin=U8B-18
+Removed Pin From Net: NetName=VDD3A Pin=U8B-23
+Removed Pin From Net: NetName=VDD3A Pin=U8C-23
+Removed Pin From Net: NetName=VDD3A Pin=U8D-2
+Removed Pin From Net: NetName=VDD3A Pin=U8D-11
+Removed Pin From Net: NetName=GNDAA Pin=U8D-16
+Removed Pin From Net: NetName=VDD3A Pin=U8D-18
+Removed Pin From Net: NetName=VDD3A Pin=U8D-23
+Removed Pin From Net: NetName=GNDAA Pin=U9-1
+Removed Pin From Net: NetName=VBUS Pin=U9-3
+Removed Pin From Net: NetName=GNDAA Pin=Y1A-2
+Removed Pin From Net: NetName=GNDAA Pin=Y1A-4
+Removed Pin From Net: NetName=GNDAA Pin=Y1B-2
+Removed Pin From Net: NetName=GNDAA Pin=Y1B-4
+Change Component Footprint: Designator=C48 Old Footprint=SMD-0805C New Footprint=SMD-0402C
+Change Component Comment : Designator=C48 Old Comment=10µF New Comment=0.10µF
+Change Component Comment : Designator=C47C Old Comment=39pF New Comment=0.10µF
+Change Component Comment : Designator=C46C Old Comment=39pF New Comment=10000pF
+Change Component Comment : Designator=R32C Old Comment=100 New Comment=1k
+Change Component Comment : Designator=R30C Old Comment=220 New Comment=5.6
+Change Component Comment : Designator=R31C Old Comment=220 New Comment=100k
+Change Component Comment : Designator=L3C Old Comment=LQW15AN8N2G00D New Comment=8.2nH
+Change Component Designator: OldDesignator=C22C NewDesignator=C23
+Change Component Designator: OldDesignator=C23C NewDesignator=C32
+Change Component Designator: OldDesignator=C24C NewDesignator=C34
+Change Component Designator: OldDesignator=C25C NewDesignator=C33
+Change Component Designator: OldDesignator=C26C NewDesignator=C38
+Change Component Designator: OldDesignator=C28C NewDesignator=C29
+Change Component Designator: OldDesignator=C30C NewDesignator=C37
+Change Component Designator: OldDesignator=C31C NewDesignator=C39
+Change Component Designator: OldDesignator=C32C NewDesignator=C40
+Change Component Designator: OldDesignator=C34C NewDesignator=C43
+Change Component Designator: OldDesignator=C35C NewDesignator=C47
+Change Component Designator: OldDesignator=C36C NewDesignator=C45
+Change Component Designator: OldDesignator=C37C NewDesignator=C46
+Change Component Designator: OldDesignator=C39C NewDesignator=C30
+Change Component Designator: OldDesignator=C40C NewDesignator=C54
+Change Component Designator: OldDesignator=C42C NewDesignator=C55
+Change Component Designator: OldDesignator=C43C NewDesignator=C56
+Change Component Designator: OldDesignator=C45C NewDesignator=C31
+Change Component Designator: OldDesignator=C46C NewDesignator=C49
+Change Component Designator: OldDesignator=C47C NewDesignator=C50
+Change Component Designator: OldDesignator=D1C NewDesignator=D4
+Change Component Designator: OldDesignator=FB2C NewDesignator=FB4
+Change Component Designator: OldDesignator=FB3C NewDesignator=FB5
+Change Component Designator: OldDesignator=FB4C NewDesignator=FB6
+Change Component Designator: OldDesignator=J8 NewDesignator=J1
+Change Component Designator: OldDesignator=J*1C NewDesignator=J*1
+Change Component Designator: OldDesignator=L3C NewDesignator=L2
+Change Component Designator: OldDesignator=L4C NewDesignator=L3
+Change Component Designator: OldDesignator=L5C NewDesignator=L4
+Change Component Designator: OldDesignator=L6C NewDesignator=L5
+Change Component Designator: OldDesignator=R27C NewDesignator=R20
+Change Component Designator: OldDesignator=R28C NewDesignator=R21
+Change Component Designator: OldDesignator=R29C NewDesignator=R22
+Change Component Designator: OldDesignator=R30C NewDesignator=R19
+Change Component Designator: OldDesignator=R31C NewDesignator=R24
+Change Component Designator: OldDesignator=R32C NewDesignator=R25
+Change Component Designator: OldDesignator=R34C NewDesignator=R23
+Change Component Designator: OldDesignator=R35C NewDesignator=R26
+Change Component Designator: OldDesignator=R36C NewDesignator=R27
+Change Component Designator: OldDesignator=R37C NewDesignator=R28
+Change Component Designator: OldDesignator=R38C NewDesignator=R29
+Change Component Designator: OldDesignator=R39C NewDesignator=R30
+Change Component Designator: OldDesignator=U7C NewDesignator=U8
+Change Component Designator: OldDesignator=U8C NewDesignator=U9
+Change component parameters: Designator = "C46C" ("C49"); Footprint = "SMD-0402C"; UniqueID = "\ADUZCKIO\TVPZEEXA" ("\ADUZCKIO\TVPZEEXA")
+Change component parameters (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "490-1313-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM155R71C103KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Available"; Value = "3056688"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C47C" ("C50"); Footprint = "SMD-0402C"; UniqueID = "\ADUZCKIO\BIPYXCAV" ("\ADUZCKIO\BIPYXCAV")
+Change component parameters (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C48" ("C48"); Footprint = "SMD-0805C"; UniqueID = "\ADUZCKIO\HTCVBHNS" ("\ADUZCKIO\HTCVBHNS")
+Change component parameters (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30C" ("R19"); Footprint = "SMD-0402-RES"; UniqueID = "\ADUZCKIO\FYMYIQNU" ("\ADUZCKIO\FYMYIQNU")
+Change component parameters (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ2GEJ5R6X+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "P5.6JCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/ERJ-PA2-Series.jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ5R6X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Available"; Value = "103242"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "-100/ +600ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price (USD)"; Value = "0.00350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31C" ("R24"); Footprint = "SMD-0402-RES"; UniqueID = "\ADUZCKIO\ZEFETPNT" ("\ADUZCKIO\ZEFETPNT")
+Change component parameters (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ2RKF1003X+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "P100KLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/ERJ-PA2-Series.jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2RKF1003X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Available"; Value = "2645965"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price (USD)"; Value = "0.00496"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32C" ("R25"); Footprint = "SMD-0402-RES"; UniqueID = "\ADUZCKIO\NDLHWACQ" ("\ADUZCKIO\NDLHWACQ")
+Change component parameters (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ2GEJ102X+7+WW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "P1.0KJCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/ERJ-PA2-Series.jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ102X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Available"; Value = "1939857"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price (USD)"; Value = "0.00350"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=C24(SMD-0805C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BC81C106KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-12343-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Derating Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/GRT%20Series%200805(2012%20Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT21BC81C106KE01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X6S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.057" (1.45mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(SMD-0805C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61C226ME13-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-12383-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/GRT%20Series%200805(2012%20Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT21BR61C226ME13L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.057" (1.45mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(SMD-1210C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-10530-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Derating Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.106" (2.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/1210-32E.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32EC70J107ME15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(SMD-1210C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-10530-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Derating Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.106" (2.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/1210-32E.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32EC70J107ME15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(SMD-1210C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-10530-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Derating Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.106" (2.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/1210-32E.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM32EC70J107ME15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C36(SMD-0805C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BC81C106KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-12343-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Derating Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/GRT%20Series%200805(2012%20Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT21BC81C106KE01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X6S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.057" (1.45mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-6326-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71C103KA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "58230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C42(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C44(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C51(SMD-0805C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BC81C106KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-12343-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Derating Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/GRT%20Series%200805(2012%20Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT21BC81C106KE01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X6S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.057" (1.45mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C52(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C53(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-7998-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155R71C104KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "618705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C57(SMD-0402C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-6326-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71C103KA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "58230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(INDC1608N)
+Add component (AddParameter): Name = "Applications"; Value = "Power Supplies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM18P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM18P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Temperature Rise"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "172.9 mOhm Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Type"; Value = "Differential Mode - Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "23MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "120 Ohm @ 100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "2 A; 50 mO DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1037-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R @ 100 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=FB3(INDC1608N)
+Add component (AddParameter): Name = "Applications"; Value = "Power Supplies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM18P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM18P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Temperature Rise"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "172.9 mOhm Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Type"; Value = "Differential Mode - Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "23MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "120 Ohm @ 100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "2 A; 50 mO DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1037-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R @ 100 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=FB7(INDC1608N)
+Add component (AddParameter): Name = "Applications"; Value = "Power Supplies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM18P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM18P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Temperature Rise"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "172.9 mOhm Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Type"; Value = "Differential Mode - Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "23MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "120 Ohm @ 100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "2 A; 50 mO DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1037-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120R @ 100 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/268/atmel_doc0180-1180509.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AT24C02N-10SU-2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOT223)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM1117MP-3.3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM1117MP-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Added Component: Designator=XT1(CRYSTAL_HC49-US-SM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ctscorp.com/components/Datasheets/008-0309-0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ctscorp.com/components/Datasheets/008-0309-0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "6MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CTS-Frequency Controls"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ATS060BSM-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "Fundamental"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20°C ~ 70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "HC49/US-SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name"; Value = "0.169" (4.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "6.00 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.437" L x 0.190" W (11.10mm x 4.83mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CTX882CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MHz Crystal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDAA Pin=C24-1
+Added Pin To Net: NetName=VBUS Pin=C24-2
+Added Pin To Net: NetName=GNDAA Pin=C25-1
+Added Pin To Net: NetName=+3V3_TT-SU2 Pin=C25-2
+Added Pin To Net: NetName=VDD3A Pin=C26-1
+Added Pin To Net: NetName=GNDAA Pin=C26-2
+Added Pin To Net: NetName=VDD3A Pin=C27-1
+Added Pin To Net: NetName=GNDAA Pin=C27-2
+Added Pin To Net: NetName=VDD3A Pin=C28-1
+Added Pin To Net: NetName=GNDAA Pin=C28-2
+Added Pin To Net: NetName=VDD1_2C Pin=C35-1
+Added Pin To Net: NetName=GNDAA Pin=C35-2
+Added Pin To Net: NetName=VDD1_2C Pin=C36-1
+Added Pin To Net: NetName=GNDAA Pin=C36-2
+Added Pin To Net: NetName=GNDAA Pin=C41-1
+Added Pin To Net: NetName=VDD3A Pin=C42-1
+Added Pin To Net: NetName=GNDAA Pin=C42-2
+Added Pin To Net: NetName=GNDAA Pin=C44-1
+Added Pin To Net: NetName=VDD1_2C Pin=C44-2
+Added Pin To Net: NetName=VDD1_2C Pin=C48-1
+Added Pin To Net: NetName=GNDAA Pin=C48-2
+Added Pin To Net: NetName=VDD3A Pin=C51-1
+Added Pin To Net: NetName=GNDAA Pin=C51-2
+Added Pin To Net: NetName=VDD1_2C Pin=C52-1
+Added Pin To Net: NetName=GNDAA Pin=C52-2
+Added Pin To Net: NetName=GNDAA Pin=C53-2
+Added Pin To Net: NetName=GNDAA Pin=C57-1
+Added Pin To Net: NetName=VDD3A Pin=FB2-1
+Added Pin To Net: NetName=VDD3A Pin=FB7-1
+Added Pin To Net: NetName=GNDAA Pin=IC1-1
+Added Pin To Net: NetName=GNDAA Pin=IC1-2
+Added Pin To Net: NetName=GNDAA Pin=IC1-3
+Added Pin To Net: NetName=GNDAA Pin=IC1-4
+Added Pin To Net: NetName=VDD3A Pin=R19-2
+Added Pin To Net: NetName=GNDAA Pin=U7-1
+Added Pin To Net: NetName=+3V3_TT-SU2 Pin=U7-2
+Added Pin To Net: NetName=VBUS Pin=U7-3
+Added Pin To Net: NetName=+3V3_TT-SU2 Pin=U7-4
+Added Pin To Net: NetName=VDD1_2C Pin=U8-12
+Added Pin To Net: NetName=VDD1_2C Pin=U8-20
+Added Pin To Net: NetName=VDD1_2C Pin=U8-28
+Added Pin To Net: NetName=VDD1_2C Pin=U8-34
+Added Pin To Net: NetName=GNDAA Pin=U9-25
+Change Net Name : Old Net Name=GNDAA New Net Name=GND
+Change Net Name : Old Net Name=NetC22C_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC22C_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC23C_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC24C_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetC26C_1 New Net Name=NetC38_1
+Change Net Name : Old Net Name=NetC30C_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetC32C_2 New Net Name=NetC40_2
+Change Net Name : Old Net Name=NetC34C_1 New Net Name=NetC43_1
+Change Net Name : Old Net Name=NetC36C_1 New Net Name=NetC45_1
+Change Net Name : Old Net Name=NetC37C_1 New Net Name=NetC46_1
+Change Net Name : Old Net Name=NetL4C_1 New Net Name=NetL3_1
+Change Net Name : Old Net Name=NetL4C_2 New Net Name=NetL3_2
+Change Net Name : Old Net Name=NetL5C_1 New Net Name=NetL4_1
+Change Net Name : Old Net Name=NetL5C_2 New Net Name=NetL4_2
+Change Net Name : Old Net Name=NetL6C_1 New Net Name=NetL5_1
+Change Net Name : Old Net Name=NetR29C_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=RFINC New Net Name=RFIN
+Change Net Name : Old Net Name=VDD1_2C New Net Name=VDD1
+Change Net Name : Old Net Name=VDD3A New Net Name=+3V3_SDR
+Change Net Name : Old Net Name=VDD_PLLC New Net Name=VDD_PLL
+Change Net Name : Old Net Name=VDDA1C New Net Name=VDDA
+Change Net Name : Old Net Name=VDDLVC New Net Name=VDDLV
+Added Pin To Net: NetName=+3V3_RTL Pin=IC1-8
+Added Net: Name=+3V3_RTL
+Added Pin To Net: NetName=CLK Pin=C49-1
+Added Pin To Net: NetName=CLK Pin=U9-10
+Added Net: Name=CLK
+Added Pin To Net: NetName=IF+ Pin=C34-2
+Added Pin To Net: NetName=IF+ Pin=U9-13
+Added Net: Name=IF+
+Added Pin To Net: NetName=IF- Pin=C38-2
+Added Pin To Net: NetName=IF- Pin=U9-12
+Added Net: Name=IF-
+Added Pin To Net: NetName=IF_AGC Pin=C57-2
+Added Pin To Net: NetName=IF_AGC Pin=R26-1
+Added Pin To Net: NetName=IF_AGC Pin=U9-14
+Added Net: Name=IF_AGC
+Added Pin To Net: NetName=IFAGC Pin=R25-1
+Added Pin To Net: NetName=IFAGC Pin=R26-2
+Added Pin To Net: NetName=IFAGC Pin=U8-13
+Added Net: Name=IFAGC
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=R19-1
+Added Pin To Net: NetName=NetC33_2 Pin=U9-23
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=R24-1
+Added Pin To Net: NetName=NetC49_2 Pin=U8-11
+Added Net: Name=NetC49_2
+Added Pin To Net: NetName=NetC50_1 Pin=C50-1
+Added Pin To Net: NetName=NetC50_1 Pin=FB7-2
+Added Pin To Net: NetName=NetC50_1 Pin=R25-2
+Added Net: Name=NetC50_1
+Added Pin To Net: NetName=NetC55_1 Pin=C55-1
+Added Pin To Net: NetName=NetC55_1 Pin=U9-8
+Added Pin To Net: NetName=NetC55_1 Pin=XT1-1
+Added Net: Name=NetC55_1
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=U9-9
+Added Pin To Net: NetName=NetC56_1 Pin=XT1-2
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=U8-10
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=U8-16
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=U8-17
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetU8_27 Pin=U8-27
+Added Net: Name=NetU8_27
+Added Pin To Net: NetName=NetU8_40 Pin=U8-40
+Added Net: Name=NetU8_40
+Added Pin To Net: NetName=NetU8_41 Pin=U8-41
+Added Net: Name=NetU8_41
+Added Pin To Net: NetName=SCL-RTL2832U Pin=IC1-6
+Added Pin To Net: NetName=SCL-RTL2832U Pin=R20-1
+Added Pin To Net: NetName=SCL-RTL2832U Pin=U8-18
+Added Net: Name=SCL-RTL2832U
+Added Pin To Net: NetName=SCLK Pin=R28-1
+Added Pin To Net: NetName=SCLK Pin=R29-1
+Added Pin To Net: NetName=SCLK Pin=U9-6
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SDA-RTL2832U Pin=IC1-5
+Added Pin To Net: NetName=SDA-RTL2832U Pin=R21-1
+Added Pin To Net: NetName=SDA-RTL2832U Pin=U8-19
+Added Net: Name=SDA-RTL2832U
+Added Pin To Net: NetName=SDAT Pin=R27-1
+Added Pin To Net: NetName=SDAT Pin=R30-1
+Added Pin To Net: NetName=SDAT Pin=U9-7
+Added Net: Name=SDAT
+Added Pin To Net: NetName=VDD3 Pin=C41-2
+Added Pin To Net: NetName=VDD3 Pin=C47-1
+Added Pin To Net: NetName=VDD3 Pin=C53-1
+Added Pin To Net: NetName=VDD3 Pin=FB2-2
+Added Pin To Net: NetName=VDD3 Pin=FB3-1
+Added Pin To Net: NetName=VDD3 Pin=U8-14
+Added Pin To Net: NetName=VDD3 Pin=U8-25
+Added Pin To Net: NetName=VDD3 Pin=U8-26
+Added Pin To Net: NetName=VDD3 Pin=U8-33
+Added Net: Name=VDD3
+Added Pin To Net: NetName=VDDA33 Pin=FB3-2
+Added Pin To Net: NetName=VDDA33 Pin=U8-43
+Added Net: Name=VDDA33
+Added Class: Name=RF

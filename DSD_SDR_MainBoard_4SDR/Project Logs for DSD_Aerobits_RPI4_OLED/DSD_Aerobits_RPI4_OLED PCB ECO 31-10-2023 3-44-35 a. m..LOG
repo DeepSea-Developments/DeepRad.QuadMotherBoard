@@ -1,0 +1,29 @@
+Add Component: Footprint Not Found DIO_BAV99
+Add Component: Footprint Not Found U.FL jack
+Add Component: Footprint Not Found INDC1006X60N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC2518X200N
+Add Pin To Net: Unknown Pin: Pin D4B-1
+Add Pin To Net: Unknown Pin: Pin D4B-2
+Add Pin To Net: Unknown Pin: Pin D4B-3
+Add Pin To Net: Unknown Pin: Pin J5B-1
+Add Pin To Net: Unknown Pin: Pin J5B-2
+Add Pin To Net: Unknown Pin: Pin L2B-1
+Add Pin To Net: Unknown Pin: Pin L2B-2
+Add Pin To Net: Unknown Pin: Pin L3B-1
+Add Pin To Net: Unknown Pin: Pin L3B-2
+Add Pin To Net: Unknown Pin: Pin L4B-1
+Add Pin To Net: Unknown Pin: Pin L4B-2
+Add Pin To Net: Unknown Pin: Pin L5B-1
+Add Pin To Net: Unknown Pin: Pin L5B-2
+Added Member To Class: ClassName=Designator1 Member=Component C56A (C56) 27pF
+Added Member To Class: ClassName=Designator1 Member=Component C57A (C57) 27pF
+Add Class Member: Failed to add class member : Component D4B (D4) BAV99
+Add Class Member: Failed to add class member : Component J5B (J5) u.fl jack smd
+Add Class Member: Failed to add class member : Component L2B (L2) 8.2nH
+Add Class Member: Failed to add class member : Component L3B (L3) 150nH
+Add Class Member: Failed to add class member : Component L4B (L4) 150nH
+Add Class Member: Failed to add class member : Component L5B (L5) 4.7uH
+Added Member To Class: ClassName=Designator1 Member=Component R22A (R22) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R23A (R23) 4.7k

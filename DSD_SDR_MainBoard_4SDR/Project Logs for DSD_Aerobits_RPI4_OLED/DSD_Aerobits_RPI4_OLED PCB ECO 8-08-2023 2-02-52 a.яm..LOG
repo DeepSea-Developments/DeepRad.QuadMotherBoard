@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetJ6A_2 New Net Name=USBA_P
+Change Net Name : Old Net Name=NetJ6A_3 New Net Name=USBA_N
+Change Net Name : Old Net Name=NetJ6B_2 New Net Name=USBB_P
+Change Net Name : Old Net Name=NetJ6B_3 New Net Name=USBB_N
+Added Differential Pair: Name=USBA
+Added Differential Pair: Name=USBB
+Added Room: Name=Designator1
+Added Room: Name=Designator2

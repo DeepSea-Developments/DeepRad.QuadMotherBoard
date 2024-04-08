@@ -1,0 +1,24 @@
+Change Net Name : Old Net Name=A_N New Net Name=A1_N
+Change Net Name : Old Net Name=A_P New Net Name=A1_P
+Change Net Name : Old Net Name=NetR1_2 New Net Name=B1_P
+Change Net Name : Old Net Name=NetR2_2 New Net Name=B1_N
+Change Net Name : Old Net Name=NetR3_1 New Net Name=A2_P
+Change Net Name : Old Net Name=NetR3_2 New Net Name=B2_P
+Change Net Name : Old Net Name=NetR4_1 New Net Name=A2_N
+Change Net Name : Old Net Name=NetR4_2 New Net Name=B2_N
+Change Net Name : Old Net Name=NetR5_1 New Net Name=A3_P
+Change Net Name : Old Net Name=NetR5_2 New Net Name=B3_P
+Change Net Name : Old Net Name=NetR7_1 New Net Name=A3_N
+Change Net Name : Old Net Name=NetR7_2 New Net Name=B3_N
+Change Net Name : Old Net Name=NetR8_1 New Net Name=A4_P
+Change Net Name : Old Net Name=NetR8_2 New Net Name=B4_P
+Change Net Name : Old Net Name=NetR9_1 New Net Name=A4_N
+Change Net Name : Old Net Name=NetR9_2 New Net Name=B4_N
+Added Differential Pair: Name=A1
+Added Differential Pair: Name=A2
+Added Differential Pair: Name=A3
+Added Differential Pair: Name=A4
+Added Differential Pair: Name=B1
+Added Differential Pair: Name=B2
+Added Differential Pair: Name=B3
+Added Differential Pair: Name=B4

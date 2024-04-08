@@ -1,0 +1,63 @@
+Add Component: Footprint Not Found DIO_BAV99
+Added Component: Designator=D2A(DIO_BAV99)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BAV99/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BAV99/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAV99/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2B(DIO_BAV99)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BAV99/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BAV99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BAV99/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAV99/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MP1A(36903205S)
+Add component (AddParameter): Name = "Base Material"; Value = "Tin plate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "EMC Shielding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/36903205S?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/36903205S?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "36903205S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-SHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin Plated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "One Piece"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "20mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1A-3
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Added Pin To Net: NetName=GND Pin=MP1A-1
+Add Class Member: Failed to add class member : Component D1A (D1) BAV99
+Added Member To Class: ClassName=Designator1 Member=Component D2A (D2) BAV99
+Added Member To Class: ClassName=Designator2 Member=Component D2B (D2) BAV99
+Added Member To Class: ClassName=Designator1 Member=Component MP1A (MP1) 36903205S

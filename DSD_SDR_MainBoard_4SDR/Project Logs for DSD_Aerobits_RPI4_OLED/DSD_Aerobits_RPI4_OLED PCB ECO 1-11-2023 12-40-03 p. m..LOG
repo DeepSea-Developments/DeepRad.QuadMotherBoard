@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5VBus Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=5VBus Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2

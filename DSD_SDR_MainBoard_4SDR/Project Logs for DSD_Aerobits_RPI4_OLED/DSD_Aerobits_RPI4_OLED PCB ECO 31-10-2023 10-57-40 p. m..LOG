@@ -1,0 +1,16 @@
+Change Net Name : Old Net Name=B2_N New Net Name=B1_N
+Change Net Name : Old Net Name=NetIC2_16 New Net Name=B4_P
+Change Net Name : Old Net Name=NetIC2_17 New Net Name=B4_N
+Change Net Name : Old Net Name=NetIC2_65 New Net Name=B3_P
+Change Net Name : Old Net Name=NetIC2_66 New Net Name=B3_N
+Change Net Name : Old Net Name=NetIC2_74 New Net Name=B2_P
+Change Net Name : Old Net Name=NetIC2_75 New Net Name=B2_N
+Add Differential Pair: Number of nets in differential pair A4 is 1 instead of 2
+Added Differential Pair: Name=B1
+Added Differential Pair: Name=B2
+Added Differential Pair: Name=B3
+Added Differential Pair: Name=B4
+Added Member To Class: ClassName=RF Member=Wire NetC1A_1
+Added Member To Class: ClassName=RF Member=Wire NetC1A_2
+Added Member To Class: ClassName=RF Member=Wire NetC1C_1
+Added Member To Class: ClassName=RF Member=Wire NetC1C_2

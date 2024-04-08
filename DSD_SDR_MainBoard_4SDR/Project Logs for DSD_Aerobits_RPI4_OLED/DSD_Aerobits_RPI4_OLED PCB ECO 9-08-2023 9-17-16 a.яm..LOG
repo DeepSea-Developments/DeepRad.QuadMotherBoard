@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetC42A_1 Pin=Y2A-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2A-2
+Removed Pin From Net: NetName=NetC43A_1 Pin=Y2A-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2A-4
+Removed Pin From Net: NetName=NetC42B_1 Pin=Y2B-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2B-2
+Removed Pin From Net: NetName=NetC43B_1 Pin=Y2B-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2B-4
+Removed Pin From Net: NetName=NetC42C_1 Pin=Y2C-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2C-2
+Removed Pin From Net: NetName=NetC43C_1 Pin=Y2C-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2C-4
+Removed Pin From Net: NetName=NetC42D_1 Pin=Y2D-1
+Removed Pin From Net: NetName=GNDAA Pin=Y2D-2
+Removed Pin From Net: NetName=NetC43D_1 Pin=Y2D-3
+Removed Pin From Net: NetName=GNDAA Pin=Y2D-4
+Change Component Comment : Designator=XT?B Old Comment=6.00MHz New Comment=28.8Mhz
+Change Component Comment : Designator=XT?C Old Comment=6.00MHz New Comment=28.8Mhz
+Change Component Comment : Designator=XT?D Old Comment=6.00MHz New Comment=28.8Mhz
+Change Component Designator: OldDesignator=XT?B NewDesignator=XT1B
+Change Component Designator: OldDesignator=XT?C NewDesignator=XT1C
+Change Component Designator: OldDesignator=XT?D NewDesignator=XT1D
+Added Component: Designator=XT1A(CRYSTAL_HC49-US-SM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ctscorp.com/components/Datasheets/008-0309-0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ctscorp.com/components/Datasheets/008-0309-0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "6MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CTS-Frequency Controls"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ATS060BSM-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "Fundamental"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20°C ~ 70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "HC49/US-SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name"; Value = "0.169" (4.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "6.00 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.437" L x 0.190" W (11.10mm x 4.83mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CTX882CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MHz Crystal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC42A_1 Pin=XT1A-1
+Added Pin To Net: NetName=NetC43A_1 Pin=XT1A-2
+Added Pin To Net: NetName=NetC42B_1 Pin=XT1B-1
+Added Pin To Net: NetName=NetC43B_1 Pin=XT1B-2
+Added Pin To Net: NetName=NetC42C_1 Pin=XT1C-1
+Added Pin To Net: NetName=NetC43C_1 Pin=XT1C-2
+Added Pin To Net: NetName=NetC42D_1 Pin=XT1D-1
+Added Pin To Net: NetName=NetC43D_1 Pin=XT1D-2
+Added Class: Name=Designator1
+Added Class: Name=Designator2

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C78
+Change Component Designator: OldDesignator=C? NewDesignator=C79
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Added Pin To Net: NetName=5VBusB Pin=C1A-1
+Added Pin To Net: NetName=5VBusB Pin=C2A-1
+Added Pin To Net: NetName=5VBusB Pin=C10A-1
+Added Pin To Net: NetName=5VBusB Pin=C11A-2
+Added Pin To Net: NetName=5VBusB Pin=C12A-1
+Added Pin To Net: NetName=5VBusB Pin=C13A-1
+Added Pin To Net: NetName=5VBusB Pin=FB1A-2
+Added Pin To Net: NetName=5VBusB Pin=IC1A-20
+Added Pin To Net: NetName=5VBusB Pin=IC1A-38
+Added Pin To Net: NetName=5VBusB Pin=R1A-2
+Change Net Name : Old Net Name=5VBusB New Net Name=5VBus

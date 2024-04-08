@@ -1,0 +1,55 @@
+Add Component: Footprint Not Found U.FL jack
+Add Component: Footprint Not Found U.FL jack
+Add Component: Footprint Not Found U.FL jack
+Add Component: Footprint Not Found WE-MK_0603_L1.6W0.8H0.8
+Add Component: Footprint Not Found QFN16
+Add Component: Footprint Not Found TT-SU2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-18
+Add Pin To Net: Unknown Pin: Pin U2-19
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-28
+Add Pin To Net: Unknown Pin: Pin U2-29
+Add Pin To Net: Unknown Pin: Pin U2-30
+Add Pin To Net: Unknown Pin: Pin U2-31
+Add Pin To Net: Unknown Pin: Pin U2-32
+Add Pin To Net: Unknown Pin: Pin U2-40
+Add Class Member: Failed to add class member : Component J1 u.fl jack smd
+Add Class Member: Failed to add class member : Component J2 u.fl jack smd
+Add Class Member: Failed to add class member : Component J3 u.fl jack smd
+Add Class Member: Failed to add class member : Component L1 27nH
+Add Class Member: Failed to add class member : Component U1 FT230XQ
+Add Class Member: Failed to add class member : Component U2 TT-SU2
+Added Room: Name=Designator1
+Added Room: Name=Designator2
+Added Room: Name=Designator3
+Added Room: Name=Designator4

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=VDD3 Pin=U1-2
+Removed Pin From Net: NetName=+5V Pin=U1-3
+Removed Pin From Net: NetName=VDD3 Pin=U1-4
+Removed Member From Class: ClassName=Designator Member=C1
+Removed Member From Class: ClassName=Designator Member=C2
+Removed Member From Class: ClassName=Designator Member=U1
+Change Component Footprint: Designator=U1 Old Footprint=SOT223 New Footprint=DPAK
+Change Component Comment : Designator=U1 Old Comment=LM1117MP-3V3 New Comment=LD29080DT33R
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOT223"; UniqueID = "\CBWDDBCG\AODYLYYC" ("\CBWDDBCG\AODYLYYC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LD29080DT50R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-252 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LD29080DT50R/STMicroelectronics/view-part/575196/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VDD3 Pin=U1-3
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

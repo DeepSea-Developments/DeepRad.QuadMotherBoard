@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=VDD3 Pin=U2-5
+Removed Pin From Net: NetName=SCL-RTL2832U Pin=U2-7
+Removed Pin From Net: NetName=SDA-RTL2832U Pin=U2-8
+Removed Member From Class: ClassName=Designator Member=U2
+Added Component: Designator=U?(SON50P300X200X60-9N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AT24C02C-MAHM-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/at24c02c-mahm-e/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AT24C02C-MAHM-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-AT24C02C-MAHM-E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/AT24C02C-MAHM-E?qs=CM3LqkkxGd6pL1luGGbjVg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=SDA-RTL2832U Pin=U?-5
+Added Pin To Net: NetName=SCL-RTL2832U Pin=U?-6
+Added Pin To Net: NetName=VDD3 Pin=U?-8
+Added Member To Class: ClassName=Designator Member=Component U? AT24C02C-MAHM-E

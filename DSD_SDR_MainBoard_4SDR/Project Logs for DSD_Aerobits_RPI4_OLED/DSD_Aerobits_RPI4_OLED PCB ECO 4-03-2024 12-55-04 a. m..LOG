@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=J5-5
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J7-4
+Removed Pin From Net: NetName=GND Pin=J7-5
+Removed Pin From Net: NetName=A1_N Pin=SDR1-2
+Removed Pin From Net: NetName=A1_P Pin=SDR1-3
+Removed Pin From Net: NetName=NetJ3_1 Pin=SDR1-5
+Removed Pin From Net: NetName=A2_N Pin=SDR2-2
+Removed Pin From Net: NetName=A2_P Pin=SDR2-3
+Removed Pin From Net: NetName=NetJ5_1 Pin=SDR2-5
+Removed Pin From Net: NetName=A3_N Pin=SDR3-2
+Removed Pin From Net: NetName=A3_P Pin=SDR3-3
+Removed Pin From Net: NetName=NetJ6_1 Pin=SDR3-5
+Removed Pin From Net: NetName=A4_N Pin=SDR4-2
+Removed Pin From Net: NetName=A4_P Pin=SDR4-3
+Removed Member From Class: ClassName=RF Member=NetJ7_1
+Change Component Footprint: Designator=SDR1 Old Footprint=PCBComponent_1 New Footprint=SDR
+Change Component Footprint: Designator=SDR2 Old Footprint=PCBComponent_1 New Footprint=SDR
+Change Component Footprint: Designator=SDR3 Old Footprint=PCBComponent_1 New Footprint=SDR
+Change Component Footprint: Designator=SDR4 Old Footprint=PCBComponent_1 New Footprint=SDR
+Change Component Footprint: Designator=J3 Old Footprint=SMAJPHRATH1 New Footprint=RFSOLUTIONS_CON-SMA-EDGE-S
+Change Component Footprint: Designator=J5 Old Footprint=SMAJPHRATH1 New Footprint=RFSOLUTIONS_CON-SMA-EDGE-S
+Change Component Footprint: Designator=J6 Old Footprint=SMAJPHRATH1 New Footprint=RFSOLUTIONS_CON-SMA-EDGE-S
+Change Component Comment : Designator=SDR1 Old Comment=Component_1 New Comment=SDR_Module
+Change Component Comment : Designator=SDR2 Old Comment=Component_1 New Comment=SDR_Module
+Change Component Comment : Designator=SDR3 Old Comment=Component_1 New Comment=SDR_Module
+Change Component Comment : Designator=SDR4 Old Comment=Component_1 New Comment=SDR_Module
+Change Component Comment : Designator=J3 Old Comment=SMA-J-P-H-RA-TH1 New Comment=CON-SMA-EDGE-S
+Change Component Comment : Designator=J5 Old Comment=SMA-J-P-H-RA-TH1 New Comment=CON-SMA-EDGE-S
+Change Component Comment : Designator=J6 Old Comment=SMA-J-P-H-RA-TH1 New Comment=CON-SMA-EDGE-S
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SMAJPHRATH1"; UniqueID = "\BRVPVXEL" ("\BRVPVXEL")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "SMAJPHRATH1"; UniqueID = "\WIMLTPNG" ("\WIMLTPNG")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "SMAJPHRATH1"; UniqueID = "\DBKOIUKQ" ("\DBKOIUKQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C71(SMD-0805C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BC81C106KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-12343-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Derating Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/GRT%20Series%200805(2012%20Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT21BC81C106KE01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X6S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.057" (1.45mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C72(SMD-0805C)
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT21BR61C226ME13-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-12383-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/GRT%20Series%200805(2012%20Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRT21BR61C226ME13L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.057" (1.45mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0,58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(RFSOLUTIONS_CON-SMA-EDGE-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT223)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM1117MP-3.3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM1117MP-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Added Component: Designator=X2(WTL28.8-OSC28.8)
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=VBUS Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G4
+Added Pin To Net: NetName=GND Pin=J3-G1
+Added Pin To Net: NetName=GND Pin=J3-G2
+Added Pin To Net: NetName=GND Pin=J3-G3
+Added Pin To Net: NetName=GND Pin=J3-G4
+Added Pin To Net: NetName=GND Pin=J5-G1
+Added Pin To Net: NetName=GND Pin=J5-G2
+Added Pin To Net: NetName=GND Pin=J5-G3
+Added Pin To Net: NetName=GND Pin=J5-G4
+Added Pin To Net: NetName=GND Pin=J6-G1
+Added Pin To Net: NetName=GND Pin=J6-G2
+Added Pin To Net: NetName=GND Pin=J6-G3
+Added Pin To Net: NetName=GND Pin=J6-G4
+Added Pin To Net: NetName=A1_P Pin=SDR1-2
+Added Pin To Net: NetName=A1_N Pin=SDR1-3
+Added Pin To Net: NetName=A2_P Pin=SDR2-2
+Added Pin To Net: NetName=A2_N Pin=SDR2-3
+Added Pin To Net: NetName=NetJ3_1 Pin=SDR2-7
+Added Pin To Net: NetName=A3_P Pin=SDR3-2
+Added Pin To Net: NetName=A3_N Pin=SDR3-3
+Added Pin To Net: NetName=NetJ5_1 Pin=SDR3-7
+Added Pin To Net: NetName=A4_P Pin=SDR4-2
+Added Pin To Net: NetName=A4_N Pin=SDR4-3
+Added Pin To Net: NetName=NetJ6_1 Pin=SDR4-7
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=VBUS Pin=U4-3
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=+3V3 Pin=C72-2
+Added Pin To Net: NetName=+3V3 Pin=U4-2
+Added Pin To Net: NetName=+3V3 Pin=U4-4
+Added Pin To Net: NetName=+3V3 Pin=X2-4
+Added Net: Name=+3V3
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=SDR1-7
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=OSC/NC Pin=SDR1-6
+Added Pin To Net: NetName=OSC/NC Pin=SDR2-6
+Added Pin To Net: NetName=OSC/NC Pin=SDR3-6
+Added Pin To Net: NetName=OSC/NC Pin=SDR4-6
+Added Pin To Net: NetName=OSC/NC Pin=X2-1
+Added Net: Name=OSC/NC
+Added Pin To Net: NetName=OSC/OUT Pin=SDR1-5
+Added Pin To Net: NetName=OSC/OUT Pin=SDR2-5
+Added Pin To Net: NetName=OSC/OUT Pin=SDR3-5
+Added Pin To Net: NetName=OSC/OUT Pin=SDR4-5
+Added Pin To Net: NetName=OSC/OUT Pin=X2-3
+Added Net: Name=OSC/OUT
+Added Member To Class: ClassName=RF Member=Wire NetJ2_1

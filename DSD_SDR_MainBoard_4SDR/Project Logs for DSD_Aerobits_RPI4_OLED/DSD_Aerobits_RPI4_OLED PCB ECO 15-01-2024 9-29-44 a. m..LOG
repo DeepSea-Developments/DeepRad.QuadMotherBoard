@@ -1,0 +1,829 @@
+Removed Pin From Net: NetName=5VBus Pin=C1B-1
+Removed Pin From Net: NetName=GND Pin=C1B-2
+Removed Pin From Net: NetName=5VBus Pin=C2B-1
+Removed Pin From Net: NetName=GND Pin=C2B-2
+Removed Pin From Net: NetName=GND Pin=C5B-2
+Removed Pin From Net: NetName=GND Pin=C6B-2
+Removed Pin From Net: NetName=GND Pin=C7B-2
+Removed Pin From Net: NetName=GND Pin=C8B-2
+Removed Pin From Net: NetName=GND Pin=C9B-2
+Removed Pin From Net: NetName=5VBus Pin=C10B-1
+Removed Pin From Net: NetName=GND Pin=C10B-2
+Removed Pin From Net: NetName=GND Pin=C11B-1
+Removed Pin From Net: NetName=5VBus Pin=C11B-2
+Removed Pin From Net: NetName=5VBus Pin=C12B-1
+Removed Pin From Net: NetName=GND Pin=C12B-2
+Removed Pin From Net: NetName=5VBus Pin=C13B-1
+Removed Pin From Net: NetName=GND Pin=C13B-2
+Removed Pin From Net: NetName=GND Pin=C14B-2
+Removed Pin From Net: NetName=GND Pin=C15B-2
+Removed Pin From Net: NetName=GND Pin=C16B-2
+Removed Pin From Net: NetName=GND Pin=C17B-2
+Removed Pin From Net: NetName=GND Pin=C18B-2
+Removed Pin From Net: NetName=GND Pin=C19B-2
+Removed Pin From Net: NetName=GND Pin=C20B-2
+Removed Pin From Net: NetName=GND Pin=C21B-2
+Removed Pin From Net: NetName=GND Pin=C22B-2
+Removed Pin From Net: NetName=GND Pin=C23B-2
+Removed Pin From Net: NetName=GND Pin=C24B-2
+Removed Pin From Net: NetName=GND Pin=C25B-2
+Removed Pin From Net: NetName=GND Pin=C26B-2
+Removed Pin From Net: NetName=GND Pin=C27B-2
+Removed Pin From Net: NetName=GND Pin=C28B-2
+Removed Pin From Net: NetName=GND Pin=C29B-2
+Removed Pin From Net: NetName=GND Pin=C30B-2
+Removed Pin From Net: NetName=GND Pin=C31B-2
+Removed Pin From Net: NetName=GND Pin=C32B-2
+Removed Pin From Net: NetName=GND Pin=C33B-2
+Removed Pin From Net: NetName=GND Pin=C35A-1
+Removed Pin From Net: NetName=VBUS Pin=C35A-2
+Removed Pin From Net: NetName=GND Pin=C35B-1
+Removed Pin From Net: NetName=VBUS Pin=C35B-2
+Removed Pin From Net: NetName=GND Pin=C35C-1
+Removed Pin From Net: NetName=VBUS Pin=C35C-2
+Removed Pin From Net: NetName=GND Pin=C35D-1
+Removed Pin From Net: NetName=VBUS Pin=C35D-2
+Removed Pin From Net: NetName=GND Pin=C36A-1
+Removed Pin From Net: NetName=GND Pin=C36B-1
+Removed Pin From Net: NetName=GND Pin=C36C-1
+Removed Pin From Net: NetName=GND Pin=C36D-1
+Removed Pin From Net: NetName=GND Pin=C37A-2
+Removed Pin From Net: NetName=GND Pin=C37B-2
+Removed Pin From Net: NetName=GND Pin=C37C-2
+Removed Pin From Net: NetName=GND Pin=C37D-2
+Removed Pin From Net: NetName=GND Pin=C38A-2
+Removed Pin From Net: NetName=GND Pin=C38B-2
+Removed Pin From Net: NetName=GND Pin=C38C-2
+Removed Pin From Net: NetName=GND Pin=C38D-2
+Removed Pin From Net: NetName=GND Pin=C39A-2
+Removed Pin From Net: NetName=GND Pin=C39B-2
+Removed Pin From Net: NetName=GND Pin=C39C-2
+Removed Pin From Net: NetName=GND Pin=C39D-2
+Removed Pin From Net: NetName=GND Pin=C40A-2
+Removed Pin From Net: NetName=GND Pin=C40B-2
+Removed Pin From Net: NetName=GND Pin=C40C-2
+Removed Pin From Net: NetName=GND Pin=C40D-2
+Removed Pin From Net: NetName=GND Pin=C41A-2
+Removed Pin From Net: NetName=GND Pin=C41B-2
+Removed Pin From Net: NetName=GND Pin=C41C-2
+Removed Pin From Net: NetName=GND Pin=C41D-2
+Removed Pin From Net: NetName=GND Pin=C42A-1
+Removed Pin From Net: NetName=GND Pin=C42B-1
+Removed Pin From Net: NetName=GND Pin=C42C-1
+Removed Pin From Net: NetName=GND Pin=C42D-1
+Removed Pin From Net: NetName=GND Pin=C43A-1
+Removed Pin From Net: NetName=GND Pin=C43B-1
+Removed Pin From Net: NetName=GND Pin=C43C-1
+Removed Pin From Net: NetName=GND Pin=C43D-1
+Removed Pin From Net: NetName=GND Pin=C44A-1
+Removed Pin From Net: NetName=GND Pin=C44B-1
+Removed Pin From Net: NetName=GND Pin=C44C-1
+Removed Pin From Net: NetName=GND Pin=C44D-1
+Removed Pin From Net: NetName=GND Pin=C45A-1
+Removed Pin From Net: NetName=GND Pin=C45B-1
+Removed Pin From Net: NetName=GND Pin=C45C-1
+Removed Pin From Net: NetName=GND Pin=C45D-1
+Removed Pin From Net: NetName=GND Pin=C46A-1
+Removed Pin From Net: NetName=GND Pin=C46B-1
+Removed Pin From Net: NetName=GND Pin=C46C-1
+Removed Pin From Net: NetName=GND Pin=C46D-1
+Removed Pin From Net: NetName=GND Pin=C48A-2
+Removed Pin From Net: NetName=GND Pin=C48B-2
+Removed Pin From Net: NetName=GND Pin=C48C-2
+Removed Pin From Net: NetName=GND Pin=C48D-2
+Removed Pin From Net: NetName=GND Pin=C49A-1
+Removed Pin From Net: NetName=GND Pin=C49B-1
+Removed Pin From Net: NetName=GND Pin=C49C-1
+Removed Pin From Net: NetName=GND Pin=C49D-1
+Removed Pin From Net: NetName=GND Pin=C50A-1
+Removed Pin From Net: NetName=GND Pin=C50B-1
+Removed Pin From Net: NetName=GND Pin=C50C-1
+Removed Pin From Net: NetName=GND Pin=C50D-1
+Removed Pin From Net: NetName=GND Pin=C52A-1
+Removed Pin From Net: NetName=GND Pin=C52B-1
+Removed Pin From Net: NetName=GND Pin=C52C-1
+Removed Pin From Net: NetName=GND Pin=C52D-1
+Removed Pin From Net: NetName=GND Pin=C53A-1
+Removed Pin From Net: NetName=GND Pin=C53B-1
+Removed Pin From Net: NetName=GND Pin=C53C-1
+Removed Pin From Net: NetName=GND Pin=C53D-1
+Removed Pin From Net: NetName=GND Pin=C54A-1
+Removed Pin From Net: NetName=GND Pin=C54B-1
+Removed Pin From Net: NetName=GND Pin=C54C-1
+Removed Pin From Net: NetName=GND Pin=C54D-1
+Removed Pin From Net: NetName=GND Pin=C55A-2
+Removed Pin From Net: NetName=GND Pin=C55B-2
+Removed Pin From Net: NetName=GND Pin=C55C-2
+Removed Pin From Net: NetName=GND Pin=C55D-2
+Removed Pin From Net: NetName=GND Pin=C56A-2
+Removed Pin From Net: NetName=GND Pin=C56B-2
+Removed Pin From Net: NetName=GND Pin=C56C-2
+Removed Pin From Net: NetName=GND Pin=C56D-2
+Removed Pin From Net: NetName=GND Pin=C57A-1
+Removed Pin From Net: NetName=GND Pin=C57B-1
+Removed Pin From Net: NetName=GND Pin=C57C-1
+Removed Pin From Net: NetName=GND Pin=C57D-1
+Removed Pin From Net: NetName=GND Pin=C58A-2
+Removed Pin From Net: NetName=GND Pin=C58B-2
+Removed Pin From Net: NetName=GND Pin=C58C-2
+Removed Pin From Net: NetName=GND Pin=C58D-2
+Removed Pin From Net: NetName=GND Pin=C59A-2
+Removed Pin From Net: NetName=GND Pin=C59B-2
+Removed Pin From Net: NetName=GND Pin=C59C-2
+Removed Pin From Net: NetName=GND Pin=C59D-2
+Removed Pin From Net: NetName=GND Pin=C60A-2
+Removed Pin From Net: NetName=GND Pin=C60B-2
+Removed Pin From Net: NetName=GND Pin=C60C-2
+Removed Pin From Net: NetName=GND Pin=C60D-2
+Removed Pin From Net: NetName=GND Pin=C61A-2
+Removed Pin From Net: NetName=GND Pin=C61B-2
+Removed Pin From Net: NetName=GND Pin=C61C-2
+Removed Pin From Net: NetName=GND Pin=C61D-2
+Removed Pin From Net: NetName=GND Pin=C63A-2
+Removed Pin From Net: NetName=GND Pin=C63B-2
+Removed Pin From Net: NetName=GND Pin=C63C-2
+Removed Pin From Net: NetName=GND Pin=C63D-2
+Removed Pin From Net: NetName=GND Pin=C64A-2
+Removed Pin From Net: NetName=GND Pin=C64B-2
+Removed Pin From Net: NetName=GND Pin=C64C-2
+Removed Pin From Net: NetName=GND Pin=C64D-2
+Removed Pin From Net: NetName=GND Pin=C65A-2
+Removed Pin From Net: NetName=GND Pin=C65B-2
+Removed Pin From Net: NetName=GND Pin=C65C-2
+Removed Pin From Net: NetName=GND Pin=C65D-2
+Removed Pin From Net: NetName=GND Pin=C66A-2
+Removed Pin From Net: NetName=GND Pin=C66B-2
+Removed Pin From Net: NetName=GND Pin=C66C-2
+Removed Pin From Net: NetName=GND Pin=C66D-2
+Removed Pin From Net: NetName=GND Pin=C67A-2
+Removed Pin From Net: NetName=GND Pin=C67B-2
+Removed Pin From Net: NetName=GND Pin=C67C-2
+Removed Pin From Net: NetName=GND Pin=C67D-2
+Removed Pin From Net: NetName=GND Pin=C68A-1
+Removed Pin From Net: NetName=GND Pin=C68B-1
+Removed Pin From Net: NetName=GND Pin=C68C-1
+Removed Pin From Net: NetName=GND Pin=C68D-1
+Removed Pin From Net: NetName=GND Pin=C69A-2
+Removed Pin From Net: NetName=GND Pin=C69B-2
+Removed Pin From Net: NetName=GND Pin=C69C-2
+Removed Pin From Net: NetName=GND Pin=C69D-2
+Removed Pin From Net: NetName=GND Pin=C70A-2
+Removed Pin From Net: NetName=GND Pin=C70B-2
+Removed Pin From Net: NetName=GND Pin=C70C-2
+Removed Pin From Net: NetName=GND Pin=C70D-2
+Removed Pin From Net: NetName=5VBus Pin=D1-A
+Removed Pin From Net: NetName=VBUS Pin=D1-C
+Removed Pin From Net: NetName=GND Pin=D2A-1
+Removed Pin From Net: NetName=GND Pin=D2A-2
+Removed Pin From Net: NetName=GND Pin=D2B-1
+Removed Pin From Net: NetName=GND Pin=D2B-2
+Removed Pin From Net: NetName=GND Pin=D2C-1
+Removed Pin From Net: NetName=GND Pin=D2C-2
+Removed Pin From Net: NetName=GND Pin=D2D-1
+Removed Pin From Net: NetName=GND Pin=D2D-2
+Removed Pin From Net: NetName=5VBus Pin=FB1B-2
+Removed Pin From Net: NetName=5VBus Pin=IC1B-20
+Removed Pin From Net: NetName=5VBus Pin=IC1B-38
+Removed Pin From Net: NetName=GND Pin=IC1B-77
+Removed Pin From Net: NetName=GND Pin=IC2B-4
+Removed Pin From Net: NetName=GND Pin=IC3A-1
+Removed Pin From Net: NetName=GND Pin=IC3A-2
+Removed Pin From Net: NetName=GND Pin=IC3A-3
+Removed Pin From Net: NetName=GND Pin=IC3A-4
+Removed Pin From Net: NetName=GND Pin=IC3B-1
+Removed Pin From Net: NetName=GND Pin=IC3B-2
+Removed Pin From Net: NetName=GND Pin=IC3B-3
+Removed Pin From Net: NetName=GND Pin=IC3B-4
+Removed Pin From Net: NetName=GND Pin=IC3C-1
+Removed Pin From Net: NetName=GND Pin=IC3C-2
+Removed Pin From Net: NetName=GND Pin=IC3C-3
+Removed Pin From Net: NetName=GND Pin=IC3C-4
+Removed Pin From Net: NetName=GND Pin=IC3D-1
+Removed Pin From Net: NetName=GND Pin=IC3D-2
+Removed Pin From Net: NetName=GND Pin=IC3D-3
+Removed Pin From Net: NetName=GND Pin=IC3D-4
+Removed Pin From Net: NetName=GND Pin=J1B-4
+Removed Pin From Net: NetName=GND Pin=J1B-7
+Removed Pin From Net: NetName=GND Pin=J1B-Shell
+Removed Pin From Net: NetName=GND Pin=J1B-Shell
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=VBUS Pin=J2-4
+Removed Pin From Net: NetName=VBUS Pin=J3-1
+Removed Pin From Net: NetName=VBUS Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J4A-2
+Removed Pin From Net: NetName=GND Pin=J4A-3
+Removed Pin From Net: NetName=GND Pin=J4A-4
+Removed Pin From Net: NetName=GND Pin=J4A-5
+Removed Pin From Net: NetName=GND Pin=J4B-2
+Removed Pin From Net: NetName=GND Pin=J4B-3
+Removed Pin From Net: NetName=GND Pin=J4B-4
+Removed Pin From Net: NetName=GND Pin=J4B-5
+Removed Pin From Net: NetName=GND Pin=J4C-2
+Removed Pin From Net: NetName=GND Pin=J4C-3
+Removed Pin From Net: NetName=GND Pin=J4C-4
+Removed Pin From Net: NetName=GND Pin=J4C-5
+Removed Pin From Net: NetName=GND Pin=J4D-2
+Removed Pin From Net: NetName=GND Pin=J4D-3
+Removed Pin From Net: NetName=GND Pin=J4D-4
+Removed Pin From Net: NetName=GND Pin=J4D-5
+Removed Pin From Net: NetName=VBUS Pin=K1-1
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1A-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1B-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=5VBus Pin=R1B-2
+Removed Pin From Net: NetName=GND Pin=R3B-1
+Removed Pin From Net: NetName=GND Pin=R5B-2
+Removed Pin From Net: NetName=GND Pin=R6B-1
+Removed Pin From Net: NetName=GND Pin=R13B-1
+Removed Pin From Net: NetName=GND Pin=R14B-2
+Removed Pin From Net: NetName=GND Pin=R16B-1
+Removed Pin From Net: NetName=GND Pin=R18B-1
+Removed Pin From Net: NetName=GND Pin=R20B-1
+Removed Pin From Net: NetName=GND Pin=R22B-1
+Removed Pin From Net: NetName=GND Pin=R23B-1
+Removed Pin From Net: NetName=GND Pin=R24B-1
+Removed Pin From Net: NetName=GND Pin=R25B-1
+Removed Pin From Net: NetName=GND Pin=R26B-1
+Removed Pin From Net: NetName=GND Pin=R37A-1
+Removed Pin From Net: NetName=GND Pin=R37B-1
+Removed Pin From Net: NetName=GND Pin=R37C-1
+Removed Pin From Net: NetName=GND Pin=R37D-1
+Removed Pin From Net: NetName=GND Pin=U1A-1
+Removed Pin From Net: NetName=VBUS Pin=U1A-3
+Removed Pin From Net: NetName=GND Pin=U1B-1
+Removed Pin From Net: NetName=VBUS Pin=U1B-3
+Removed Pin From Net: NetName=GND Pin=U1C-1
+Removed Pin From Net: NetName=VBUS Pin=U1C-3
+Removed Pin From Net: NetName=GND Pin=U1D-1
+Removed Pin From Net: NetName=VBUS Pin=U1D-3
+Removed Pin From Net: NetName=GND Pin=U2A-3
+Removed Pin From Net: NetName=GND Pin=U2A-8
+Removed Pin From Net: NetName=GND Pin=U2A-39
+Removed Pin From Net: NetName=A2_P Pin=U2A-40
+Removed Pin From Net: NetName=A2_N Pin=U2A-41
+Removed Pin From Net: NetName=GND Pin=U2A-45
+Removed Pin From Net: NetName=GND Pin=U2A-49
+Removed Pin From Net: NetName=GND Pin=U2B-3
+Removed Pin From Net: NetName=GND Pin=U2B-8
+Removed Pin From Net: NetName=GND Pin=U2B-39
+Removed Pin From Net: NetName=A3_P Pin=U2B-40
+Removed Pin From Net: NetName=A3_N Pin=U2B-41
+Removed Pin From Net: NetName=GND Pin=U2B-45
+Removed Pin From Net: NetName=GND Pin=U2B-49
+Removed Pin From Net: NetName=GND Pin=U2C-3
+Removed Pin From Net: NetName=GND Pin=U2C-8
+Removed Pin From Net: NetName=GND Pin=U2C-39
+Removed Pin From Net: NetName=A1_P Pin=U2C-40
+Removed Pin From Net: NetName=A1_N Pin=U2C-41
+Removed Pin From Net: NetName=GND Pin=U2C-45
+Removed Pin From Net: NetName=GND Pin=U2C-49
+Removed Pin From Net: NetName=GND Pin=U2D-3
+Removed Pin From Net: NetName=GND Pin=U2D-8
+Removed Pin From Net: NetName=GND Pin=U2D-39
+Removed Pin From Net: NetName=A4_P Pin=U2D-40
+Removed Pin From Net: NetName=A4_N Pin=U2D-41
+Removed Pin From Net: NetName=GND Pin=U2D-45
+Removed Pin From Net: NetName=GND Pin=U2D-49
+Removed Pin From Net: NetName=GND Pin=U3A-16
+Removed Pin From Net: NetName=GND Pin=U3A-25
+Removed Pin From Net: NetName=GND Pin=U3B-16
+Removed Pin From Net: NetName=GND Pin=U3B-25
+Removed Pin From Net: NetName=GND Pin=U3C-16
+Removed Pin From Net: NetName=GND Pin=U3C-25
+Removed Pin From Net: NetName=GND Pin=U3D-16
+Removed Pin From Net: NetName=GND Pin=U3D-25
+Removed Pin From Net: NetName=GND Pin=X1A-2
+Removed Pin From Net: NetName=GND Pin=X1B-2
+Removed Pin From Net: NetName=GND Pin=X1C-2
+Removed Pin From Net: NetName=GND Pin=X1D-2
+Removed Pin From Net: NetName=GND Pin=Y1B-2
+Removed Pin From Net: NetName=GND Pin=Y1B-4
+Change Component Designator: OldDesignator=C1A NewDesignator=C1
+Change Component Designator: OldDesignator=C2A NewDesignator=C2
+Change Component Designator: OldDesignator=C3A NewDesignator=C3
+Change Component Designator: OldDesignator=C4A NewDesignator=C4
+Change Component Designator: OldDesignator=C5A NewDesignator=C5
+Change Component Designator: OldDesignator=C6A NewDesignator=C6
+Change Component Designator: OldDesignator=C7A NewDesignator=C7
+Change Component Designator: OldDesignator=C8A NewDesignator=C8
+Change Component Designator: OldDesignator=C9A NewDesignator=C9
+Change Component Designator: OldDesignator=C10A NewDesignator=C10
+Change Component Designator: OldDesignator=C11A NewDesignator=C11
+Change Component Designator: OldDesignator=C12A NewDesignator=C12
+Change Component Designator: OldDesignator=C13A NewDesignator=C13
+Change Component Designator: OldDesignator=C14A NewDesignator=C14
+Change Component Designator: OldDesignator=C15A NewDesignator=C15
+Change Component Designator: OldDesignator=C16A NewDesignator=C16
+Change Component Designator: OldDesignator=C17A NewDesignator=C17
+Change Component Designator: OldDesignator=C18A NewDesignator=C18
+Change Component Designator: OldDesignator=C19A NewDesignator=C19
+Change Component Designator: OldDesignator=C20A NewDesignator=C20
+Change Component Designator: OldDesignator=C21A NewDesignator=C21
+Change Component Designator: OldDesignator=C22A NewDesignator=C22
+Change Component Designator: OldDesignator=C23A NewDesignator=C23
+Change Component Designator: OldDesignator=C24A NewDesignator=C24
+Change Component Designator: OldDesignator=C25A NewDesignator=C25
+Change Component Designator: OldDesignator=C26A NewDesignator=C26
+Change Component Designator: OldDesignator=C27A NewDesignator=C27
+Change Component Designator: OldDesignator=C28A NewDesignator=C28
+Change Component Designator: OldDesignator=C29A NewDesignator=C29
+Change Component Designator: OldDesignator=C30A NewDesignator=C30
+Change Component Designator: OldDesignator=C31A NewDesignator=C31
+Change Component Designator: OldDesignator=C32A NewDesignator=C32
+Change Component Designator: OldDesignator=C33A NewDesignator=C33
+Change Component Designator: OldDesignator=FB1A NewDesignator=FB1
+Change Component Designator: OldDesignator=IC1A NewDesignator=IC1
+Change Component Designator: OldDesignator=IC2A NewDesignator=IC2
+Change Component Designator: OldDesignator=J1A NewDesignator=J1
+Change Component Designator: OldDesignator=L1A NewDesignator=L1
+Change Component Designator: OldDesignator=LED1A NewDesignator=LED1
+Change Component Designator: OldDesignator=LED2A NewDesignator=LED2
+Change Component Designator: OldDesignator=LED3A NewDesignator=LED3
+Change Component Designator: OldDesignator=LED4A NewDesignator=LED4
+Change Component Designator: OldDesignator=R1A NewDesignator=R1
+Change Component Designator: OldDesignator=R2A NewDesignator=R2
+Change Component Designator: OldDesignator=R3A NewDesignator=R3
+Change Component Designator: OldDesignator=R4A NewDesignator=R4
+Change Component Designator: OldDesignator=R5A NewDesignator=R5
+Change Component Designator: OldDesignator=R6A NewDesignator=R6
+Change Component Designator: OldDesignator=R7A NewDesignator=R7
+Change Component Designator: OldDesignator=R8A NewDesignator=R8
+Change Component Designator: OldDesignator=R9A NewDesignator=R9
+Change Component Designator: OldDesignator=R10A NewDesignator=R10
+Change Component Designator: OldDesignator=R11A NewDesignator=R11
+Change Component Designator: OldDesignator=R12A NewDesignator=R12
+Change Component Designator: OldDesignator=R13A NewDesignator=R13
+Change Component Designator: OldDesignator=R14A NewDesignator=R14
+Change Component Designator: OldDesignator=R15A NewDesignator=R15
+Change Component Designator: OldDesignator=R16A NewDesignator=R16
+Change Component Designator: OldDesignator=R17A NewDesignator=R17
+Change Component Designator: OldDesignator=R18A NewDesignator=R18
+Change Component Designator: OldDesignator=R19A NewDesignator=R19
+Change Component Designator: OldDesignator=R20A NewDesignator=R20
+Change Component Designator: OldDesignator=R21A NewDesignator=R21
+Change Component Designator: OldDesignator=R22A NewDesignator=R22
+Change Component Designator: OldDesignator=R23A NewDesignator=R23
+Change Component Designator: OldDesignator=R24A NewDesignator=R24
+Change Component Designator: OldDesignator=R25A NewDesignator=R25
+Change Component Designator: OldDesignator=R26A NewDesignator=R26
+Change Component Designator: OldDesignator=Y1A NewDesignator=Y1
+Added Component: Designator=J3(SMAJPHRATH1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sma-j-p-h-ra-th1/samtec?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-ra-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.86mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHRATH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-RA-TH1?qs=IAPfasySNH9bBmPI%2F132gw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(SMAJPHRATH1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sma-j-p-h-ra-th1/samtec?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-ra-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.86mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHRATH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-RA-TH1?qs=IAPfasySNH9bBmPI%2F132gw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J6(SMAJPHRATH1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sma-j-p-h-ra-th1/samtec?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-ra-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.86mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHRATH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-RA-TH1?qs=IAPfasySNH9bBmPI%2F132gw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(SMAJPHRATH1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sma-j-p-h-ra-th1/samtec?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-ra-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.86mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHRATH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-RA-TH1?qs=IAPfasySNH9bBmPI%2F132gw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R27(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R28(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R29(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R30(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R31(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R32(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R33(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=R34(SMD-0603-RES)
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/MFG_ERJ-P6W%20Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4813372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=SDR1(PCBComponent_1)
+Added Component: Designator=SDR2(PCBComponent_1)
+Added Component: Designator=SDR3(PCBComponent_1)
+Added Component: Designator=SDR4(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=A1_P Pin=R27-1
+Added Pin To Net: NetName=B1_P Pin=R27-2
+Added Pin To Net: NetName=A1_N Pin=R28-1
+Added Pin To Net: NetName=B1_N Pin=R28-2
+Added Pin To Net: NetName=A2_P Pin=R29-1
+Added Pin To Net: NetName=B2_P Pin=R29-2
+Added Pin To Net: NetName=A2_N Pin=R30-1
+Added Pin To Net: NetName=B2_N Pin=R30-2
+Added Pin To Net: NetName=A3_P Pin=R31-1
+Added Pin To Net: NetName=B3_P Pin=R31-2
+Added Pin To Net: NetName=A3_N Pin=R32-1
+Added Pin To Net: NetName=B3_N Pin=R32-2
+Added Pin To Net: NetName=A4_P Pin=R33-1
+Added Pin To Net: NetName=B4_P Pin=R33-2
+Added Pin To Net: NetName=A4_N Pin=R34-1
+Added Pin To Net: NetName=B4_N Pin=R34-2
+Added Pin To Net: NetName=VBUS Pin=SDR1-1
+Added Pin To Net: NetName=VBUS Pin=SDR1-1
+Added Pin To Net: NetName=A1_N Pin=SDR1-2
+Added Pin To Net: NetName=A1_P Pin=SDR1-3
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=GND Pin=SDR1-4
+Added Pin To Net: NetName=VBUS Pin=SDR2-1
+Added Pin To Net: NetName=VBUS Pin=SDR2-1
+Added Pin To Net: NetName=A2_N Pin=SDR2-2
+Added Pin To Net: NetName=A2_P Pin=SDR2-3
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=GND Pin=SDR2-4
+Added Pin To Net: NetName=VBUS Pin=SDR3-1
+Added Pin To Net: NetName=VBUS Pin=SDR3-1
+Added Pin To Net: NetName=A3_N Pin=SDR3-2
+Added Pin To Net: NetName=A3_P Pin=SDR3-3
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=GND Pin=SDR3-4
+Added Pin To Net: NetName=VBUS Pin=SDR4-1
+Added Pin To Net: NetName=VBUS Pin=SDR4-1
+Added Pin To Net: NetName=A4_N Pin=SDR4-2
+Added Pin To Net: NetName=A4_P Pin=SDR4-3
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Added Pin To Net: NetName=GND Pin=SDR4-4
+Change Net Name : Old Net Name=0SSTXA_N New Net Name=0SSTX_N
+Change Net Name : Old Net Name=0SSTXA_P New Net Name=0SSTX_P
+Change Net Name : Old Net Name=1_1VA New Net Name=1_1V
+Change Net Name : Old Net Name=3_3VA New Net Name=3_3V
+Change Net Name : Old Net Name=EXTPWRONA New Net Name=EXTPWRON
+Change Net Name : Old Net Name=NetFB1A_1 New Net Name=NetFB1_1
+Change Net Name : Old Net Name=NetIC1A_39 New Net Name=NetIC1_39
+Change Net Name : Old Net Name=NetIC1A_57 New Net Name=NetIC1_57
+Change Net Name : Old Net Name=NetIC2A_3 New Net Name=NetIC2_3
+Change Net Name : Old Net Name=NetIC2A_7 New Net Name=NetIC2_7
+Change Net Name : Old Net Name=NetLED1A_K New Net Name=NetLED1_K
+Change Net Name : Old Net Name=NetLED2A_K New Net Name=NetLED2_K
+Change Net Name : Old Net Name=NetLED3A_K New Net Name=NetLED3_K
+Change Net Name : Old Net Name=NetLED4A_K New Net Name=NetLED4_K
+Change Net Name : Old Net Name=NetR1A_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=OVCUR1A New Net Name=OVCUR1
+Change Net Name : Old Net Name=OVCUR2A New Net Name=OVCUR2
+Change Net Name : Old Net Name=OVCUR3A New Net Name=OVCUR3
+Change Net Name : Old Net Name=OVCUR4A New Net Name=OVCUR4
+Change Net Name : Old Net Name=PWREN1A New Net Name=PWREN1
+Change Net Name : Old Net Name=PWREN2A New Net Name=PWREN2
+Change Net Name : Old Net Name=PWREN3A New Net Name=PWREN3
+Change Net Name : Old Net Name=PWREN4A New Net Name=PWREN4
+Change Net Name : Old Net Name=RST_OUTA New Net Name=RST_OUT
+Change Net Name : Old Net Name=SMCLKA New Net Name=SMCLK
+Change Net Name : Old Net Name=SMDATA New Net Name=SMDAT
+Change Net Name : Old Net Name=SPICLKA New Net Name=SPICLK
+Change Net Name : Old Net Name=SPICSA New Net Name=SPICS
+Change Net Name : Old Net Name=SPISIA New Net Name=SPISI
+Change Net Name : Old Net Name=SPISOA New Net Name=SPISO
+Change Net Name : Old Net Name=SSRX0A_N New Net Name=SSRX0_N
+Change Net Name : Old Net Name=SSRX0A_P New Net Name=SSRX0_P
+Change Net Name : Old Net Name=SSTX0A_N New Net Name=SSTX0_N
+Change Net Name : Old Net Name=SSTX0A_P New Net Name=SSTX0_P
+Change Net Name : Old Net Name=SSXIA New Net Name=SSXI
+Change Net Name : Old Net Name=SSXOA New Net Name=SSXO
+Change Net Name : Old Net Name=TESTENA New Net Name=TESTEN
+Change Net Name : Old Net Name=USBDP0A_N New Net Name=USBDP0_N
+Change Net Name : Old Net Name=USBDP0A_P New Net Name=USBDP0_P
+Change Net Name : Old Net Name=VBUSDETA New Net Name=VBUSDET
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=SDR1-5
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=SDR2-5
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=SDR3-5
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=SDR4-5
+Added Net: Name=NetJ7_1
+Added Differential Pair: Name=0SSTX
+Added Differential Pair: Name=SSRX0
+Added Differential Pair: Name=SSTX0
+Added Differential Pair: Name=USBDP0

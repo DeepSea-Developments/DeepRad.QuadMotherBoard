@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VDD3 Pin=FB2-1
+Removed Pin From Net: NetName=NetL2_2 Pin=L3-1
+Removed Pin From Net: NetName=NetL2_2 Pin=L3-2
+Removed Pin From Net: NetName=NetL2_2 Pin=U4-20
+Removed Member From Class: ClassName=Designator Member=FB2
+Added Pin To Net: NetName=VDD3 Pin=U3-43
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U4-22
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=U4-20
+Added Net: Name=NetL3_2

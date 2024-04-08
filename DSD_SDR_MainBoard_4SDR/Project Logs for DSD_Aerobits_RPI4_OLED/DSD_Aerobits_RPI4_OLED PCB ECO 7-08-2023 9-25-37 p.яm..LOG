@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=A5_P Pin=R9-1
+Removed Pin From Net: NetName=A5_P Pin=R9-2
+Removed Pin From Net: NetName=A5_N Pin=R10-1
+Removed Pin From Net: NetName=A5_N Pin=R10-2
+Removed Member From Class: ClassName=Designator1 Member=C22A
+Removed Member From Class: ClassName=Designator2 Member=C23B
+Removed Member From Class: ClassName=Designator1 Member=C24A
+Removed Member From Class: ClassName=Designator2 Member=C25B
+Removed Member From Class: ClassName=Designator1 Member=C26A
+Removed Member From Class: ClassName=Designator2 Member=C27B
+Removed Member From Class: ClassName=Designator1 Member=C28A
+Removed Member From Class: ClassName=Designator2 Member=C35B
+Removed Member From Class: ClassName=Designator2 Member=C37B
+Removed Member From Class: ClassName=Designator1 Member=C38A
+Removed Member From Class: ClassName=Designator1 Member=C47A
+Removed Member From Class: ClassName=Designator1 Member=R32A
+Removed Member From Class: ClassName=Designator2 Member=R33B
+Removed Member From Class: ClassName=Designator1 Member=R34A
+Removed Member From Class: ClassName=Designator2 Member=R35B
+Removed Member From Class: ClassName=Designator1 Member=R36A
+Removed Member From Class: ClassName=Designator1 Member=R38A
+Removed Member From Class: ClassName=Designator2 Member=R39B
+Removed Member From Class: ClassName=Designator2 Member=R42B
+Added Member To Class: ClassName=Designator1 Member=Component C11A (C11) 1µF
+Added Member To Class: ClassName=Designator2 Member=Component C12B (C12) 1µF
+Added Member To Class: ClassName=Designator1 Member=Component C13A (C13) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C13B (C13) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C14A (C14) 1µF
+Added Member To Class: ClassName=Designator2 Member=Component C14B (C14) 1µF
+Added Member To Class: ClassName=Designator1 Member=Component C15A (C15) 0.10µF
+Added Member To Class: ClassName=Designator2 Member=Component C15B (C15) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C16A (C16) 12pF
+Added Member To Class: ClassName=Designator2 Member=Component C16B (C16) 12pF
+Added Member To Class: ClassName=Designator1 Member=Component C17A (C17) 12pF
+Added Member To Class: ClassName=Designator1 Member=Component R18A (R18) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R19A (R19) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R20A (R20) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R20B (R20) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R21B (R21) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R22A (R22) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R23A (R23) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R23B (R23) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R24A (R24) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R24B (R24) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R25B (R25) 1k
+Added Member To Class: ClassName=Designator1 Member=Component R26A (R26) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R27A (R27) 1k
+Added Member To Class: ClassName=Designator2 Member=Component R27B (R27) 1k
+Added Member To Class: ClassName=Designator1 Member=Component R28A (R28) 12k
+Added Member To Class: ClassName=Designator2 Member=Component R28B (R28) 12k
+Added Member To Class: ClassName=Designator1 Member=Component R29A (R29) 1M
+Added Member To Class: ClassName=Designator2 Member=Component R29B (R29) 1M

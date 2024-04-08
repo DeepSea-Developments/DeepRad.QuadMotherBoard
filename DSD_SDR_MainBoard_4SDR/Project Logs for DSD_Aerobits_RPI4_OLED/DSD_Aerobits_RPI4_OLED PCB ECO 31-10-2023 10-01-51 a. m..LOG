@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetFB8_1 Pin=J?-1
+Removed Pin From Net: NetName=USBDP0_N Pin=J?-2
+Removed Pin From Net: NetName=USBDP0_P Pin=J?-3
+Removed Pin From Net: NetName=0SSTX_P Pin=J?-4
+Removed Pin From Net: NetName=GND Pin=J?-5
+Removed Pin From Net: NetName=SSRX0_N Pin=J?-6
+Removed Pin From Net: NetName=0SSTX_N Pin=J?-7
+Removed Pin From Net: NetName=SSRX0_P Pin=J?-8
+Removed Pin From Net: NetName=GND Pin=J?-9
+Removed Pin From Net: NetName=GND Pin=J?-Shell
+Removed Pin From Net: NetName=GND Pin=J?-Shell
+Removed Pin From Net: NetName=GND Pin=J?-Shell
+Removed Pin From Net: NetName=GND Pin=J?-Shell
+Added Component: Designator=J5(692121030100)
+Add component (AddParameter): Name = "Application"; Value = "USB 3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Input/Output Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/692121030100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/692121030100?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "Type A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "692121030100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30V (AC)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetFB8_1 Pin=J5-1
+Added Pin To Net: NetName=USBDP0_N Pin=J5-2
+Added Pin To Net: NetName=USBDP0_P Pin=J5-3
+Added Pin To Net: NetName=0SSTX_P Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=SSRX0_N Pin=J5-6
+Added Pin To Net: NetName=0SSTX_N Pin=J5-7
+Added Pin To Net: NetName=SSRX0_P Pin=J5-8
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-Shell
+Added Pin To Net: NetName=GND Pin=J5-Shell
+Add Class: Class already exists: Designator
+Add Differential Pair: Number of nets in differential pair NetIC2_7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_8 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_16 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_17 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_65 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_66 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_74 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetIC2_75 is 1 instead of 2

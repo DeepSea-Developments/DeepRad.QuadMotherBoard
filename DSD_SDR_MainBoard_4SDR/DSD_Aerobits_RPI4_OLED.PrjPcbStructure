@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=DSD_Aerobits_RPI4_OLED.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=DSD_Aerobits_RPI4_OLED.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=HUB-USB.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=HUB-USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=DSD_Aerobits_RPI4_OLED.SchDoc|FileName=RTL-SDR.SchDoc|SheetNumber=3

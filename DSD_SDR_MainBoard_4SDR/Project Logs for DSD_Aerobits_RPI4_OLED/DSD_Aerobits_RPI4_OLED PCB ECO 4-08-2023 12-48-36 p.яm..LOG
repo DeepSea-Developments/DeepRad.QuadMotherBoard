@@ -1,0 +1,57 @@
+Removed Member From Class: ClassName=Designator1 Member=C2B
+Removed Member From Class: ClassName=Designator1 Member=C3B
+Removed Member From Class: ClassName=Designator2 Member=C4A
+Removed Member From Class: ClassName=Designator1 Member=C5B
+Removed Member From Class: ClassName=Designator1 Member=C6B
+Removed Member From Class: ClassName=Designator1 Member=C7B
+Removed Member From Class: ClassName=Designator1 Member=C8B
+Removed Member From Class: ClassName=Designator1 Member=LED5B
+Removed Member From Class: ClassName=Designator2 Member=R13A
+Removed Member From Class: ClassName=Designator1 Member=R14B
+Removed Member From Class: ClassName=Designator1 Member=R15B
+Removed Member From Class: ClassName=Designator2 Member=R16A
+Removed Member From Class: ClassName=Designator1 Member=R17B
+Removed Member From Class: ClassName=Designator2 Member=R18A
+Removed Member From Class: ClassName=Designator1 Member=R19B
+Removed Member From Class: ClassName=Designator2 Member=R20A
+Removed Member From Class: ClassName=Designator2 Member=R21A
+Removed Member From Class: ClassName=Designator2 Member=R22A
+Removed Member From Class: ClassName=Designator1 Member=R23B
+Removed Member From Class: ClassName=Designator2 Member=R24A
+Removed Member From Class: ClassName=Designator2 Member=U2A
+Removed Member From Class: ClassName=Designator1 Member=Y1B
+Add Component: Footprint Not Found QFN16
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U7-10
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-15
+Add Pin To Net: Unknown Pin: Pin U7-17
+Added Member To Class: ClassName=Designator1 Member=Component C2A (C2) 1µF
+Added Member To Class: ClassName=Designator1 Member=Component C3A (C3) 1µF
+Added Member To Class: ClassName=Designator2 Member=Component C4B (C4) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C5A (C5) 1µF
+Added Member To Class: ClassName=Designator1 Member=Component C6A (C6) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C7A (C7) 12pF
+Added Member To Class: ClassName=Designator1 Member=Component C8A (C8) 12pF
+Added Member To Class: ClassName=Designator1 Member=Component LED5A (LED5) Green
+Added Member To Class: ClassName=Designator2 Member=Component R13B (R13) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R14A (R14) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R15A (R15) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R16B (R16) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R17A (R17) 10k
+Added Member To Class: ClassName=Designator2 Member=Component R18B (R18) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R19A (R19) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R20B (R20) 1k
+Added Member To Class: ClassName=Designator2 Member=Component R21B (R21) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R22B (R22) 1k
+Added Member To Class: ClassName=Designator1 Member=Component R23A (R23) 12k
+Added Member To Class: ClassName=Designator2 Member=Component R24B (R24) 1M
+Added Member To Class: ClassName=Designator2 Member=Component U2B (U2) USB2514B-I/M2
+Added Member To Class: ClassName=Designator1 Member=Component Y1A (Y1) ECS-240-12-37B-CKY-TR

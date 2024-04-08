@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DSD_Aerobits_RPI4_OLED.PcbDoc   4/03/2024  12:39:55 p. m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DSD_Aerobits_RPI4_OLED-RoundHoles.TXT
+ASCII SlotHoles File : DSD_Aerobits_RPI4_OLED-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             97        PTH        26.45inch (671.78mm)
+T2      25mil (0.63mm)                                            Round             2         PTH        0.19inch (4.88mm)
+T3      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      44mil (1.12mm)                                            Slot              2         PTH        1.14inch (28.99mm)
+T5      55mil (1.4mm)                                             Round             2         PTH        0.14inch (3.50mm)
+T6      134mil (3.401mm)                                          Round             4         PTH        15.13inch (384.30mm)
+T7      79mil (1.999mm)                                           Round             2         NPTH       0.27inch (6.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              110
+
+Total Processing Time (hh:mm:ss) : 00:00:00

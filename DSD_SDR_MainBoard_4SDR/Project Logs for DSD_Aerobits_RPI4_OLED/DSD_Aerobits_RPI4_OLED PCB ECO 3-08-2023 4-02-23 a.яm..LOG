@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GNDA Pin=C1-1
+Removed Pin From Net: NetName=GNDA Pin=C2-1
+Removed Pin From Net: NetName=VDD3 Pin=C2-2
+Removed Pin From Net: NetName=GNDA Pin=LED1-K
+Removed Pin From Net: NetName=GNDA Pin=LED2-K
+Removed Pin From Net: NetName=GNDA Pin=LED3-K
+Removed Pin From Net: NetName=GNDA Pin=LED4-K
+Removed Pin From Net: NetName=GNDA Pin=U1-2
+Removed Pin From Net: NetName=VDD3 Pin=U1-3
+Removed Pin From Net: NetName=GNDA Pin=U5-16
+Removed Pin From Net: NetName=GNDA Pin=U5-17
+Removed Pin From Net: NetName=GNDA Pin=U5-19
+Removed Pin From Net: NetName=GNDA Pin=U5-20
+Removed Pin From Net: NetName=GNDA Pin=U5-22
+Removed Pin From Net: NetName=GNDA Pin=U5-23
+Removed Pin From Net: NetName=GNDA Pin=U5-25
+Removed Pin From Net: NetName=GNDA Pin=U5-31

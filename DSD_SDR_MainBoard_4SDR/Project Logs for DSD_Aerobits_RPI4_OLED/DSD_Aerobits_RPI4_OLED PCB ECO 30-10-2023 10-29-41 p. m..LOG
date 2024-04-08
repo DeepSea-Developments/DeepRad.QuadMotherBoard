@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC55_1 Pin=XT1-1
+Removed Pin From Net: NetName=NetC56_1 Pin=XT1-2
+Added Component: Designator=X1(WTL28.8-OSC28.8)
+Added Pin To Net: NetName=NetC55_1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=NetC56_1 Pin=X1-3
+Added Pin To Net: NetName=+3V3_SDR Pin=X1-4
+Added Pin To Net: NetName=NetC55_1 Pin=X1-5
+Added Pin To Net: NetName=NetC56_1 Pin=X1-6

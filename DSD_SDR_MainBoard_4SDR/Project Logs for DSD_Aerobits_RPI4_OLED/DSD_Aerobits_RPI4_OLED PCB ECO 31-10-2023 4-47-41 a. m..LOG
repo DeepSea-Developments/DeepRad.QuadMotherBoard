@@ -1,0 +1,118 @@
+Removed Member From Class: ClassName=RF Member=NetC1A_1
+Removed Member From Class: ClassName=RF Member=NetC1A_2
+Removed Member From Class: ClassName=RF Member=NetC1B_1
+Removed Member From Class: ClassName=RF Member=NetC1B_2
+Change Component Designator: OldDesignator=C1B NewDesignator=C1
+Change Component Designator: OldDesignator=C2B NewDesignator=C2
+Change Component Designator: OldDesignator=C3B NewDesignator=C3
+Change Component Designator: OldDesignator=C4B NewDesignator=C4
+Change Component Designator: OldDesignator=C5B NewDesignator=C5
+Change Component Designator: OldDesignator=C6B NewDesignator=C6
+Change Component Designator: OldDesignator=C7B NewDesignator=C7
+Change Component Designator: OldDesignator=C8B NewDesignator=C8
+Change Component Designator: OldDesignator=C9B NewDesignator=C9
+Change Component Designator: OldDesignator=C10B NewDesignator=C10
+Change Component Designator: OldDesignator=C11B NewDesignator=C11
+Change Component Designator: OldDesignator=C12B NewDesignator=C12
+Change Component Designator: OldDesignator=C13B NewDesignator=C13
+Change Component Designator: OldDesignator=C14B NewDesignator=C14
+Change Component Designator: OldDesignator=C15B NewDesignator=C15
+Change Component Designator: OldDesignator=C16B NewDesignator=C16
+Change Component Designator: OldDesignator=C17B NewDesignator=C17
+Change Component Designator: OldDesignator=C18B NewDesignator=C18
+Change Component Designator: OldDesignator=C19B NewDesignator=C19
+Change Component Designator: OldDesignator=C20B NewDesignator=C20
+Change Component Designator: OldDesignator=C21B NewDesignator=C21
+Change Component Designator: OldDesignator=C22B NewDesignator=C22
+Change Component Designator: OldDesignator=C23B NewDesignator=C23
+Change Component Designator: OldDesignator=C24B NewDesignator=C24
+Change Component Designator: OldDesignator=C25B NewDesignator=C25
+Change Component Designator: OldDesignator=C26B NewDesignator=C26
+Change Component Designator: OldDesignator=C27B NewDesignator=C27
+Change Component Designator: OldDesignator=C28B NewDesignator=C28
+Change Component Designator: OldDesignator=C29B NewDesignator=C29
+Change Component Designator: OldDesignator=C30B NewDesignator=C30
+Change Component Designator: OldDesignator=C31B NewDesignator=C31
+Change Component Designator: OldDesignator=C32B NewDesignator=C32
+Change Component Designator: OldDesignator=C33B NewDesignator=C33
+Change Component Designator: OldDesignator=C34B NewDesignator=C34
+Change Component Designator: OldDesignator=C35B NewDesignator=C35
+Change Component Designator: OldDesignator=D1B NewDesignator=D1
+Change Component Designator: OldDesignator=FB1B NewDesignator=FB1
+Change Component Designator: OldDesignator=FB2B NewDesignator=FB2
+Change Component Designator: OldDesignator=FB3B NewDesignator=FB3
+Change Component Designator: OldDesignator=FB4B NewDesignator=FB4
+Change Component Designator: OldDesignator=FB5B NewDesignator=FB5
+Change Component Designator: OldDesignator=FB6B NewDesignator=FB6
+Change Component Designator: OldDesignator=IC1B NewDesignator=IC1
+Change Component Designator: OldDesignator=J1B NewDesignator=J1
+Change Component Designator: OldDesignator=L1B NewDesignator=L1
+Change Component Designator: OldDesignator=L2B NewDesignator=L2
+Change Component Designator: OldDesignator=L3B NewDesignator=L3
+Change Component Designator: OldDesignator=L4B NewDesignator=L4
+Change Component Designator: OldDesignator=MP1B NewDesignator=MP1
+Change Component Designator: OldDesignator=R1B NewDesignator=R1
+Change Component Designator: OldDesignator=R2B NewDesignator=R2
+Change Component Designator: OldDesignator=R3B NewDesignator=R3
+Change Component Designator: OldDesignator=R4B NewDesignator=R4
+Change Component Designator: OldDesignator=R5B NewDesignator=R5
+Change Component Designator: OldDesignator=R6B NewDesignator=R6
+Change Component Designator: OldDesignator=R7B NewDesignator=R7
+Change Component Designator: OldDesignator=R8B NewDesignator=R8
+Change Component Designator: OldDesignator=R9B NewDesignator=R9
+Change Component Designator: OldDesignator=R10B NewDesignator=R10
+Change Component Designator: OldDesignator=R11B NewDesignator=R11
+Change Component Designator: OldDesignator=R12B NewDesignator=R12
+Change Component Designator: OldDesignator=U1B NewDesignator=U1
+Change Component Designator: OldDesignator=U2B NewDesignator=U2
+Change Component Designator: OldDesignator=U3B NewDesignator=U3
+Change Component Designator: OldDesignator=X1B NewDesignator=X1
+Change Net Name : Old Net Name=+3V3_SDRA New Net Name=+3V3_SDR
+Change Net Name : Old Net Name=CLKB New Net Name=CLK
+Change Net Name : Old Net Name=IF+B New Net Name=IF+
+Change Net Name : Old Net Name=IF-B New Net Name=IF-
+Change Net Name : Old Net Name=IF_AGCB New Net Name=IF_AGC
+Change Net Name : Old Net Name=IFAGCB New Net Name=IFAGC
+Change Net Name : Old Net Name=NetC1B_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC1B_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC10B_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC11B_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC12B_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC15B_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC16B_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetC18B_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC21B_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC23B_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC24B_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC27B_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC28B_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC34B_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetC35B_1 New Net Name=NetC35_1
+Change Net Name : Old Net Name=NetL2B_1 New Net Name=NetL2_1
+Change Net Name : Old Net Name=NetL2B_2 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetL3B_1 New Net Name=NetL3_1
+Change Net Name : Old Net Name=NetL3B_2 New Net Name=NetL3_2
+Change Net Name : Old Net Name=NetL4B_1 New Net Name=NetL4_1
+Change Net Name : Old Net Name=NetR2B_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR6B_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR11B_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR12B_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetU2B_27 New Net Name=NetU2_27
+Change Net Name : Old Net Name=NetU2B_40 New Net Name=NetU2_40
+Change Net Name : Old Net Name=NetU2B_41 New Net Name=NetU2_41
+Change Net Name : Old Net Name=RFINB New Net Name=RFIN
+Change Net Name : Old Net Name=SCL-RTL2832UB New Net Name=SCL-RTL2832U
+Change Net Name : Old Net Name=SCLKB New Net Name=SCLK
+Change Net Name : Old Net Name=SDA-RTL2832UB New Net Name=SDA-RTL2832U
+Change Net Name : Old Net Name=SDATB New Net Name=SDAT
+Change Net Name : Old Net Name=VDD1B New Net Name=VDD1
+Change Net Name : Old Net Name=VDD3B New Net Name=VDD3
+Change Net Name : Old Net Name=VDD_PLLB New Net Name=VDD_PLL
+Change Net Name : Old Net Name=VDDA33B New Net Name=VDDA33
+Change Net Name : Old Net Name=VDDAB New Net Name=VDDA
+Change Net Name : Old Net Name=VDDLVB New Net Name=VDDLV
+Change Class Name : Old Net Name=Designator2 New Net Name=Designator
+Added Member To Class: ClassName=RF Member=Wire NetC1_1
+Added Member To Class: ClassName=RF Member=Wire NetC1_2
+Change Room Name: Old Name=Designator2 New Name=Designator
+Change Room Scope: Old Scope=InComponentClass('Designator2') New Scope=InComponentClass('Designator')

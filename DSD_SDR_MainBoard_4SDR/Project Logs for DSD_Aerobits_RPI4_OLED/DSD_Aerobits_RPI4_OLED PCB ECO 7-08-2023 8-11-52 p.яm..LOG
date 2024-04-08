@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=+3V3 Pin=C10-2
+Removed Pin From Net: NetName=+3V3 Pin=C14A-2
+Removed Pin From Net: NetName=+3V3 Pin=C14B-2
+Removed Pin From Net: NetName=+3V3 Pin=C14C-2
+Removed Pin From Net: NetName=+3V3 Pin=C14D-2
+Removed Pin From Net: NetName=+3V3 Pin=C20A-2
+Removed Pin From Net: NetName=+3V3 Pin=C20B-2
+Removed Pin From Net: NetName=+3V3 Pin=C20C-2
+Removed Pin From Net: NetName=+3V3 Pin=C20D-2
+Removed Pin From Net: NetName=+3V3 Pin=R34A-2
+Removed Pin From Net: NetName=+3V3 Pin=R34B-2
+Removed Pin From Net: NetName=+3V3 Pin=R34C-2
+Removed Pin From Net: NetName=+3V3 Pin=R34D-2
+Removed Pin From Net: NetName=+3V3 Pin=R35A-2
+Removed Pin From Net: NetName=+3V3 Pin=R35B-2
+Removed Pin From Net: NetName=+3V3 Pin=R35C-2
+Removed Pin From Net: NetName=+3V3 Pin=R35D-2
+Removed Pin From Net: NetName=+3V3 Pin=U3-3
+Removed Pin From Net: NetName=+3V3 Pin=U4A-8
+Removed Pin From Net: NetName=+3V3 Pin=U4B-8
+Removed Pin From Net: NetName=+3V3 Pin=U4C-8
+Removed Pin From Net: NetName=+3V3 Pin=U4D-8
+Removed Pin From Net: NetName=+3V3 Pin=U6A-2
+Removed Pin From Net: NetName=+3V3 Pin=U6A-11
+Removed Pin From Net: NetName=+3V3 Pin=U6A-18
+Removed Pin From Net: NetName=+3V3 Pin=U6A-23
+Removed Pin From Net: NetName=+3V3 Pin=U6B-2
+Removed Pin From Net: NetName=+3V3 Pin=U6B-11
+Removed Pin From Net: NetName=+3V3 Pin=U6B-18
+Removed Pin From Net: NetName=+3V3 Pin=U6B-23
+Removed Pin From Net: NetName=+3V3 Pin=U6C-2
+Removed Pin From Net: NetName=+3V3 Pin=U6C-11
+Removed Pin From Net: NetName=+3V3 Pin=U6C-18
+Removed Pin From Net: NetName=+3V3 Pin=U6C-23
+Removed Pin From Net: NetName=+3V3 Pin=U6D-2
+Removed Pin From Net: NetName=+3V3 Pin=U6D-11
+Removed Pin From Net: NetName=+3V3 Pin=U6D-18
+Removed Pin From Net: NetName=+3V3 Pin=U6D-23
+Added Component: Designator=J2(U.FL jack)
+Add component (AddParameter): Name = "Body Style"; Value = "Straight Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coaxial Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/22652/689597-22652949.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/22652/689597-22652949.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/15172/getdatasheetpartid-168895-15172647.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/15172/getdatasheetpartid-168895-15172647.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/36526/2036357-36526267.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/36526/2036357-36526267.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/5175/ca-1jb-38743-5175829.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/5175/ca-1jb-38743-5175829.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/3132/ca-1jb-3132240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/3132/ca-1jb-3132240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/14157/04614608-14157589.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/14157/04614608-14157589.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643532.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643532.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/14565/70142555-14565783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/14565/70142555-14565783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643531.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643531.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "AMC Coaxial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Max"; Value = "6GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol / Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "A-1JB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.65, 10=0.596, 50=0.535, 100=0.51, 1000=0.365, 10000=0.351 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "19506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "523-A-1JB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDAA Pin=J2-2
+Added Pin To Net: NetName=GNDAA Pin=J2-2
+Added Pin To Net: NetName=GNDAA Pin=J2-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C10-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C14A-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C14B-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C14C-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C14D-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C20A-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C20B-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C20C-2
+Added Pin To Net: NetName=+3V3_RTL Pin=C20D-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R34A-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R34B-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R34C-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R34D-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R35A-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R35B-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R35C-2
+Added Pin To Net: NetName=+3V3_RTL Pin=R35D-2
+Added Pin To Net: NetName=+3V3_RTL Pin=U3-3
+Added Pin To Net: NetName=+3V3_RTL Pin=U4A-8
+Added Pin To Net: NetName=+3V3_RTL Pin=U4B-8
+Added Pin To Net: NetName=+3V3_RTL Pin=U4C-8
+Added Pin To Net: NetName=+3V3_RTL Pin=U4D-8
+Added Pin To Net: NetName=+3V3_RTL Pin=U6A-2
+Added Pin To Net: NetName=+3V3_RTL Pin=U6A-11
+Added Pin To Net: NetName=+3V3_RTL Pin=U6A-18
+Added Pin To Net: NetName=+3V3_RTL Pin=U6A-23
+Added Pin To Net: NetName=+3V3_RTL Pin=U6B-2
+Added Pin To Net: NetName=+3V3_RTL Pin=U6B-11
+Added Pin To Net: NetName=+3V3_RTL Pin=U6B-18
+Added Pin To Net: NetName=+3V3_RTL Pin=U6B-23
+Added Pin To Net: NetName=+3V3_RTL Pin=U6C-2
+Added Pin To Net: NetName=+3V3_RTL Pin=U6C-11
+Added Pin To Net: NetName=+3V3_RTL Pin=U6C-18
+Added Pin To Net: NetName=+3V3_RTL Pin=U6C-23
+Added Pin To Net: NetName=+3V3_RTL Pin=U6D-2
+Added Pin To Net: NetName=+3V3_RTL Pin=U6D-11
+Added Pin To Net: NetName=+3V3_RTL Pin=U6D-18
+Added Pin To Net: NetName=+3V3_RTL Pin=U6D-23
+Added Net: Name=+3V3_RTL

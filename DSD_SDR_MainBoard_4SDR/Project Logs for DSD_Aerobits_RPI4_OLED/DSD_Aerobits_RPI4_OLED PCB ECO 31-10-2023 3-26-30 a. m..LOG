@@ -1,0 +1,193 @@
+Removed Pin From Net: NetName=GND Pin=C24C-1
+Removed Pin From Net: NetName=VBUS Pin=C24C-2
+Removed Pin From Net: NetName=GND Pin=C24D-1
+Removed Pin From Net: NetName=VBUS Pin=C24D-2
+Removed Pin From Net: NetName=GND Pin=C25C-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=C25C-2
+Removed Pin From Net: NetName=GND Pin=C25D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=C25D-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C26C-1
+Removed Pin From Net: NetName=GND Pin=C26C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C26D-1
+Removed Pin From Net: NetName=GND Pin=C26D-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C27C-1
+Removed Pin From Net: NetName=GND Pin=C27C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C27D-1
+Removed Pin From Net: NetName=GND Pin=C27D-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C28C-1
+Removed Pin From Net: NetName=GND Pin=C28C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C28D-1
+Removed Pin From Net: NetName=GND Pin=C28D-2
+Removed Pin From Net: NetName=GND Pin=C29C-1
+Removed Pin From Net: NetName=GND Pin=C29D-1
+Removed Pin From Net: NetName=GND Pin=C30C-1
+Removed Pin From Net: NetName=GND Pin=C30D-1
+Removed Pin From Net: NetName=GND Pin=C31C-1
+Removed Pin From Net: NetName=GND Pin=C31D-1
+Removed Pin From Net: NetName=GND Pin=C32C-1
+Removed Pin From Net: NetName=GND Pin=C32D-1
+Removed Pin From Net: NetName=GND Pin=C33C-1
+Removed Pin From Net: NetName=GND Pin=C33D-1
+Removed Pin From Net: NetName=GND Pin=C35C-2
+Removed Pin From Net: NetName=GND Pin=C35D-2
+Removed Pin From Net: NetName=GND Pin=C36C-1
+Removed Pin From Net: NetName=GND Pin=C36D-1
+Removed Pin From Net: NetName=GND Pin=C37C-1
+Removed Pin From Net: NetName=GND Pin=C37D-1
+Removed Pin From Net: NetName=GND Pin=C39C-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=C39C-2
+Removed Pin From Net: NetName=GND Pin=C39D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=C39D-2
+Removed Pin From Net: NetName=GND Pin=C40C-1
+Removed Pin From Net: NetName=GND Pin=C40D-1
+Removed Pin From Net: NetName=GND Pin=C41C-1
+Removed Pin From Net: NetName=GND Pin=C41D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=C42C-1
+Removed Pin From Net: NetName=GND Pin=C42C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C42D-1
+Removed Pin From Net: NetName=GND Pin=C42D-2
+Removed Pin From Net: NetName=GND Pin=C43C-2
+Removed Pin From Net: NetName=GND Pin=C43D-2
+Removed Pin From Net: NetName=GND Pin=C44C-1
+Removed Pin From Net: NetName=GND Pin=C44D-1
+Removed Pin From Net: NetName=GND Pin=C45C-2
+Removed Pin From Net: NetName=GND Pin=C45D-2
+Removed Pin From Net: NetName=GND Pin=C46C-2
+Removed Pin From Net: NetName=GND Pin=C46D-2
+Removed Pin From Net: NetName=GND Pin=C47C-2
+Removed Pin From Net: NetName=GND Pin=C47D-2
+Removed Pin From Net: NetName=GND Pin=C48C-2
+Removed Pin From Net: NetName=GND Pin=C48D-2
+Removed Pin From Net: NetName=GND Pin=C50C-2
+Removed Pin From Net: NetName=GND Pin=C50D-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C51C-1
+Removed Pin From Net: NetName=GND Pin=C51C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=C51D-1
+Removed Pin From Net: NetName=GND Pin=C51D-2
+Removed Pin From Net: NetName=GND Pin=C52C-2
+Removed Pin From Net: NetName=GND Pin=C52D-2
+Removed Pin From Net: NetName=GND Pin=C53C-2
+Removed Pin From Net: NetName=GND Pin=C53D-2
+Removed Pin From Net: NetName=GND Pin=C54C-2
+Removed Pin From Net: NetName=GND Pin=C54D-2
+Removed Pin From Net: NetName=GND Pin=C55C-2
+Removed Pin From Net: NetName=GND Pin=C55D-2
+Removed Pin From Net: NetName=GND Pin=C56C-2
+Removed Pin From Net: NetName=GND Pin=C56D-2
+Removed Pin From Net: NetName=GND Pin=C57C-1
+Removed Pin From Net: NetName=GND Pin=C57D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=FB2C-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=FB2D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=FB7C-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=FB7D-1
+Removed Pin From Net: NetName=GND Pin=IC1C-1
+Removed Pin From Net: NetName=GND Pin=IC1C-2
+Removed Pin From Net: NetName=GND Pin=IC1C-3
+Removed Pin From Net: NetName=GND Pin=IC1C-4
+Removed Pin From Net: NetName=GND Pin=IC1D-1
+Removed Pin From Net: NetName=GND Pin=IC1D-2
+Removed Pin From Net: NetName=GND Pin=IC1D-3
+Removed Pin From Net: NetName=GND Pin=IC1D-4
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1C-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=GND Pin=MP1D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=R19C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=R19D-2
+Removed Pin From Net: NetName=GND Pin=R22C-1
+Removed Pin From Net: NetName=GND Pin=R22D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=R27C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=R27D-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=R28C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=R28D-2
+Removed Pin From Net: NetName=GND Pin=U7C-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=U7C-2
+Removed Pin From Net: NetName=VBUS Pin=U7C-3
+Removed Pin From Net: NetName=+3V3_SDR Pin=U7C-4
+Removed Pin From Net: NetName=GND Pin=U7D-1
+Removed Pin From Net: NetName=+3V3_SDR Pin=U7D-2
+Removed Pin From Net: NetName=VBUS Pin=U7D-3
+Removed Pin From Net: NetName=+3V3_SDR Pin=U7D-4
+Removed Pin From Net: NetName=GND Pin=U8C-3
+Removed Pin From Net: NetName=GND Pin=U8C-8
+Removed Pin From Net: NetName=GND Pin=U8C-39
+Removed Pin From Net: NetName=GND Pin=U8C-45
+Removed Pin From Net: NetName=GND Pin=U8C-49
+Removed Pin From Net: NetName=GND Pin=U8D-3
+Removed Pin From Net: NetName=GND Pin=U8D-8
+Removed Pin From Net: NetName=GND Pin=U8D-39
+Removed Pin From Net: NetName=GND Pin=U8D-45
+Removed Pin From Net: NetName=GND Pin=U8D-49
+Removed Pin From Net: NetName=+3V3_SDR Pin=U9C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=U9C-11
+Removed Pin From Net: NetName=GND Pin=U9C-16
+Removed Pin From Net: NetName=+3V3_SDR Pin=U9C-18
+Removed Pin From Net: NetName=GND Pin=U9C-25
+Removed Pin From Net: NetName=+3V3_SDR Pin=U9D-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=U9D-11
+Removed Pin From Net: NetName=GND Pin=U9D-16
+Removed Pin From Net: NetName=+3V3_SDR Pin=U9D-18
+Removed Pin From Net: NetName=GND Pin=U9D-25
+Removed Pin From Net: NetName=GND Pin=X1C-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=X1C-4
+Removed Pin From Net: NetName=GND Pin=X1D-2
+Removed Pin From Net: NetName=+3V3_SDR Pin=X1D-4
+Removed Member From Class: ClassName=RF Member=NetC23C_1
+Removed Member From Class: ClassName=RF Member=NetC23C_2
+Removed Member From Class: ClassName=RF Member=NetC23D_1
+Removed Member From Class: ClassName=RF Member=NetC23D_2
+Removed Member From Class: ClassName=RTL-SDR Member=Designator3
+Removed Member From Class: ClassName=RTL-SDR Member=Designator4
+Add Component: Footprint Not Found DIO_BAV99
+Add Component: Footprint Not Found U.FL jack
+Add Component: Footprint Not Found INDC1006X60N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC2518X200N
+Add Pin To Net: Unknown Pin: Pin D4B-1
+Add Pin To Net: Unknown Pin: Pin D4B-2
+Add Pin To Net: Unknown Pin: Pin D4B-3
+Add Pin To Net: Unknown Pin: Pin J9B-1
+Add Pin To Net: Unknown Pin: Pin J9B-2
+Add Pin To Net: Unknown Pin: Pin L2B-1
+Add Pin To Net: Unknown Pin: Pin L2B-2
+Add Pin To Net: Unknown Pin: Pin L3B-1
+Add Pin To Net: Unknown Pin: Pin L3B-2
+Add Pin To Net: Unknown Pin: Pin L4B-1
+Add Pin To Net: Unknown Pin: Pin L4B-2
+Add Pin To Net: Unknown Pin: Pin L5B-1
+Add Pin To Net: Unknown Pin: Pin L5B-2
+Add Class Member: Failed to add class member : Component D4B (D4) BAV99
+Add Class Member: Failed to add class member : Component J9B (J9) u.fl jack smd
+Add Class Member: Failed to add class member : Component L2B (L2) 8.2nH
+Add Class Member: Failed to add class member : Component L3B (L3) 150nH
+Add Class Member: Failed to add class member : Component L4B (L4) 150nH
+Add Class Member: Failed to add class member : Component L5B (L5) 4.7uH

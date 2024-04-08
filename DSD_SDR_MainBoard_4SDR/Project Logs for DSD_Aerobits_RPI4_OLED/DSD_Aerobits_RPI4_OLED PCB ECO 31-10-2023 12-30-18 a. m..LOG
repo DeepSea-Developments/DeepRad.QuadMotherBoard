@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=FB7 Old Footprint=INDC1608N New Footprint=WE-CBA_0402_L1W0.5H0.5_HC
+Change Component Comment : Designator=FB7 Old Comment=120R @ 100 MHz New Comment=10Ohm
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change component parameters: Designator = "FB7" ("FB7"); Footprint = "INDC1608N"; UniqueID = "\ADUZCKIO\LHALZOBG" ("\ADUZCKIO\LHALZOBG")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782423100?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782423100?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance Max"; Value = "0.03Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @100MHz"; Value = "10Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max"; Value = "17Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "782423100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"

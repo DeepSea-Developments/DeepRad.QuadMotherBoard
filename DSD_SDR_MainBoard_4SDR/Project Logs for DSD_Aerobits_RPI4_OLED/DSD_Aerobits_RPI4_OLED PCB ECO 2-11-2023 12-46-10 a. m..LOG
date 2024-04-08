@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3V3_SDRA Pin=R50A-2
+Removed Pin From Net: NetName=+3V3_SDRB Pin=R50B-2
+Removed Pin From Net: NetName=+3V3_SDRC Pin=R50C-2
+Removed Pin From Net: NetName=+3V3_SDRD Pin=R50D-2
+Removed Pin From Net: NetName=+3V3_SDRA Pin=R51A-2
+Removed Pin From Net: NetName=+3V3_SDRB Pin=R51B-2
+Removed Pin From Net: NetName=+3V3_SDRC Pin=R51C-2
+Removed Pin From Net: NetName=+3V3_SDRD Pin=R51D-2
+Added Pin To Net: NetName=VDD3A Pin=R50A-2
+Added Pin To Net: NetName=VDD3B Pin=R50B-2
+Added Pin To Net: NetName=VDD3C Pin=R50C-2
+Added Pin To Net: NetName=VDD3D Pin=R50D-2
+Added Pin To Net: NetName=VDD3A Pin=R51A-2
+Added Pin To Net: NetName=VDD3B Pin=R51B-2
+Added Pin To Net: NetName=VDD3C Pin=R51C-2
+Added Pin To Net: NetName=VDD3D Pin=R51D-2

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=QUECTEL_USB_N Pin=J6-3
+Removed Pin From Net: NetName=QUECTEL_USB_P Pin=J6-4
+Added Pin To Net: NetName=QUECTEL_USB_P Pin=J6-3
+Added Pin To Net: NetName=QUECTEL_USB_N Pin=J6-4
+Added Room: Name=Designator1
+Added Room: Name=Designator2

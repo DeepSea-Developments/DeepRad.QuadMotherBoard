@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=+3V3_TT-SU2 Pin=U2-40
+Added Member To Class: ClassName=Designator1 Member=Component R20A (R20) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R20B (R20) 100k
+Added Member To Class: ClassName=Designator2 Member=Component R21B (R21) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R25A (R25) 12k
+Added Member To Class: ClassName=Designator2 Member=Component R26B (R26) 1M

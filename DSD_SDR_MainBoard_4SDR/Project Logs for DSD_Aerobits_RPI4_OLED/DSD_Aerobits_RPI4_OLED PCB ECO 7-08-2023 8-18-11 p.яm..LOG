@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3V3 Pin=R25A-2
+Removed Pin From Net: NetName=+3V3 Pin=R25B-2
+Removed Pin From Net: NetName=+3V3 Pin=R25C-2
+Removed Pin From Net: NetName=+3V3 Pin=R25D-2
+Removed Pin From Net: NetName=+3V3 Pin=R26A-2
+Removed Pin From Net: NetName=+3V3 Pin=R26B-2
+Removed Pin From Net: NetName=+3V3 Pin=R26C-2
+Removed Pin From Net: NetName=+3V3 Pin=R26D-2
+Added Pin To Net: NetName=VDD3A Pin=R25A-2
+Added Pin To Net: NetName=VDD3A Pin=R25B-2
+Added Pin To Net: NetName=VDD3A Pin=R25C-2
+Added Pin To Net: NetName=VDD3A Pin=R25D-2
+Added Pin To Net: NetName=VDD3A Pin=R26A-2
+Added Pin To Net: NetName=VDD3A Pin=R26B-2
+Added Pin To Net: NetName=VDD3A Pin=R26C-2
+Added Pin To Net: NetName=VDD3A Pin=R26D-2

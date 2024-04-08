@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VBUS Pin=J1-1
+Removed Pin From Net: NetName=VBUS Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Added Class: Name=Designator
+Added Room: Name=Designator

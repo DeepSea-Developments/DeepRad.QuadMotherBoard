@@ -1,0 +1,208 @@
+Removed Member From Class: ClassName=Designator1 Member=C1B
+Removed Member From Class: ClassName=Designator1 Member=C2B
+Removed Member From Class: ClassName=Designator1 Member=C3B
+Removed Member From Class: ClassName=Designator1 Member=C4B
+Removed Member From Class: ClassName=Designator1 Member=C5B
+Removed Member From Class: ClassName=Designator1 Member=C6B
+Removed Member From Class: ClassName=Designator1 Member=C7B
+Removed Member From Class: ClassName=Designator1 Member=C8B
+Removed Member From Class: ClassName=Designator1 Member=C9B
+Removed Member From Class: ClassName=Designator1 Member=C10B
+Removed Member From Class: ClassName=Designator1 Member=C11B
+Removed Member From Class: ClassName=Designator1 Member=C12B
+Removed Member From Class: ClassName=Designator1 Member=C13B
+Removed Member From Class: ClassName=Designator1 Member=C14B
+Removed Member From Class: ClassName=Designator1 Member=C15B
+Removed Member From Class: ClassName=Designator1 Member=C16B
+Removed Member From Class: ClassName=Designator1 Member=C17B
+Removed Member From Class: ClassName=Designator1 Member=C18B
+Removed Member From Class: ClassName=Designator1 Member=C19B
+Removed Member From Class: ClassName=Designator1 Member=C20B
+Removed Member From Class: ClassName=Designator1 Member=C21B
+Removed Member From Class: ClassName=Designator1 Member=C22B
+Removed Member From Class: ClassName=Designator1 Member=C23B
+Removed Member From Class: ClassName=Designator1 Member=C24B
+Removed Member From Class: ClassName=Designator1 Member=C25B
+Removed Member From Class: ClassName=Designator1 Member=C26B
+Removed Member From Class: ClassName=Designator1 Member=C27B
+Removed Member From Class: ClassName=Designator1 Member=C28B
+Removed Member From Class: ClassName=Designator1 Member=C29B
+Removed Member From Class: ClassName=Designator1 Member=C30B
+Removed Member From Class: ClassName=Designator1 Member=C31B
+Removed Member From Class: ClassName=Designator1 Member=C32B
+Removed Member From Class: ClassName=Designator1 Member=C33B
+Removed Member From Class: ClassName=Designator1 Member=C34B
+Removed Member From Class: ClassName=Designator1 Member=C35B
+Removed Member From Class: ClassName=Designator1 Member=D1B
+Removed Member From Class: ClassName=Designator1 Member=FB1B
+Removed Member From Class: ClassName=Designator1 Member=FB2B
+Removed Member From Class: ClassName=Designator1 Member=FB3B
+Removed Member From Class: ClassName=Designator1 Member=FB4B
+Removed Member From Class: ClassName=Designator1 Member=FB5B
+Removed Member From Class: ClassName=Designator1 Member=FB6B
+Removed Member From Class: ClassName=Designator1 Member=IC1B
+Removed Member From Class: ClassName=Designator1 Member=J1B
+Removed Member From Class: ClassName=Designator1 Member=L1B
+Removed Member From Class: ClassName=Designator1 Member=L2B
+Removed Member From Class: ClassName=Designator1 Member=L3B
+Removed Member From Class: ClassName=Designator1 Member=L4B
+Removed Member From Class: ClassName=Designator1 Member=MP1B
+Removed Member From Class: ClassName=Designator1 Member=R1B
+Removed Member From Class: ClassName=Designator1 Member=R2B
+Removed Member From Class: ClassName=Designator1 Member=R3B
+Removed Member From Class: ClassName=Designator1 Member=R4B
+Removed Member From Class: ClassName=Designator1 Member=R5B
+Removed Member From Class: ClassName=Designator1 Member=R6B
+Removed Member From Class: ClassName=Designator1 Member=R7B
+Removed Member From Class: ClassName=Designator1 Member=R8B
+Removed Member From Class: ClassName=Designator1 Member=R9B
+Removed Member From Class: ClassName=Designator1 Member=R10B
+Removed Member From Class: ClassName=Designator1 Member=R11B
+Removed Member From Class: ClassName=Designator1 Member=R12B
+Removed Member From Class: ClassName=Designator1 Member=U1B
+Removed Member From Class: ClassName=Designator1 Member=U2B
+Removed Member From Class: ClassName=Designator1 Member=U3B
+Removed Member From Class: ClassName=Designator1 Member=X1B
+Add Component: Footprint Not Found DIO_BAV99
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Add Component: Footprint Not Found WE-CBA_0402_L1W0.5H0.5_HC
+Added Component: Designator=J1A(U.FL jack)
+Add component (AddParameter): Name = "Body Style"; Value = "Straight Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coaxial Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/22652/689597-22652949.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/22652/689597-22652949.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/15172/getdatasheetpartid-168895-15172647.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/15172/getdatasheetpartid-168895-15172647.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/36526/2036357-36526267.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/36526/2036357-36526267.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/5175/ca-1jb-38743-5175829.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/5175/ca-1jb-38743-5175829.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/3132/ca-1jb-3132240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/3132/ca-1jb-3132240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/14157/04614608-14157589.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/14157/04614608-14157589.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643532.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643532.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/14565/70142555-14565783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/14565/70142555-14565783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643531.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/643/ca-1jb-643531.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "AMC Coaxial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Max"; Value = "6GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol / Amphenol RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "A-1JB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.65, 10=0.596, 50=0.535, 100=0.51, 1000=0.365, 10000=0.351 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "19506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "523-A-1JB"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found INDC1006X60N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC1608X100N
+Add Component: Footprint Not Found INDC2518X200N
+Add Component: Footprint Not Found 36903205S
+Add Pin To Net: Unknown Pin: Pin D1A-1
+Add Pin To Net: Unknown Pin: Pin D1A-2
+Add Pin To Net: Unknown Pin: Pin D1A-3
+Add Pin To Net: Unknown Pin: Pin FB1A-1
+Add Pin To Net: Unknown Pin: Pin FB1A-2
+Add Pin To Net: Unknown Pin: Pin FB2A-1
+Add Pin To Net: Unknown Pin: Pin FB2A-2
+Add Pin To Net: Unknown Pin: Pin FB3A-1
+Add Pin To Net: Unknown Pin: Pin FB3A-2
+Add Pin To Net: Unknown Pin: Pin FB4A-1
+Add Pin To Net: Unknown Pin: Pin FB4A-2
+Add Pin To Net: Unknown Pin: Pin FB5A-1
+Add Pin To Net: Unknown Pin: Pin FB5A-2
+Add Pin To Net: Unknown Pin: Pin FB6A-1
+Add Pin To Net: Unknown Pin: Pin FB6A-2
+Added Pin To Net: NetName=NetC1A_1 Pin=J1A-1
+Added Pin To Net: NetName=GND Pin=J1A-2
+Added Pin To Net: NetName=GND Pin=J1A-2
+Added Pin To Net: NetName=GND Pin=J1A-2
+Add Pin To Net: Unknown Pin: Pin L1A-1
+Add Pin To Net: Unknown Pin: Pin L1A-2
+Add Pin To Net: Unknown Pin: Pin L2A-1
+Add Pin To Net: Unknown Pin: Pin L2A-2
+Add Pin To Net: Unknown Pin: Pin L3A-1
+Add Pin To Net: Unknown Pin: Pin L3A-2
+Add Pin To Net: Unknown Pin: Pin L4A-1
+Add Pin To Net: Unknown Pin: Pin L4A-2
+Add Pin To Net: Unknown Pin: Pin MP1A-1
+Added Member To Class: ClassName=Designator1 Member=Component C1A (C1) 330pF
+Added Member To Class: ClassName=Designator1 Member=Component C2A (C2) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C3A (C3) 22µF
+Added Member To Class: ClassName=Designator1 Member=Component C4A (C4) 100µF
+Added Member To Class: ClassName=Designator1 Member=Component C5A (C5) 100µF
+Added Member To Class: ClassName=Designator1 Member=Component C6A (C6) 100µF
+Added Member To Class: ClassName=Designator1 Member=Component C7A (C7) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C8A (C8) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C9A (C9) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C10A (C10) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C11A (C11) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C12A (C12) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C13A (C13) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C14A (C14) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C15A (C15) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C16A (C16) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C17A (C17) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C18A (C18) 0.33µF
+Added Member To Class: ClassName=Designator1 Member=Component C19A (C19) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C20A (C20) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C21A (C21) 6800pF
+Added Member To Class: ClassName=Designator1 Member=Component C22A (C22) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C23A (C23) 1µF
+Added Member To Class: ClassName=Designator1 Member=Component C24A (C24) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C25A (C25) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C26A (C26) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C27A (C27) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C28A (C28) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C29A (C29) 10µF
+Added Member To Class: ClassName=Designator1 Member=Component C30A (C30) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C31A (C31) 0.10µF
+Added Member To Class: ClassName=Designator1 Member=Component C32A (C32) 220µF
+Added Member To Class: ClassName=Designator1 Member=Component C33A (C33) 10000pF
+Added Member To Class: ClassName=Designator1 Member=Component C34A (C34) 27pF
+Added Member To Class: ClassName=Designator1 Member=Component C35A (C35) 27pF
+Add Class Member: Failed to add class member : Component D1A (D1) BAV99
+Add Class Member: Failed to add class member : Component FB1A (FB1) 10Ohm
+Add Class Member: Failed to add class member : Component FB2A (FB2) 10Ohm
+Add Class Member: Failed to add class member : Component FB3A (FB3) 10Ohm
+Add Class Member: Failed to add class member : Component FB4A (FB4) 10Ohm
+Add Class Member: Failed to add class member : Component FB5A (FB5) 10Ohm
+Add Class Member: Failed to add class member : Component FB6A (FB6) 10Ohm
+Added Member To Class: ClassName=Designator1 Member=Component IC1A (IC1) AT24C02N-10SU-2.7
+Added Member To Class: ClassName=Designator1 Member=Component J1A (J1) u.fl jack smd
+Add Class Member: Failed to add class member : Component L1A (L1) 8.2nH
+Add Class Member: Failed to add class member : Component L2A (L2) 150nH
+Add Class Member: Failed to add class member : Component L3A (L3) 150nH
+Add Class Member: Failed to add class member : Component L4A (L4) 4.7uH
+Add Class Member: Failed to add class member : Component MP1A (MP1) 36903205S
+Added Member To Class: ClassName=Designator1 Member=Component R1A (R1) 5.6
+Added Member To Class: ClassName=Designator1 Member=Component R2A (R2) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R3A (R3) 1.8k
+Added Member To Class: ClassName=Designator1 Member=Component R4A (R4) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R5A (R5) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R6A (R6) 100k
+Added Member To Class: ClassName=Designator1 Member=Component R7A (R7) 1k
+Added Member To Class: ClassName=Designator1 Member=Component R8A (R8) 10k
+Added Member To Class: ClassName=Designator1 Member=Component R9A (R9) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R10A (R10) 4.7k
+Added Member To Class: ClassName=Designator1 Member=Component R11A (R11) 220
+Added Member To Class: ClassName=Designator1 Member=Component R12A (R12) 220
+Added Member To Class: ClassName=Designator1 Member=Component U1A (U1) LM1117MP-3V3
+Added Member To Class: ClassName=Designator1 Member=Component U2A (U2) RTL2832U
+Added Member To Class: ClassName=Designator1 Member=Component U3A (U3) R820T
+Added Member To Class: ClassName=Designator1 Member=Component X1A (X1) WTL28.8-OSC28.8
+Added Member To Class: ClassName=RF Member=Wire NetC1A_1
+Added Member To Class: ClassName=RF Member=Wire NetC1A_2
+Added Member To Class: ClassName=RF Member=Wire NetC1B_1
+Added Member To Class: ClassName=RF Member=Wire NetC1B_2
+Added Room: Name=Designator1
+Added Room: Name=Designator2
